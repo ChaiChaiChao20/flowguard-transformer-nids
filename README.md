@@ -72,7 +72,8 @@ This is a research and teaching prototype. It does not establish production read
 ## Presentation materials
 
 - docs/FlowGuard_Detailed_Project_Presentation_v2.pptx
-- docs/PRESENTATION_GUIDE_3_PERSON.docx
+- docs/FlowGuard_Three_Person_Presentation_Manual.docx and docs/FlowGuard_Three_Person_Presentation_Manual.md
 - docs/PROBLEM_STATEMENT_AND_METHODOLOGY.docx
 
 The names and institution fields in the presentation/manual are left blank for the team to personalize.
+
