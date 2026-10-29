@@ -1,0 +1,7 @@
+{
+  "flows": 12,
+  "elapsed_seconds": 0.206871600006707,
+  "flows_per_second": 58.00699564179398,
+  "mode": "pcap replay",
+  "output": "results\\pcap_replay.jsonl"
+}

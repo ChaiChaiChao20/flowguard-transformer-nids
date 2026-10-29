@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Transformer-Based Network Intrusion Detection System",
+    "subtitle": "Intelligent Multi-Class Cyber Attack Classification",
+    "notes": "Transformer-Based Network Intrusion Detection System for Intelligent Multi-Class Cyber Attack Classification; add student and institutional details."
+  },
+  {
+    "title": "Scope of the completed implementation",
+    "body": [
+      "Seven-class flow classifier and controlled baselines",
+      "Chronological attention and endpoint graph context",
+      "TabTransformer, flow-grid ViT and BERT-style encoder",
+      "SHAP/LIME, FedAvg and supervised online learning",
+      "Passive PCAP pipeline; live interface path provided"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Network inputs",
+    "body": [
+      "24 flow statistics: duration, sizes, rates, intervals and flags",
+      "Context: source/destination ports and protocol",
+      "IP private-status indicators and stable hash buckets",
+      "Raw IPs form host windows and shared-endpoint graphs",
+      "Connection state is a FIN/RST-derived proxy"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Data and evaluation",
+    "body": [
+      "Six pinned CIC-IDS2017 CSVs for the seven-class benchmark",
+      "34 unique infiltration samples; only five feature test rows",
+      "Context sample: 15,574 flows with timestamps and endpoints",
+      "Chronological activity blocks and disjoint eight-flow windows",
+      "AM/PM correction assumption is recorded in the audit"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Attention architecture",
+    "body": [
+      "Feature encoder: value tokens, feature identities and CLS",
+      "Temporal encoder: chronological flows and a causal mask",
+      "TabTransformer: contextual protocol/state categories",
+      "Flow-grid ViT: numeric patches with learned positions",
+      "BERT-style means scratch-trained bidirectional feature attention"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Training and comparison",
+    "body": [
+      "Logistic Regression, Random Forest, MLP, CNN, LSTM, GRU",
+      "Feature Transformer on identical seven-class split rows",
+      "Training-only medians, signed log transform and scaling",
+      "Validation selects checkpoints; no test-driven tuning",
+      "Fixed configurations and one seed limit broad conclusions"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Seven-class benchmark",
+    "subtitle": "Highest observed macro-F1: RandomForest (0.9588)",
+    "chart": {
+      "categories": [
+        "LogisticRegression",
+        "RandomForest",
+        "MLP",
+        "CNN",
+        "LSTM",
+        "GRU",
+        "Transformer"
+      ],
+      "values": [
+        0.8767111831003142,
+        0.9588124958321202,
+        0.9348242916841152,
+        0.9538746358665836,
+        0.8945616897098372,
+        0.9222817596534136,
+        0.9408672212486764
+      ]
+    },
+    "notes": "results/extended/model_comparison.csv; sampled random split. Five infiltration test examples. No production claim."
+  },
+  {
+    "title": "Chronological Temporal Transformer",
+    "body": [
+      "Test endpoints: 196 nonoverlapping eight-flow windows",
+      "Accuracy 93.88%; seven-label macro-F1 0.8003",
+      "No future flows enter the causal window",
+      "No held-out infiltration window; six benign endpoints",
+      "Different output rows from the individual-flow benchmark"
+    ],
+    "notes": "Timestamp AM/PM heuristic and sampled-flow gaps constrain chronology; hosts/campaigns may cross blocks."
+  },
+  {
+    "title": "Graph and alternative models",
+    "body": [
+      "GCN connects flows sharing an endpoint in one batch",
+      "Graph construction does not cross train/test boundaries",
+      "TabTransformer contextualizes categorical embeddings",
+      "ViT processes a numerical flow grid, not packet images",
+      "Saved models and measured predictions are in Extended lab"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Federated and online extensions",
+    "body": [
+      "FedAvg: three local simulated clients, three fixed rounds",
+      "Client updates weighted by training sample count",
+      "Online stream: predict, reveal true labels, then update",
+      "Page-Hinkley monitors increases in observed chunk loss",
+      "No distributed privacy or unlabeled adaptation claim"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Explainable predictions",
+    "body": [
+      "Actual SHAP KernelExplainer and LIME Tabular integrations",
+      "SHAP reports its reference probability and additive sum",
+      "LIME example surrogate R-squared: 0.144 \u2014 weak fidelity",
+      "Feature sensitivity remains available for individual flows",
+      "Explanations describe model behavior, not causal attack evidence"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Passive capture and replay",
+    "body": [
+      "IPv4 TCP/UDP packets \u2192 bounded bidirectional flows",
+      "Completed flows \u2192 seven-class predictions \u2192 JSONL events",
+      "Tested replay: 12 synthetic flows; no attack ground truth",
+      "Physical capture requires Npcap; not validated here",
+      "Custom extraction differs from CICFlowMeter semantics"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Open and demonstrate",
+    "body": [
+      "Double-click OPEN_PROJECT.cmd and keep the terminal open",
+      "Select Extended seven classes; classify included samples",
+      "Inspect comparisons and per-class confusion matrices",
+      "Use Extended lab for temporal models and SHAP/LIME",
+      "Replay the included PCAP with scripts/monitor.py"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "Measured findings and boundaries",
+    "body": [
+      "Seven-class Transformer accuracy: 97.02%",
+      "Random Forest macro-F1: 0.9588; report the observed winner",
+      "Rare classes, topology and historical sampling limit reliability",
+      "Anomaly scoring is weak and does not prove zero-day detection",
+      "Next validation: live driver, extraction parity and external data"
+    ],
+    "notes": ""
+  },
+  {
+    "title": "References and contribution",
+    "body": [
+      "Reproducible implementation, trained artifacts and local demo",
+      "CIC-IDS2017: Sharafaldin, Lashkari and Ghorbani",
+      "Attention, tabular, vision, graph and FedAvg methods acknowledged",
+      "SHAP/LIME citations and complete evidence in the report",
+      "Student identity and submission format need personalization"
+    ],
+    "notes": "Full bibliography in PROJECT_REPORT.md; original architecture papers and official Scapy/SHAP docs are linked."
+  }
+]

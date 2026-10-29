@@ -1,0 +1,928 @@
+{
+  "BERTStyleEncoder": {
+    "accuracy": 0.9719228587634714,
+    "macro_f1": 0.9110874680942757,
+    "benign_false_positive_rate": 0.001557632398753894,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9979242345614946,
+        "recall": 0.9984423676012462,
+        "f1-score": 0.9981832338437581,
+        "support": 1926.0
+      },
+      "DoS": {
+        "precision": 0.9800664451827242,
+        "recall": 0.7845744680851063,
+        "f1-score": 0.8714918759231906,
+        "support": 376.0
+      },
+      "DDoS": {
+        "precision": 0.9973262032085561,
+        "recall": 0.9946666666666667,
+        "f1-score": 0.9959946595460614,
+        "support": 375.0
+      },
+      "Botnet": {
+        "precision": 0.9896373056994818,
+        "recall": 1.0,
+        "f1-score": 0.9947916666666666,
+        "support": 191.0
+      },
+      "Port Scan": {
+        "precision": 0.7627118644067796,
+        "recall": 0.9818181818181818,
+        "f1-score": 0.8585055643879174,
+        "support": 275.0
+      },
+      "Brute Force": {
+        "precision": 0.9973118279569892,
+        "recall": 0.9867021276595744,
+        "f1-score": 0.9919786096256684,
+        "support": 376.0
+      },
+      "Infiltration": {
+        "precision": 0.8,
+        "recall": 0.5714285714285714,
+        "f1-score": 0.6666666666666666,
+        "support": 7.0
+      },
+      "accuracy": 0.9719228587634714,
+      "macro avg": {
+        "precision": 0.9321396972880036,
+        "recall": 0.9025189118941924,
+        "f1-score": 0.9110874680942757,
+        "support": 3526.0
+      },
+      "weighted avg": {
+        "precision": 0.9767045152494738,
+        "recall": 0.9719228587634714,
+        "f1-score": 0.9720433106880033,
+        "support": 3526.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1923,
+        0,
+        0,
+        2,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        295,
+        1,
+        0,
+        80,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        373,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        191,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        3,
+        0,
+        0,
+        270,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        4,
+        371,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    ],
+    "test_rows": 3526,
+    "training_seconds": 58.48070229997393,
+    "inference_ms_per_output": 0.10158752127018585,
+    "best_epoch": 9,
+    "evaluation_unit": "individual flow",
+    "timing_scope": "model and graph construction where applicable; excludes preprocessing and capture"
+  },
+  "TabTransformer": {
+    "accuracy": 0.9509359047078842,
+    "macro_f1": 0.8646548618852464,
+    "benign_false_positive_rate": 0.016095534787123573,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9973684210526316,
+        "recall": 0.9839044652128764,
+        "f1-score": 0.9905906952430737,
+        "support": 1926.0
+      },
+      "DoS": {
+        "precision": 0.9660377358490566,
+        "recall": 0.6808510638297872,
+        "f1-score": 0.7987519500780031,
+        "support": 376.0
+      },
+      "DDoS": {
+        "precision": 0.9097560975609756,
+        "recall": 0.9946666666666667,
+        "f1-score": 0.9503184713375796,
+        "support": 375.0
+      },
+      "Botnet": {
+        "precision": 0.9405940594059405,
+        "recall": 0.9947643979057592,
+        "f1-score": 0.9669211195928753,
+        "support": 191.0
+      },
+      "Port Scan": {
+        "precision": 0.7368421052631579,
+        "recall": 0.9672727272727273,
+        "f1-score": 0.8364779874213837,
+        "support": 275.0
+      },
+      "Brute Force": {
+        "precision": 0.9710526315789474,
+        "recall": 0.9813829787234043,
+        "f1-score": 0.9761904761904762,
+        "support": 376.0
+      },
+      "Infiltration": {
+        "precision": 0.5,
+        "recall": 0.5714285714285714,
+        "f1-score": 0.5333333333333333,
+        "support": 7.0
+      },
+      "accuracy": 0.9509359047078842,
+      "macro avg": {
+        "precision": 0.8602358643872442,
+        "recall": 0.8820386958628276,
+        "f1-score": 0.8646548618852464,
+        "support": 3526.0
+      },
+      "weighted avg": {
+        "precision": 0.9575215933010682,
+        "recall": 0.9509359047078842,
+        "f1-score": 0.9501055507042409,
+        "support": 3526.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1895,
+        3,
+        0,
+        12,
+        2,
+        10,
+        4
+      ],
+      [
+        0,
+        256,
+        32,
+        0,
+        88,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        373,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        190,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        3,
+        4,
+        0,
+        266,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        5,
+        369,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    ],
+    "test_rows": 3526,
+    "training_seconds": 15.820428100065328,
+    "inference_ms_per_output": 0.025324673837994267,
+    "best_epoch": 10,
+    "evaluation_unit": "individual flow",
+    "timing_scope": "model and graph construction where applicable; excludes preprocessing and capture"
+  },
+  "FlowViT": {
+    "accuracy": 0.9526375496313103,
+    "macro_f1": 0.8891648468006622,
+    "benign_false_positive_rate": 0.006749740394600207,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9958355023425299,
+        "recall": 0.9932502596053998,
+        "f1-score": 0.9945412009357941,
+        "support": 1926.0
+      },
+      "DoS": {
+        "precision": 0.9795081967213115,
+        "recall": 0.6356382978723404,
+        "f1-score": 0.7709677419354839,
+        "support": 376.0
+      },
+      "DDoS": {
+        "precision": 0.9842105263157894,
+        "recall": 0.9973333333333333,
+        "f1-score": 0.990728476821192,
+        "support": 375.0
+      },
+      "Botnet": {
+        "precision": 0.9547738693467337,
+        "recall": 0.9947643979057592,
+        "f1-score": 0.9743589743589743,
+        "support": 191.0
+      },
+      "Port Scan": {
+        "precision": 0.6792929292929293,
+        "recall": 0.9781818181818182,
+        "f1-score": 0.8017883755588674,
+        "support": 275.0
+      },
+      "Brute Force": {
+        "precision": 0.9736147757255936,
+        "recall": 0.9813829787234043,
+        "f1-score": 0.9774834437086093,
+        "support": 376.0
+      },
+      "Infiltration": {
+        "precision": 0.7142857142857143,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.7142857142857143,
+        "support": 7.0
+      },
+      "accuracy": 0.9526375496313103,
+      "macro avg": {
+        "precision": 0.897360216290086,
+        "recall": 0.8992623999868243,
+        "f1-score": 0.8891648468006622,
+        "support": 3526.0
+      },
+      "weighted avg": {
+        "precision": 0.9630175062736676,
+        "recall": 0.9526375496313103,
+        "f1-score": 0.9517928374911284,
+        "support": 3526.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1913,
+        0,
+        0,
+        9,
+        1,
+        1,
+        2
+      ],
+      [
+        3,
+        239,
+        5,
+        0,
+        121,
+        8,
+        0
+      ],
+      [
+        0,
+        1,
+        374,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        190,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        3,
+        0,
+        0,
+        269,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        5,
+        369,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ],
+    "test_rows": 3526,
+    "training_seconds": 27.094824599917047,
+    "inference_ms_per_output": 0.04561296088374851,
+    "best_epoch": 8,
+    "evaluation_unit": "individual flow",
+    "timing_scope": "model and graph construction where applicable; excludes preprocessing and capture"
+  },
+  "FlowGraphNetwork": {
+    "accuracy": 0.8916619398752127,
+    "macro_f1": 0.6781509498138839,
+    "benign_false_positive_rate": 0.023883696780893044,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9920844327176781,
+        "recall": 0.9761163032191069,
+        "f1-score": 0.98403559277676,
+        "support": 1926.0
+      },
+      "DoS": {
+        "precision": 0.9491525423728814,
+        "recall": 0.14893617021276595,
+        "f1-score": 0.2574712643678161,
+        "support": 376.0
+      },
+      "DDoS": {
+        "precision": 0.7911392405063291,
+        "recall": 1.0,
+        "f1-score": 0.8833922261484098,
+        "support": 375.0
+      },
+      "Botnet": {
+        "precision": 0.926829268292683,
+        "recall": 0.9947643979057592,
+        "f1-score": 0.9595959595959596,
+        "support": 191.0
+      },
+      "Port Scan": {
+        "precision": 0.6954314720812182,
+        "recall": 0.9963636363636363,
+        "f1-score": 0.8191330343796711,
+        "support": 275.0
+      },
+      "Brute Force": {
+        "precision": 0.7394789579158316,
+        "recall": 0.9813829787234043,
+        "f1-score": 0.8434285714285714,
+        "support": 376.0
+      },
+      "Infiltration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+      },
+      "accuracy": 0.8916619398752127,
+      "macro avg": {
+        "precision": 0.727730844840946,
+        "recall": 0.7282233552035248,
+        "f1-score": 0.6781509498138839,
+        "support": 3526.0
+      },
+      "weighted avg": {
+        "precision": 0.9105573799713317,
+        "recall": 0.8916619398752127,
+        "f1-score": 0.8647213237352164,
+        "support": 3526.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1880,
+        3,
+        15,
+        15,
+        5,
+        8,
+        0
+      ],
+      [
+        0,
+        56,
+        84,
+        0,
+        115,
+        121,
+        0
+      ],
+      [
+        0,
+        0,
+        375,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        190,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        274,
+        1,
+        0
+      ],
+      [
+        7,
+        0,
+        0,
+        0,
+        0,
+        369,
+        0
+      ],
+      [
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "test_rows": 3526,
+    "training_seconds": 7.008133800001815,
+    "inference_ms_per_output": 0.04103720931402845,
+    "best_epoch": 10,
+    "evaluation_unit": "individual flow",
+    "timing_scope": "model and graph construction where applicable; excludes preprocessing and capture"
+  },
+  "TemporalTransformer": {
+    "accuracy": 0.9387755102040817,
+    "macro_f1": 0.8003187899122858,
+    "benign_false_positive_rate": 0.16666666666666666,
+    "classification_report": {
+      "Benign": {
+        "precision": 1.0,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.9090909090909091,
+        "support": 6.0
+      },
+      "DoS": {
+        "precision": 1.0,
+        "recall": 0.7608695652173914,
+        "f1-score": 0.8641975308641975,
+        "support": 46.0
+      },
+      "DDoS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 46.0
+      },
+      "Botnet": {
+        "precision": 0.9523809523809523,
+        "recall": 1.0,
+        "f1-score": 0.975609756097561,
+        "support": 20.0
+      },
+      "Port Scan": {
+        "precision": 0.7441860465116279,
+        "recall": 1.0,
+        "f1-score": 0.8533333333333334,
+        "support": 32.0
+      },
+      "Brute Force": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 46.0
+      },
+      "Infiltration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+      },
+      "accuracy": 0.9387755102040817,
+      "macro avg": {
+        "precision": 0.8137952855560828,
+        "recall": 0.7991718426501035,
+        "f1-score": 0.8003187899122858,
+        "support": 196.0
+      },
+      "weighted avg": {
+        "precision": 0.9533753700815875,
+        "recall": 0.9387755102040817,
+        "f1-score": 0.9389106819536551,
+        "support": 196.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        5,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        35,
+        0,
+        0,
+        11,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        46,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        20,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        32,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        46,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "test_rows": 196,
+    "training_seconds": 2.6117307000095025,
+    "inference_ms_per_output": 0.04946479599979915,
+    "best_epoch": 6,
+    "evaluation_unit": "last flow of nonoverlapping 8-flow window",
+    "timing_scope": "model and graph construction where applicable; excludes preprocessing and capture"
+  },
+  "FederatedFedAvg": {
+    "accuracy": 0.9563244469653999,
+    "macro_f1": 0.7983695892392312,
+    "benign_false_positive_rate": 0.017133956386292833,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9957916885849553,
+        "recall": 0.9828660436137072,
+        "f1-score": 0.9892866475045727,
+        "support": 1926.0
+      },
+      "DoS": {
+        "precision": 0.9727891156462585,
+        "recall": 0.7606382978723404,
+        "f1-score": 0.8537313432835821,
+        "support": 376.0
+      },
+      "DDoS": {
+        "precision": 0.9467005076142132,
+        "recall": 0.9946666666666667,
+        "f1-score": 0.9700910273081924,
+        "support": 375.0
+      },
+      "Botnet": {
+        "precision": 0.9595959595959596,
+        "recall": 0.9947643979057592,
+        "f1-score": 0.9768637532133676,
+        "support": 191.0
+      },
+      "Port Scan": {
+        "precision": 0.7134986225895317,
+        "recall": 0.9418181818181818,
+        "f1-score": 0.8119122257053292,
+        "support": 275.0
+      },
+      "Brute Force": {
+        "precision": 0.9867021276595744,
+        "recall": 0.9867021276595744,
+        "f1-score": 0.9867021276595744,
+        "support": 376.0
+      },
+      "Infiltration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 7.0
+      },
+      "accuracy": 0.9563244469653999,
+      "macro avg": {
+        "precision": 0.796439717384356,
+        "recall": 0.808779387933747,
+        "f1-score": 0.7983695892392312,
+        "support": 3526.0
+      },
+      "weighted avg": {
+        "precision": 0.9611943107055859,
+        "recall": 0.9563244469653999,
+        "f1-score": 0.9560436875614647,
+        "support": 3526.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1893,
+        1,
+        9,
+        7,
+        12,
+        4,
+        0
+      ],
+      [
+        0,
+        286,
+        2,
+        0,
+        88,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        373,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        190,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        4,
+        10,
+        0,
+        259,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        4,
+        371,
+        0
+      ],
+      [
+        6,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    ],
+    "test_rows": 3526,
+    "training_seconds": 29.96956920006778,
+    "simulation_clients": 3,
+    "rounds": 3,
+    "limitation": "Local IID client simulation; no privacy/security or network deployment claim"
+  },
+  "OnlineLearning": {
+    "accuracy": 0.9716392512762337,
+    "macro_f1": 0.9189424759117214,
+    "benign_false_positive_rate": 0.0010384215991692627,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9974079834110938,
+        "recall": 0.9989615784008308,
+        "f1-score": 0.9981841763942931,
+        "support": 1926.0
+      },
+      "DoS": {
+        "precision": 0.98,
+        "recall": 0.7819148936170213,
+        "f1-score": 0.8698224852071006,
+        "support": 376.0
+      },
+      "DDoS": {
+        "precision": 0.9946666666666667,
+        "recall": 0.9946666666666667,
+        "f1-score": 0.9946666666666667,
+        "support": 375.0
+      },
+      "Botnet": {
+        "precision": 0.9895833333333334,
+        "recall": 0.9947643979057592,
+        "f1-score": 0.9921671018276762,
+        "support": 191.0
+      },
+      "Port Scan": {
+        "precision": 0.7627118644067796,
+        "recall": 0.9818181818181818,
+        "f1-score": 0.8585055643879174,
+        "support": 275.0
+      },
+      "Brute Force": {
+        "precision": 0.9973118279569892,
+        "recall": 0.9867021276595744,
+        "f1-score": 0.9919786096256684,
+        "support": 376.0
+      },
+      "Infiltration": {
+        "precision": 1.0,
+        "recall": 0.5714285714285714,
+        "f1-score": 0.7272727272727273,
+        "support": 7.0
+      },
+      "accuracy": 0.9716392512762337,
+      "macro avg": {
+        "precision": 0.960240239396409,
+        "recall": 0.901465202499515,
+        "f1-score": 0.9189424759117214,
+        "support": 3526.0
+      },
+      "weighted avg": {
+        "precision": 0.9765267166024179,
+        "recall": 0.9716392512762337,
+        "f1-score": 0.971702720118889,
+        "support": 3526.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        1924,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        294,
+        2,
+        0,
+        80,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        373,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        190,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        3,
+        0,
+        0,
+        270,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        4,
+        371,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    ],
+    "test_rows": 3526,
+    "adaptation_protocol": "Predict then reveal true validation labels, update at fixed lr=.0001; evaluate frozen final model on test"
+  }
+}

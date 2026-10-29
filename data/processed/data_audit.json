@@ -1,0 +1,113 @@
+{
+  "seed": 42,
+  "original_rows": 1395948,
+  "original_labels": {
+    "BENIGN": 854353,
+    "DDoS": 128027,
+    "PortScan": 158930,
+    "Bot": 1966,
+    "DoS slowloris": 5796,
+    "DoS Slowhttptest": 5499,
+    "DoS Hulk": 231073,
+    "DoS GoldenEye": 10293,
+    "Heartbleed": 11
+  },
+  "excluded_unsupported_rows": 11,
+  "duplicate_feature_rows": 409054,
+  "conflicting_feature_hashes_removed": 798,
+  "unique_supported_counts_before_conflict_removal": {
+    "Benign": 663608,
+    "DDoS": 127995,
+    "Port Scan": 1920,
+    "Botnet": 1229,
+    "DoS": 192131
+  },
+  "missing_or_nonfinite_feature_cells": 3648,
+  "infinite_feature_cells": 2593,
+  "sample_counts": {
+    "Benign": 4998,
+    "DoS": 3499,
+    "DDoS": 3500,
+    "Botnet": 1229,
+    "Port Scan": 1919
+  },
+  "splits": {
+    "train": {
+      "Benign": 3499,
+      "DoS": 2449,
+      "DDoS": 2450,
+      "Botnet": 860,
+      "Port Scan": 1343
+    },
+    "validation": {
+      "Benign": 749,
+      "DoS": 525,
+      "DDoS": 525,
+      "Botnet": 185,
+      "Port Scan": 288
+    },
+    "test": {
+      "Benign": 750,
+      "DoS": 525,
+      "DDoS": 525,
+      "Botnet": 184,
+      "Port Scan": 288
+    }
+  },
+  "features": [
+    "Flow Duration",
+    "Total Fwd Packets",
+    "Total Backward Packets",
+    "Total Length of Fwd Packets",
+    "Total Length of Bwd Packets",
+    "Fwd Packet Length Max",
+    "Fwd Packet Length Mean",
+    "Fwd Packet Length Std",
+    "Bwd Packet Length Max",
+    "Bwd Packet Length Mean",
+    "Bwd Packet Length Std",
+    "Flow Bytes/s",
+    "Flow Packets/s",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Flow IAT Max",
+    "Fwd IAT Mean",
+    "Bwd IAT Mean",
+    "FIN Flag Count",
+    "SYN Flag Count",
+    "RST Flag Count",
+    "PSH Flag Count",
+    "ACK Flag Count",
+    "Average Packet Size"
+  ],
+  "classes": [
+    "Benign",
+    "DoS",
+    "DDoS",
+    "Botnet",
+    "Port Scan"
+  ],
+  "label_map": {
+    "BENIGN": "Benign",
+    "Benign": "Benign",
+    "DoS Hulk": "DoS",
+    "DoS GoldenEye": "DoS",
+    "DoS slowloris": "DoS",
+    "DoS Slowhttptest": "DoS",
+    "DoS": "DoS",
+    "DDoS": "DDoS",
+    "Bot": "Botnet",
+    "Botnet": "Botnet",
+    "PortScan": "Port Scan",
+    "Port Scan": "Port Scan"
+  },
+  "split_strategy": "70/15/15 stratified random over unique selected-feature vectors, seed 42 by default",
+  "sampling": "Uniform bottom-k random-priority sampling within class after selected-feature deduplication; conflicts subsequently removed",
+  "limitations": [
+    "Public mirror not independently byte-verified against original files",
+    "Random split does not isolate sessions, devices or attack campaigns",
+    "No temporal metadata in selected CSV inputs; no chronological generalization claim",
+    "Class caps change prevalence; reported false-positive rate is on sampled benign flows"
+  ],
+  "selected_conflicting_vectors_removed": 3
+}

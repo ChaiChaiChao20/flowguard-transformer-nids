@@ -1,0 +1,39 @@
+{
+  "automated_project_tests": {
+    "run": 22,
+    "passed": 22,
+    "skipped": 0,
+    "record": "results/VERIFICATION.txt"
+  },
+  "pdf": {
+    "pages": 16,
+    "visual_review": "All rendered pages inspected",
+    "fonts": "Helvetica standard PDF fonts"
+  },
+  "presentation": {
+    "slides": 15,
+    "structural_package": "passed",
+    "layout": "passed",
+    "editable_chart": "passed",
+    "visual_review": "All finalized slides imported, rendered and inspected",
+    "opened_in_native_PowerPoint": false,
+    "sha256": "f16f8bc786c4deb973f54d5a32c8e30584621ef110f4c7ec4426e0be44a2b006"
+  },
+  "dashboard": {
+    "browser_verified": "Extended seven classes and Extended lab visibly present",
+    "app_tests": "Core, extended, temporal inference and actual SHAP explanation passed",
+    "screenshot": "docs/screenshots/extended_lab.jpg"
+  },
+  "capture": {
+    "pcap_replay": "48 synthetic packets -> 12 seven-class prediction events; passed",
+    "physical_interface": "Unverified: Npcap absent",
+    "extractor_equivalence": "Not established"
+  },
+  "scope": {
+    "optional_architectures": "Trained and checkpoint inference parity checked",
+    "federated": "Three-client local IID simulation",
+    "online": "Label-gated prequential experiment",
+    "temporal_infiltration": "No held-out complete window; unmeasured",
+    "zero_day": "Not validated; anomaly known-attack recall is weak"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "method": "IsolationForest fit on training benign flows only",
+  "threshold": 0.6196695966694107,
+  "threshold_selection": "99th percentile of validation benign anomaly score",
+  "test_benign_false_alert_rate": 0.011111111111111112,
+  "test_known_attack_anomaly_recall": 0.019838354151359296,
+  "limitation": "Known dataset attacks only; no zero-day validation or claim"
+}

@@ -1,0 +1,3527 @@
+actual,predicted,probability
+Benign,Benign,0.76457334
+Benign,Benign,0.9986578
+Benign,Benign,0.9937156
+Benign,Benign,0.99825495
+Benign,Benign,0.99865484
+Benign,Benign,0.99686337
+Benign,Benign,0.9950604
+Benign,Benign,0.996442
+Benign,Benign,0.9985967
+Benign,Benign,0.9985078
+Benign,Benign,0.99477875
+Benign,Benign,0.99851364
+Benign,Benign,0.99094045
+Benign,Benign,0.9927269
+Benign,Benign,0.99857247
+Benign,Benign,0.9986533
+Benign,Benign,0.9750113
+Benign,Benign,0.99842393
+Benign,Benign,0.9980428
+Benign,Benign,0.9983584
+Benign,Benign,0.9985814
+Benign,Benign,0.9982116
+Benign,Benign,0.99863523
+Benign,Benign,0.99846196
+Benign,Benign,0.9976941
+Benign,Benign,0.9517693
+Benign,Benign,0.99264973
+Benign,Benign,0.9985815
+Benign,Benign,0.9972274
+Benign,Benign,0.9986545
+Benign,Benign,0.9986212
+Benign,Benign,0.99861276
+Benign,Benign,0.9973394
+Benign,Benign,0.9984238
+Benign,Benign,0.99601436
+Benign,Benign,0.9986059
+Benign,Benign,0.99863595
+Benign,Benign,0.9943112
+Benign,Benign,0.9985978
+Benign,Benign,0.99858993
+Benign,Benign,0.9972529
+Benign,Benign,0.9984016
+Benign,Benign,0.99135613
+Benign,Benign,0.99858606
+Benign,Benign,0.99861574
+Benign,Benign,0.97212875
+Benign,Benign,0.98692465
+Benign,Benign,0.9972372
+Benign,Benign,0.9945155
+Benign,Benign,0.99454945
+Benign,Benign,0.9984118
+Benign,Benign,0.96209663
+Benign,Benign,0.9985959
+Benign,Benign,0.97597265
+Benign,Benign,0.9986487
+Benign,Benign,0.99364847
+Benign,Benign,0.9976915
+Benign,Benign,0.99552876
+Benign,Benign,0.9985279
+Benign,Benign,0.9956055
+Benign,Benign,0.9161749
+Benign,Benign,0.99857485
+Benign,Benign,0.9985869
+Benign,Benign,0.9986267
+Benign,Benign,0.9986228
+Benign,Benign,0.9986039
+Benign,Benign,0.953624
+Benign,Benign,0.95092
+Benign,Benign,0.9983144
+Benign,Benign,0.9933201
+Benign,Benign,0.99836963
+Benign,Benign,0.95975035
+Benign,Benign,0.9986136
+Benign,Benign,0.9985442
+Benign,Benign,0.9981834
+Benign,Benign,0.9913107
+Benign,Benign,0.9954352
+Benign,Benign,0.9974946
+Benign,Benign,0.9985714
+Benign,Benign,0.9983454
+Benign,Benign,0.99831426
+Benign,Benign,0.9874079
+Benign,Benign,0.97105396
+Benign,Benign,0.9925581
+Benign,Benign,0.994124
+Benign,Benign,0.9931117
+Benign,Benign,0.9985662
+Benign,Benign,0.99865437
+Benign,Benign,0.9956168
+Benign,Benign,0.9112361
+Benign,Benign,0.93444705
+Benign,Benign,0.94181556
+Benign,Benign,0.99854004
+Benign,Benign,0.9955023
+Benign,Benign,0.5855478
+Benign,Benign,0.9553264
+Benign,Benign,0.99864453
+Benign,Benign,0.9984066
+Benign,Benign,0.9808779
+Benign,Benign,0.9942186
+Benign,Benign,0.9969356
+Benign,Benign,0.99864537
+Benign,Benign,0.5802726
+Benign,Benign,0.9877366
+Benign,Benign,0.9979146
+Benign,Benign,0.971323
+Benign,Benign,0.9984168
+Benign,Benign,0.99841917
+Benign,Benign,0.99270564
+Benign,Benign,0.9976138
+Benign,Benign,0.9860277
+Benign,Benign,0.9983828
+Benign,Benign,0.99841154
+Benign,Benign,0.99843794
+Benign,Benign,0.9985732
+Benign,Benign,0.9874291
+Benign,Benign,0.99433243
+Benign,Benign,0.9941871
+Benign,Benign,0.9986363
+Benign,Benign,0.99849176
+Benign,Benign,0.93441063
+Benign,Benign,0.99860054
+Benign,Benign,0.99841404
+Benign,Benign,0.99767095
+Benign,Benign,0.9985964
+Benign,Benign,0.9984176
+Benign,Benign,0.9936294
+Benign,Benign,0.9933488
+Benign,Benign,0.99853575
+Benign,Benign,0.9986085
+Benign,Benign,0.9712387
+Benign,Benign,0.9760109
+Benign,Benign,0.99725854
+Benign,Benign,0.9924871
+Benign,Benign,0.9964637
+Benign,Benign,0.98966986
+Benign,Benign,0.9984097
+Benign,Benign,0.9979043
+Benign,Benign,0.9973585
+Benign,Benign,0.99186826
+Benign,Benign,0.9984224
+Benign,Benign,0.9981857
+Benign,Benign,0.99824595
+Benign,Benign,0.9926402
+Benign,Benign,0.99862874
+Benign,Benign,0.99006116
+Benign,Benign,0.9924079
+Benign,Benign,0.98654175
+Benign,Benign,0.99837935
+Benign,Benign,0.998618
+Benign,Benign,0.9975731
+Benign,Benign,0.98961174
+Benign,Benign,0.99513006
+Benign,Benign,0.9986551
+Benign,Benign,0.97317344
+Benign,Benign,0.93065274
+Benign,Benign,0.99097717
+Benign,Benign,0.98642087
+Benign,Benign,0.9984158
+Benign,Benign,0.9985489
+Benign,Benign,0.9986265
+Benign,Benign,0.9947125
+Benign,Benign,0.9974784
+Benign,Benign,0.9965649
+Benign,Benign,0.99299276
+Benign,Benign,0.9846727
+Benign,Benign,0.9985702
+Benign,Benign,0.9970753
+Benign,Benign,0.99380386
+Benign,Benign,0.99760556
+Benign,Benign,0.9668328
+Benign,Benign,0.99841595
+Benign,Benign,0.98231596
+Benign,Benign,0.9986118
+Benign,Benign,0.9931866
+Benign,Benign,0.9910884
+Benign,Benign,0.9941287
+Benign,Benign,0.99546826
+Benign,Benign,0.99199706
+Benign,Benign,0.9984901
+Benign,Benign,0.9358747
+Benign,Benign,0.99619293
+Benign,Benign,0.94970745
+Benign,Benign,0.9641378
+Benign,Benign,0.99363166
+Benign,Benign,0.9977465
+Benign,Benign,0.997439
+Benign,Benign,0.9960932
+Benign,Benign,0.9974445
+Benign,Benign,0.9986066
+Benign,Benign,0.9891266
+Benign,Benign,0.99828374
+Benign,Benign,0.99862397
+Benign,Benign,0.99864894
+Benign,Benign,0.9975452
+Benign,Benign,0.99862945
+Benign,Benign,0.9983127
+Benign,Benign,0.9903757
+Benign,Benign,0.98596615
+Benign,Benign,0.99221885
+Benign,Benign,0.99726164
+Benign,Benign,0.9985684
+Benign,Benign,0.9982944
+Benign,Benign,0.99147195
+Benign,Benign,0.99380314
+Benign,Benign,0.9986331
+Benign,Benign,0.9983614
+Benign,Benign,0.9981117
+Benign,Benign,0.99857366
+Benign,Benign,0.98431695
+Benign,Benign,0.98565
+Benign,Benign,0.9953389
+Benign,Benign,0.9983278
+Benign,Benign,0.99336314
+Benign,Benign,0.9962036
+Benign,Benign,0.99862254
+Benign,Benign,0.9984908
+Benign,Benign,0.99171597
+Benign,Benign,0.9744992
+Benign,Botnet,0.93692625
+Benign,Benign,0.96680653
+Benign,Benign,0.92852074
+Benign,Benign,0.9352686
+Benign,Benign,0.9536931
+Benign,Benign,0.9985927
+Benign,Benign,0.7403492
+Benign,Benign,0.9986248
+Benign,Benign,0.998606
+Benign,Benign,0.9981735
+Benign,Benign,0.9986486
+Benign,Benign,0.99854654
+Benign,Benign,0.53101444
+Benign,Benign,0.9986512
+Benign,Benign,0.99863166
+Benign,Benign,0.9985511
+Benign,Benign,0.99105185
+Benign,Benign,0.9943311
+Benign,Benign,0.998409
+Benign,Benign,0.9916325
+Benign,Benign,0.9975712
+Benign,Benign,0.9983668
+Benign,Benign,0.9980294
+Benign,Benign,0.99859446
+Benign,Benign,0.9985831
+Benign,Benign,0.9480847
+Benign,Benign,0.9964322
+Benign,Benign,0.9529441
+Benign,Benign,0.99771154
+Benign,Benign,0.9913248
+Benign,Benign,0.98792654
+Benign,Benign,0.99865085
+Benign,Benign,0.99853766
+Benign,Benign,0.9981963
+Benign,Benign,0.9876957
+Benign,Benign,0.9938524
+Benign,Benign,0.99819654
+Benign,Benign,0.99755305
+Benign,Benign,0.9986105
+Benign,Benign,0.998566
+Benign,Benign,0.9949862
+Benign,Benign,0.99863607
+Benign,Benign,0.9985468
+Benign,Benign,0.9985991
+Benign,Benign,0.99861073
+Benign,Benign,0.99861753
+Benign,Benign,0.993141
+Benign,Benign,0.9923923
+Benign,Benign,0.8372288
+Benign,Benign,0.9983613
+Benign,Benign,0.9914943
+Benign,Benign,0.9983882
+Benign,Benign,0.9901264
+Benign,Benign,0.9986534
+Benign,Benign,0.9986469
+Benign,Benign,0.9986034
+Benign,Benign,0.99862885
+Benign,Benign,0.9776539
+Benign,Benign,0.99836785
+Benign,Benign,0.8255629
+Benign,Benign,0.9863849
+Benign,Benign,0.9976259
+Benign,Benign,0.9985355
+Benign,Benign,0.9919891
+Benign,Benign,0.91421366
+Benign,Benign,0.9986291
+Benign,Benign,0.99685186
+Benign,Benign,0.9984084
+Benign,Benign,0.9985684
+Benign,Benign,0.9980609
+Benign,Benign,0.99856323
+Benign,Benign,0.998558
+Benign,Benign,0.94867074
+Benign,Benign,0.99274397
+Benign,Benign,0.9351698
+Benign,Benign,0.9940743
+Benign,Benign,0.998511
+Benign,Benign,0.9941724
+Benign,Benign,0.99852777
+Benign,Benign,0.9977064
+Benign,Benign,0.99851006
+Benign,Benign,0.9986463
+Benign,Benign,0.99859625
+Benign,Benign,0.99856585
+Benign,Benign,0.9982237
+Benign,Benign,0.99082583
+Benign,Benign,0.9983034
+Benign,Benign,0.98506135
+Benign,Benign,0.99087006
+Benign,Benign,0.99280727
+Benign,Benign,0.9981559
+Benign,Benign,0.99850476
+Benign,Benign,0.99858993
+Benign,Benign,0.9980977
+Benign,Benign,0.9977016
+Benign,Benign,0.9969296
+Benign,Benign,0.99688256
+Benign,Benign,0.99859804
+Benign,Benign,0.9984939
+Benign,Benign,0.9896459
+Benign,Benign,0.99660945
+Benign,Benign,0.99614406
+Benign,Benign,0.99830073
+Benign,Benign,0.996723
+Benign,Benign,0.9921485
+Benign,Benign,0.52780527
+Benign,Benign,0.99482614
+Benign,Benign,0.9906557
+Benign,Benign,0.9941005
+Benign,Benign,0.9986172
+Benign,Benign,0.9899067
+Benign,Benign,0.9925634
+Benign,Benign,0.9986167
+Benign,Benign,0.99704236
+Benign,Benign,0.98822707
+Benign,Benign,0.99855787
+Benign,Benign,0.9985922
+Benign,Benign,0.99770725
+Benign,Benign,0.9941691
+Benign,Benign,0.99260795
+Benign,Benign,0.99864763
+Benign,Benign,0.9980398
+Benign,Benign,0.9797387
+Benign,Benign,0.9985784
+Benign,Benign,0.9983467
+Benign,Benign,0.9927215
+Benign,Benign,0.99829465
+Benign,Benign,0.9934068
+Benign,Benign,0.9986438
+Benign,Benign,0.9909882
+Benign,Benign,0.8904602
+Benign,Benign,0.9786042
+Benign,Benign,0.9893909
+Benign,Benign,0.9985852
+Benign,Benign,0.9976127
+Benign,Benign,0.99634546
+Benign,Benign,0.9983594
+Benign,Benign,0.9971812
+Benign,Benign,0.9986437
+Benign,Benign,0.9800882
+Benign,Benign,0.991236
+Benign,Benign,0.99480045
+Benign,Benign,0.96621567
+Benign,Benign,0.8388283
+Benign,Benign,0.9986419
+Benign,Benign,0.9964623
+Benign,Benign,0.99860245
+Benign,Benign,0.98121095
+Benign,Benign,0.9986308
+Benign,Benign,0.9986199
+Benign,Benign,0.9986298
+Benign,Benign,0.99563944
+Benign,Benign,0.9866258
+Benign,Benign,0.9979907
+Benign,Benign,0.9945445
+Benign,Benign,0.9984261
+Benign,Benign,0.9986312
+Benign,Benign,0.9984937
+Benign,Benign,0.9971955
+Benign,Benign,0.9985455
+Benign,Benign,0.99782205
+Benign,Benign,0.99836916
+Benign,Benign,0.9986412
+Benign,Benign,0.9985862
+Benign,Benign,0.9975515
+Benign,Benign,0.99862885
+Benign,Benign,0.81685305
+Benign,Benign,0.9985625
+Benign,Benign,0.998643
+Benign,Benign,0.98448074
+Benign,Benign,0.9983814
+Benign,Benign,0.9986254
+Benign,Benign,0.99862075
+Benign,Benign,0.9960393
+Benign,Benign,0.99091995
+Benign,Benign,0.998516
+Benign,Benign,0.99535275
+Benign,Benign,0.9986199
+Benign,Benign,0.99764806
+Benign,Benign,0.9983563
+Benign,Benign,0.9986034
+Benign,Benign,0.9986318
+Benign,Benign,0.99864
+Benign,Benign,0.9986407
+Benign,Benign,0.9906102
+Benign,Benign,0.99854565
+Benign,Benign,0.99412125
+Benign,Benign,0.8006684
+Benign,Benign,0.99755716
+Benign,Benign,0.90194404
+Benign,Benign,0.9535452
+Benign,Benign,0.98987645
+Benign,Benign,0.99478924
+Benign,Benign,0.99841666
+Benign,Benign,0.9985421
+Benign,Benign,0.9918962
+Benign,Benign,0.9985587
+Benign,Benign,0.99807394
+Benign,Benign,0.99844617
+Benign,Benign,0.98217416
+Benign,Benign,0.9978508
+Benign,Benign,0.9913673
+Benign,Benign,0.9752612
+Benign,Benign,0.9416776
+Benign,Benign,0.99846894
+Benign,Benign,0.9984806
+Benign,Benign,0.99856645
+Benign,Benign,0.99836713
+Benign,Benign,0.99810374
+Benign,Benign,0.99857473
+Benign,Benign,0.9913384
+Benign,Benign,0.99858356
+Benign,Benign,0.9985379
+Benign,Benign,0.99077505
+Benign,Benign,0.9985966
+Benign,Benign,0.99858713
+Benign,Benign,0.9985973
+Benign,Benign,0.9958924
+Benign,Benign,0.9979913
+Benign,Benign,0.95721257
+Benign,Benign,0.9959966
+Benign,Benign,0.99658895
+Benign,Benign,0.9945346
+Benign,Benign,0.97842777
+Benign,Benign,0.9985662
+Benign,Benign,0.9985051
+Benign,Benign,0.99862754
+Benign,Benign,0.9986143
+Benign,Benign,0.9950831
+Benign,Benign,0.9981013
+Benign,Benign,0.8641572
+Benign,Benign,0.99617094
+Benign,Benign,0.998553
+Benign,Benign,0.9874628
+Benign,Benign,0.9873459
+Benign,Benign,0.9969854
+Benign,Benign,0.9974597
+Benign,Benign,0.9985819
+Benign,Benign,0.9965222
+Benign,Benign,0.98491967
+Benign,Benign,0.9883216
+Benign,Benign,0.9942926
+Benign,Benign,0.99859315
+Benign,Benign,0.99859554
+Benign,Benign,0.9984553
+Benign,Benign,0.9562802
+Benign,Benign,0.9560609
+Benign,Benign,0.9904772
+Benign,Benign,0.9985892
+Benign,Benign,0.99736506
+Benign,Benign,0.9944436
+Benign,Botnet,0.7404635
+Benign,Benign,0.9986394
+Benign,Benign,0.99699545
+Benign,Benign,0.91815054
+Benign,Benign,0.9965424
+Benign,Benign,0.99859077
+Benign,Benign,0.99814534
+Benign,Benign,0.99720395
+Benign,Benign,0.9949687
+Benign,Benign,0.99863017
+Benign,Benign,0.9968623
+Benign,Benign,0.99857044
+Benign,Benign,0.9660311
+Benign,Benign,0.99575007
+Benign,Benign,0.9964484
+Benign,Benign,0.9913496
+Benign,Benign,0.998544
+Benign,Benign,0.99864274
+Benign,Benign,0.9984836
+Benign,Benign,0.97496694
+Benign,Benign,0.9796601
+Benign,Benign,0.9985923
+Benign,Benign,0.9985631
+Benign,Benign,0.9947686
+Benign,Benign,0.9940388
+Benign,Benign,0.99861205
+Benign,Benign,0.9985991
+Benign,Benign,0.9430382
+Benign,Benign,0.99596184
+Benign,Benign,0.9552787
+Benign,Benign,0.9985715
+Benign,Benign,0.7928604
+Benign,Benign,0.99128425
+Benign,Benign,0.9986307
+Benign,Benign,0.9974377
+Benign,Benign,0.99807596
+Benign,Benign,0.9986375
+Benign,Benign,0.9981974
+Benign,Benign,0.99835014
+Benign,Benign,0.997546
+Benign,Benign,0.9983285
+Benign,Benign,0.78061295
+Benign,Benign,0.99842995
+Benign,Benign,0.9986461
+Benign,Benign,0.99823016
+Benign,Benign,0.9947982
+Benign,Benign,0.99809307
+Benign,Benign,0.9971322
+Benign,Benign,0.9983255
+Benign,Benign,0.9956321
+Benign,Benign,0.9910677
+Benign,Benign,0.9910658
+Benign,Benign,0.998632
+Benign,Benign,0.9925815
+Benign,Benign,0.98866963
+Benign,Benign,0.9985833
+Benign,Benign,0.99631387
+Benign,Benign,0.99560684
+Benign,Benign,0.99573827
+Benign,Benign,0.9745934
+Benign,Benign,0.9985838
+Benign,Benign,0.9980421
+Benign,Benign,0.85963464
+Benign,Benign,0.9801338
+Benign,Benign,0.9986299
+Benign,Benign,0.99864954
+Benign,Benign,0.99862874
+Benign,Benign,0.9628185
+Benign,Benign,0.99859065
+Brute Force,Brute Force,0.99759406
+Brute Force,Brute Force,0.9973002
+Brute Force,Brute Force,0.9988329
+Brute Force,Brute Force,0.99750227
+Brute Force,Brute Force,0.9987973
+Brute Force,Brute Force,0.99757284
+Brute Force,Brute Force,0.99882025
+Brute Force,Brute Force,0.9988471
+Brute Force,Brute Force,0.99883765
+Brute Force,Brute Force,0.9988273
+Brute Force,Brute Force,0.9988403
+Brute Force,Brute Force,0.9971807
+Brute Force,Brute Force,0.99882275
+Brute Force,Brute Force,0.9988028
+Brute Force,Brute Force,0.9974643
+Brute Force,Brute Force,0.99883026
+Brute Force,Brute Force,0.99879944
+Brute Force,Brute Force,0.998836
+Brute Force,Brute Force,0.99882895
+Brute Force,Brute Force,0.9987876
+Brute Force,Brute Force,0.99881905
+Brute Force,Brute Force,0.9975867
+Brute Force,Brute Force,0.99879754
+Brute Force,Brute Force,0.9974739
+Brute Force,Brute Force,0.9988055
+Brute Force,Brute Force,0.9988294
+Brute Force,Brute Force,0.997566
+Brute Force,Brute Force,0.9988411
+Brute Force,Brute Force,0.998833
+Brute Force,Brute Force,0.99884194
+Brute Force,Brute Force,0.9988275
+Brute Force,Brute Force,0.998841
+Brute Force,Brute Force,0.99731284
+Brute Force,Brute Force,0.99732625
+Brute Force,Brute Force,0.9975068
+Brute Force,Brute Force,0.99757475
+Brute Force,Brute Force,0.9988096
+Brute Force,Brute Force,0.9974704
+Brute Force,Brute Force,0.99712116
+Brute Force,Brute Force,0.9975541
+Brute Force,Brute Force,0.9974251
+Brute Force,Brute Force,0.9972916
+Brute Force,Brute Force,0.9988311
+Brute Force,Brute Force,0.9988416
+Brute Force,Brute Force,0.9988254
+Brute Force,Brute Force,0.9976839
+Brute Force,Brute Force,0.9988285
+Brute Force,Brute Force,0.9976593
+Brute Force,Brute Force,0.99701285
+Brute Force,Brute Force,0.998825
+Brute Force,Brute Force,0.9988224
+Brute Force,Brute Force,0.9974485
+Brute Force,Brute Force,0.9975163
+Brute Force,Brute Force,0.9975787
+Brute Force,Brute Force,0.9975852
+Brute Force,Brute Force,0.99762636
+Brute Force,Brute Force,0.9988166
+Brute Force,Brute Force,0.9988186
+Brute Force,Brute Force,0.9988117
+Brute Force,Brute Force,0.99883
+Brute Force,Brute Force,0.9987556
+Brute Force,Brute Force,0.99881506
+Brute Force,Brute Force,0.998831
+Brute Force,Brute Force,0.99883384
+Brute Force,Brute Force,0.9988023
+Brute Force,Brute Force,0.9973742
+Brute Force,Brute Force,0.9988086
+Brute Force,Brute Force,0.9988212
+Benign,Benign,0.9981363
+Benign,Benign,0.9904017
+Brute Force,Brute Force,0.99884003
+Brute Force,Brute Force,0.99754626
+Brute Force,Brute Force,0.9988192
+Brute Force,Brute Force,0.9988299
+Brute Force,Brute Force,0.99880826
+Brute Force,Brute Force,0.99883467
+Brute Force,Brute Force,0.9988343
+Brute Force,Brute Force,0.99878484
+Brute Force,Brute Force,0.9988231
+Brute Force,Brute Force,0.9988336
+Brute Force,Brute Force,0.998831
+Brute Force,Brute Force,0.9988123
+Brute Force,Brute Force,0.9975949
+Brute Force,Brute Force,0.9988127
+Brute Force,Brute Force,0.9988342
+Brute Force,Brute Force,0.9972241
+Brute Force,Brute Force,0.99884087
+Brute Force,Brute Force,0.99752754
+Brute Force,Brute Force,0.9987883
+Brute Force,Brute Force,0.99880445
+Brute Force,Brute Force,0.99740785
+Brute Force,Brute Force,0.9976229
+Brute Force,Brute Force,0.99884605
+Brute Force,Brute Force,0.9988337
+Brute Force,Brute Force,0.9975631
+Brute Force,Brute Force,0.99882334
+Brute Force,Brute Force,0.99882394
+Brute Force,Brute Force,0.99759173
+Brute Force,Brute Force,0.9988223
+Brute Force,Brute Force,0.9974475
+Brute Force,Brute Force,0.99742883
+Brute Force,Brute Force,0.9975095
+Benign,Benign,0.9960729
+Benign,Benign,0.9874259
+Brute Force,Brute Force,0.9975242
+Brute Force,Brute Force,0.998844
+Brute Force,Brute Force,0.9988372
+Brute Force,Brute Force,0.99883837
+Brute Force,Brute Force,0.99879885
+Brute Force,Brute Force,0.99883026
+Brute Force,Brute Force,0.99884295
+Brute Force,Brute Force,0.998838
+Brute Force,Brute Force,0.99758244
+Brute Force,Brute Force,0.99757713
+Brute Force,Brute Force,0.99884415
+Brute Force,Brute Force,0.99882835
+Brute Force,Brute Force,0.99760336
+Brute Force,Brute Force,0.99758065
+Brute Force,Brute Force,0.998845
+Brute Force,Brute Force,0.99750525
+Brute Force,Brute Force,0.99883884
+Brute Force,Brute Force,0.9973482
+Brute Force,Brute Force,0.9988362
+Brute Force,Brute Force,0.9975279
+Brute Force,Brute Force,0.99745756
+Brute Force,Brute Force,0.99881965
+Brute Force,Brute Force,0.9974119
+Brute Force,Brute Force,0.9976337
+Brute Force,Brute Force,0.9975163
+Brute Force,Brute Force,0.9975108
+Brute Force,Brute Force,0.9988254
+Brute Force,Brute Force,0.9988188
+Brute Force,Brute Force,0.9988255
+Brute Force,Brute Force,0.9976307
+Brute Force,Brute Force,0.9988385
+Brute Force,Brute Force,0.99882025
+Brute Force,Brute Force,0.9974831
+Benign,Benign,0.99846077
+Benign,Benign,0.9953414
+Benign,Benign,0.9986419
+Brute Force,Brute Force,0.99732226
+Brute Force,Brute Force,0.9988335
+Brute Force,Brute Force,0.99883515
+Brute Force,Brute Force,0.9988312
+Brute Force,Brute Force,0.9971058
+Brute Force,Brute Force,0.99761885
+Brute Force,Brute Force,0.9975169
+Brute Force,Brute Force,0.99883765
+Brute Force,Brute Force,0.99743193
+Brute Force,Brute Force,0.9974776
+Brute Force,Brute Force,0.99755114
+Brute Force,Brute Force,0.9988404
+Brute Force,Brute Force,0.9988349
+Brute Force,Brute Force,0.99881446
+Brute Force,Brute Force,0.99755716
+Brute Force,Brute Force,0.9988361
+Brute Force,Brute Force,0.99883646
+Brute Force,Brute Force,0.9988318
+Brute Force,Brute Force,0.9975259
+Brute Force,Brute Force,0.99883217
+Brute Force,Brute Force,0.99884737
+Brute Force,Brute Force,0.99882597
+Brute Force,Brute Force,0.9988294
+Brute Force,Brute Force,0.9988223
+Brute Force,Brute Force,0.9975211
+Brute Force,Brute Force,0.9976165
+Brute Force,Brute Force,0.9882533
+Brute Force,Brute Force,0.99731857
+Brute Force,Brute Force,0.9975827
+Brute Force,Brute Force,0.99876934
+Brute Force,Brute Force,0.9988159
+Benign,Benign,0.9985985
+Brute Force,Brute Force,0.99883455
+Brute Force,Brute Force,0.99883765
+Brute Force,Brute Force,0.99754
+Brute Force,Brute Force,0.9976457
+Brute Force,Brute Force,0.99756706
+Brute Force,Brute Force,0.99760985
+Brute Force,Brute Force,0.997428
+Brute Force,Brute Force,0.997584
+Brute Force,Brute Force,0.99883145
+Brute Force,Brute Force,0.9975937
+Brute Force,Brute Force,0.9975223
+Brute Force,Brute Force,0.99883467
+Brute Force,Brute Force,0.9988224
+Brute Force,Brute Force,0.9988331
+Brute Force,Brute Force,0.997618
+Brute Force,Brute Force,0.99755764
+Brute Force,Brute Force,0.99883705
+Brute Force,Brute Force,0.99882525
+Brute Force,Brute Force,0.9988424
+Brute Force,Brute Force,0.9974874
+Brute Force,Brute Force,0.9974583
+Brute Force,Brute Force,0.9976246
+Brute Force,Brute Force,0.9976029
+Brute Force,Brute Force,0.9975318
+Brute Force,Brute Force,0.99883336
+Brute Force,Brute Force,0.9753679
+Brute Force,Brute Force,0.9988147
+Brute Force,Brute Force,0.9975491
+Brute Force,Brute Force,0.99758124
+Brute Force,Brute Force,0.9976484
+Brute Force,Brute Force,0.9988319
+Brute Force,Brute Force,0.99883944
+Brute Force,Brute Force,0.9988103
+Brute Force,Brute Force,0.99881065
+Brute Force,Brute Force,0.9987979
+Brute Force,Brute Force,0.99741673
+Brute Force,Brute Force,0.9988288
+Brute Force,Brute Force,0.99880075
+Brute Force,Brute Force,0.9988292
+Benign,Benign,0.9958127
+Benign,Benign,0.99345773
+Brute Force,Brute Force,0.9974625
+Brute Force,Brute Force,0.9987954
+Brute Force,Brute Force,0.9988263
+Brute Force,Brute Force,0.9975889
+Brute Force,Brute Force,0.9988092
+Brute Force,Brute Force,0.9975546
+Brute Force,Brute Force,0.9975259
+Brute Force,Brute Force,0.998808
+Brute Force,Brute Force,0.9988232
+Brute Force,Brute Force,0.99883276
+Brute Force,Brute Force,0.9988011
+Brute Force,Brute Force,0.99882823
+Brute Force,Brute Force,0.998836
+Brute Force,Brute Force,0.99758494
+Brute Force,Brute Force,0.9988199
+Brute Force,Brute Force,0.99882036
+Brute Force,Brute Force,0.9975726
+Brute Force,Brute Force,0.99884415
+Brute Force,Brute Force,0.99744415
+Brute Force,Brute Force,0.998809
+Brute Force,Brute Force,0.9988298
+Brute Force,Brute Force,0.99882585
+Brute Force,Brute Force,0.9975085
+Brute Force,Brute Force,0.9988167
+Brute Force,Brute Force,0.99752694
+Brute Force,Brute Force,0.99882954
+Brute Force,Brute Force,0.9974137
+Brute Force,Brute Force,0.9974899
+Brute Force,Brute Force,0.99880993
+Brute Force,Brute Force,0.9975563
+Brute Force,Brute Force,0.9988403
+Brute Force,Brute Force,0.99765164
+Brute Force,Brute Force,0.99762183
+Brute Force,Brute Force,0.9988175
+Brute Force,Brute Force,0.9988368
+Brute Force,Brute Force,0.9973405
+Brute Force,Brute Force,0.9988318
+Brute Force,Brute Force,0.99748397
+Brute Force,Brute Force,0.99766517
+Brute Force,Brute Force,0.99882287
+Brute Force,Brute Force,0.95390683
+Brute Force,Brute Force,0.99883896
+Brute Force,Brute Force,0.9988243
+Brute Force,Brute Force,0.99869496
+Benign,Benign,0.9986265
+Benign,Benign,0.98691434
+Benign,Benign,0.9986117
+Benign,Benign,0.99635124
+Benign,Benign,0.99861693
+Brute Force,DoS,0.98930246
+Benign,Benign,0.9922638
+Benign,Benign,0.9986137
+Benign,Benign,0.9984242
+Benign,Benign,0.9985978
+Benign,Benign,0.9875115
+Benign,Benign,0.99862003
+Benign,Benign,0.99520147
+Benign,Benign,0.9971137
+Benign,Benign,0.9978728
+Benign,Benign,0.94248134
+Benign,Benign,0.9985476
+Benign,Benign,0.9983164
+Benign,Benign,0.9979285
+Benign,Benign,0.9981207
+Benign,Benign,0.96848774
+Benign,Benign,0.9934642
+Benign,Benign,0.99856275
+Benign,Benign,0.9984457
+Benign,Benign,0.998606
+Benign,Benign,0.97771275
+Benign,Benign,0.9986407
+Benign,Benign,0.99837637
+Benign,Benign,0.99852604
+Benign,Benign,0.9984487
+Benign,Benign,0.998645
+Benign,Benign,0.9970536
+Benign,Benign,0.95469815
+Benign,Benign,0.99864393
+Benign,Benign,0.9928457
+Benign,Benign,0.99858814
+Benign,Benign,0.9933275
+Benign,Benign,0.9814726
+Benign,Benign,0.9944149
+Benign,Benign,0.9985669
+Benign,Benign,0.9956333
+Benign,Benign,0.99863017
+Benign,Benign,0.99784446
+Benign,Benign,0.89881593
+Benign,Benign,0.99646604
+Benign,Benign,0.9975062
+Benign,Benign,0.9983222
+Benign,Benign,0.998381
+Benign,Benign,0.99690706
+Benign,Benign,0.9986406
+Benign,Benign,0.99845505
+Benign,Benign,0.99864453
+Benign,Benign,0.9925351
+Benign,Benign,0.9986411
+Benign,Benign,0.9985648
+Benign,Benign,0.9935508
+Benign,Benign,0.9986577
+Benign,Benign,0.9849732
+Benign,Benign,0.99864095
+Benign,Benign,0.9986156
+Benign,Benign,0.9090359
+Benign,Benign,0.99855083
+Benign,Benign,0.9877066
+Benign,Benign,0.9986551
+Benign,Benign,0.99854195
+Benign,Benign,0.97091854
+Benign,Benign,0.9986345
+Benign,Benign,0.9969675
+Benign,Benign,0.99461716
+Benign,Benign,0.9985287
+Benign,Benign,0.9960735
+Benign,Benign,0.99567235
+Benign,Benign,0.99639755
+Benign,Benign,0.9956334
+Benign,Benign,0.9906872
+Benign,Benign,0.9924394
+Benign,Benign,0.99401397
+Benign,Benign,0.98890007
+Benign,Benign,0.99446267
+Benign,Benign,0.99865425
+Benign,Benign,0.9983235
+Benign,Benign,0.99516886
+Benign,Benign,0.9971631
+Benign,Benign,0.9948672
+Benign,Benign,0.998638
+Benign,Botnet,0.98086494
+Benign,Benign,0.9839924
+Benign,Benign,0.9978871
+Benign,Benign,0.99861014
+Benign,Benign,0.9947577
+Benign,Benign,0.99861455
+Benign,Benign,0.9983682
+Benign,Benign,0.9986046
+Benign,Benign,0.9983187
+Benign,Benign,0.9958054
+Benign,Benign,0.99812824
+Benign,Benign,0.9984994
+Benign,Benign,0.9765428
+Benign,Benign,0.9965527
+Benign,Benign,0.9962108
+Benign,Benign,0.9966799
+Benign,Benign,0.9982266
+Benign,Benign,0.9985672
+Benign,Benign,0.99723744
+Benign,Benign,0.99754035
+Benign,Benign,0.98139006
+Benign,Benign,0.9930943
+Benign,Benign,0.9189818
+Benign,Benign,0.99745506
+Benign,Benign,0.9950511
+Benign,Benign,0.9681866
+Benign,Benign,0.99842405
+Benign,Benign,0.9986387
+Benign,Benign,0.99445677
+Benign,Benign,0.9975368
+Benign,Benign,0.9519563
+Benign,Benign,0.9986129
+Benign,Benign,0.99834716
+Benign,Benign,0.9976169
+Benign,Benign,0.99203295
+Benign,Benign,0.9984989
+Benign,Benign,0.9979778
+Benign,Benign,0.9861335
+Benign,Benign,0.9599289
+Benign,Benign,0.9890482
+Benign,Benign,0.9872301
+Benign,Benign,0.99661475
+Benign,Benign,0.9923717
+Benign,Benign,0.9986533
+Benign,Benign,0.99684167
+Benign,Benign,0.99829584
+Benign,Benign,0.99862397
+Benign,Benign,0.9574468
+Benign,Benign,0.9966144
+Benign,Benign,0.9981096
+Benign,Benign,0.9986358
+Benign,Benign,0.9940135
+Benign,Benign,0.9914841
+Benign,Benign,0.9834167
+Benign,Benign,0.9976488
+Benign,Benign,0.9918841
+Benign,Benign,0.99863964
+Benign,Benign,0.94995373
+Benign,Benign,0.9977639
+Benign,Benign,0.9983816
+Benign,Benign,0.9607328
+Benign,Benign,0.99863094
+Benign,Benign,0.99011433
+Benign,Benign,0.9975599
+Benign,Benign,0.9956269
+Benign,Benign,0.99819
+Benign,Benign,0.9847883
+Benign,Benign,0.9973464
+Benign,Benign,0.998623
+Benign,Benign,0.97947454
+Benign,Benign,0.968026
+Benign,Benign,0.9948665
+Benign,Benign,0.98229825
+Benign,Benign,0.9983382
+Benign,Benign,0.99862146
+Benign,Benign,0.99683577
+Benign,Benign,0.9986098
+Benign,Benign,0.8358569
+Benign,Benign,0.9952732
+Benign,Benign,0.9778481
+Benign,Benign,0.99861956
+Benign,Benign,0.87886643
+Benign,Benign,0.9984232
+Benign,Benign,0.99837387
+Benign,Benign,0.9985929
+Benign,Benign,0.99544036
+Benign,Benign,0.9941928
+Benign,Benign,0.99692625
+Benign,Benign,0.9275513
+Benign,Benign,0.9983431
+Benign,Benign,0.9970925
+Benign,Benign,0.99666995
+Benign,Benign,0.9986473
+Benign,Benign,0.9986506
+Benign,Benign,0.95296234
+Benign,Benign,0.99726725
+Benign,Benign,0.9971776
+Benign,Benign,0.95286816
+Benign,Benign,0.8810343
+Benign,Benign,0.99646276
+Benign,Benign,0.9595393
+Benign,Benign,0.9986363
+Benign,Benign,0.99864584
+Benign,Benign,0.99099743
+Benign,Benign,0.9983646
+Benign,Benign,0.9986076
+Benign,Benign,0.99644756
+Benign,Benign,0.99834895
+Benign,Benign,0.9985775
+Benign,Benign,0.99863476
+Benign,Benign,0.99857736
+Benign,Benign,0.99865216
+Benign,Benign,0.99860615
+Benign,Benign,0.9985909
+Benign,Benign,0.9879373
+Benign,Benign,0.9986345
+Benign,Benign,0.9983694
+Benign,Benign,0.9986228
+Benign,Benign,0.9985996
+Benign,Benign,0.99319565
+Benign,Benign,0.9984193
+Benign,Benign,0.99748033
+Benign,Benign,0.9891155
+Benign,Benign,0.9462786
+Benign,Benign,0.99399674
+Benign,Benign,0.9985606
+Benign,Benign,0.9986112
+Benign,Benign,0.99860966
+Benign,Benign,0.975047
+Benign,Benign,0.99838185
+Benign,Benign,0.99863476
+Benign,Benign,0.9954145
+Benign,Benign,0.9986468
+Benign,Benign,0.998626
+Benign,Benign,0.939975
+Benign,Benign,0.995218
+Benign,Benign,0.9986191
+Brute Force,Brute Force,0.9982508
+Brute Force,Brute Force,0.9981358
+Brute Force,Brute Force,0.99815243
+Brute Force,Brute Force,0.9973878
+Brute Force,Brute Force,0.9981363
+Brute Force,Brute Force,0.99817514
+Brute Force,Brute Force,0.9981335
+Brute Force,Brute Force,0.9981944
+Brute Force,Brute Force,0.99815184
+Brute Force,Brute Force,0.99816424
+Brute Force,Brute Force,0.9981876
+Brute Force,Brute Force,0.99820185
+Brute Force,Brute Force,0.9981834
+Brute Force,Brute Force,0.9981494
+Brute Force,Brute Force,0.99818546
+Brute Force,Brute Force,0.9981589
+Brute Force,Brute Force,0.99818254
+Benign,Benign,0.9986313
+Brute Force,Brute Force,0.9981969
+Brute Force,Brute Force,0.9981598
+Brute Force,Brute Force,0.9981735
+Brute Force,Brute Force,0.99814475
+Brute Force,Brute Force,0.99820685
+Brute Force,Brute Force,0.9981792
+Brute Force,Brute Force,0.9981939
+Brute Force,Brute Force,0.998151
+Brute Force,Brute Force,0.99816114
+Brute Force,Brute Force,0.99812967
+Brute Force,Brute Force,0.9981444
+Brute Force,Brute Force,0.99815947
+Brute Force,Brute Force,0.998197
+Brute Force,Brute Force,0.9981658
+Brute Force,Brute Force,0.99821067
+Brute Force,Brute Force,0.99816173
+Benign,Benign,0.9986492
+Brute Force,Brute Force,0.9981645
+Brute Force,Brute Force,0.998164
+Brute Force,Brute Force,0.99824286
+Brute Force,Brute Force,0.9982305
+Brute Force,Brute Force,0.9981969
+Brute Force,Brute Force,0.99816424
+Brute Force,Brute Force,0.99822897
+Brute Force,Brute Force,0.99821544
+Brute Force,Brute Force,0.9981608
+Brute Force,Brute Force,0.9981377
+Brute Force,Brute Force,0.99818295
+Brute Force,Brute Force,0.99817383
+Brute Force,Brute Force,0.99818265
+Brute Force,Brute Force,0.9981797
+Brute Force,Brute Force,0.99815315
+Brute Force,Brute Force,0.9982133
+Brute Force,Brute Force,0.99821293
+Brute Force,Brute Force,0.9981856
+Benign,Benign,0.9986389
+Benign,Benign,0.998611
+Brute Force,Brute Force,0.9981793
+Brute Force,Brute Force,0.99818146
+Brute Force,Brute Force,0.99821544
+Brute Force,Brute Force,0.99819523
+Brute Force,Brute Force,0.99817955
+Brute Force,Brute Force,0.99823713
+Brute Force,Brute Force,0.99818194
+Brute Force,Brute Force,0.9982287
+Brute Force,Brute Force,0.99820197
+Brute Force,Brute Force,0.998181
+Brute Force,Brute Force,0.99819165
+Brute Force,Brute Force,0.99818844
+Brute Force,Brute Force,0.998181
+Brute Force,Brute Force,0.9981804
+Brute Force,Brute Force,0.9982358
+Brute Force,Brute Force,0.99816006
+Brute Force,Brute Force,0.99814796
+Brute Force,Brute Force,0.99822444
+Brute Force,Brute Force,0.9981658
+Brute Force,Brute Force,0.9981572
+Brute Force,Brute Force,0.9981865
+Brute Force,Brute Force,0.9981528
+Brute Force,Brute Force,0.9981664
+Brute Force,Brute Force,0.9981823
+Brute Force,Brute Force,0.9981851
+Brute Force,Brute Force,0.9737222
+Brute Force,Brute Force,0.9873253
+Brute Force,Brute Force,0.9953648
+Brute Force,Brute Force,0.994136
+Benign,Benign,0.9980246
+Brute Force,Brute Force,0.99425465
+Brute Force,Brute Force,0.998133
+Brute Force,Brute Force,0.997232
+Brute Force,Port Scan,0.9834358
+Brute Force,DDoS,0.97432095
+Brute Force,Brute Force,0.99815124
+Brute Force,Brute Force,0.9981536
+Brute Force,Brute Force,0.9981832
+Brute Force,Port Scan,0.98332053
+Brute Force,Port Scan,0.9760489
+Brute Force,Brute Force,0.9981939
+Brute Force,Brute Force,0.9981865
+Brute Force,Brute Force,0.99820757
+Brute Force,Brute Force,0.9981938
+Brute Force,Brute Force,0.99813133
+Brute Force,Port Scan,0.9833438
+Brute Force,Brute Force,0.99816304
+Brute Force,Brute Force,0.997872
+Benign,Benign,0.99858546
+Benign,Benign,0.98265105
+Brute Force,Brute Force,0.9981665
+Brute Force,Brute Force,0.9981833
+Brute Force,Brute Force,0.998166
+Brute Force,Brute Force,0.9982145
+Brute Force,Port Scan,0.9836189
+Brute Force,Brute Force,0.99819
+Brute Force,Brute Force,0.9982179
+Brute Force,Brute Force,0.99814653
+Brute Force,Brute Force,0.9981723
+Brute Force,Brute Force,0.99818283
+Brute Force,Brute Force,0.9981775
+Brute Force,Brute Force,0.99821556
+Brute Force,Brute Force,0.9981718
+Brute Force,Brute Force,0.9981509
+Brute Force,Brute Force,0.99820936
+Brute Force,Brute Force,0.99820304
+Brute Force,Brute Force,0.9982395
+Brute Force,Brute Force,0.99817896
+Brute Force,Brute Force,0.99813133
+Brute Force,Brute Force,0.9982102
+Brute Force,Brute Force,0.99812406
+Brute Force,Brute Force,0.9981846
+Brute Force,Brute Force,0.9981304
+Brute Force,Brute Force,0.99815446
+Brute Force,Brute Force,0.99819916
+Brute Force,Brute Force,0.99816185
+Brute Force,Brute Force,0.9981797
+Brute Force,Brute Force,0.9981725
+Brute Force,Brute Force,0.9981816
+Brute Force,Brute Force,0.9981553
+Benign,Benign,0.99547356
+Benign,Benign,0.99859375
+Benign,Benign,0.998596
+Benign,Benign,0.97024274
+Benign,Benign,0.98615634
+Benign,Benign,0.97127825
+Benign,Benign,0.9965405
+Benign,Port Scan,0.64624894
+Benign,Benign,0.99547726
+Benign,Benign,0.9985967
+Benign,Benign,0.9788962
+Benign,Benign,0.9946384
+Benign,Benign,0.9900718
+Benign,Benign,0.9437363
+Benign,Benign,0.99829346
+Benign,Benign,0.9671661
+Benign,Benign,0.9983467
+Benign,Benign,0.9981207
+Benign,Benign,0.9902423
+Benign,Benign,0.99865484
+Benign,Benign,0.9984458
+Benign,Benign,0.9981974
+Benign,Benign,0.9974063
+Benign,Benign,0.9971923
+Benign,Benign,0.99857986
+Benign,Benign,0.9982603
+Benign,Benign,0.995231
+Benign,Benign,0.99862826
+Benign,Benign,0.9985921
+Benign,Benign,0.99861157
+Benign,Benign,0.9875031
+Benign,Benign,0.99861
+Benign,Benign,0.998374
+Benign,Benign,0.9986363
+Benign,Benign,0.99711275
+Benign,Benign,0.9933809
+Benign,Benign,0.99863404
+Benign,Benign,0.996451
+Benign,Benign,0.998468
+Benign,Benign,0.9985085
+Benign,Benign,0.9986268
+Benign,Benign,0.99568814
+Benign,Benign,0.9957338
+Benign,Benign,0.99548954
+Benign,Benign,0.9985885
+Benign,Benign,0.9747599
+Benign,Benign,0.9986216
+Benign,Benign,0.9633241
+Benign,Benign,0.9966185
+Benign,Benign,0.994642
+Benign,Benign,0.9891579
+Benign,Benign,0.72514933
+Benign,Benign,0.9986462
+Benign,Benign,0.9351766
+Benign,Benign,0.99839896
+Benign,Benign,0.98210067
+Benign,Benign,0.9940878
+Benign,Benign,0.99742424
+Benign,Benign,0.9986356
+Benign,Benign,0.9983216
+Benign,Benign,0.8409617
+Benign,Benign,0.9972019
+Benign,Benign,0.9982206
+Benign,Benign,0.96946317
+Benign,Benign,0.99848586
+Benign,Benign,0.98889357
+Benign,Benign,0.9986091
+Benign,Infiltration,0.66146344
+Benign,Benign,0.9950348
+Benign,Benign,0.99213177
+Benign,Benign,0.94550997
+Benign,Benign,0.99859804
+Benign,Benign,0.9528441
+Benign,Benign,0.99751663
+Benign,Benign,0.998615
+Benign,Benign,0.9986338
+Benign,Benign,0.99702436
+Benign,Benign,0.99861515
+Benign,Benign,0.99859077
+Benign,Benign,0.99688417
+Benign,Benign,0.97242886
+Benign,Benign,0.99838746
+Benign,Benign,0.9983292
+Benign,Benign,0.997152
+Benign,Benign,0.9985933
+Benign,Benign,0.99437004
+Benign,Benign,0.9954717
+Benign,Benign,0.99764603
+Benign,Benign,0.9983651
+Benign,Benign,0.9587772
+Benign,Benign,0.99863917
+Benign,Benign,0.99065864
+Benign,Benign,0.99861884
+Benign,Benign,0.9982345
+Benign,Benign,0.9947743
+Benign,Benign,0.9944278
+Benign,Benign,0.99608517
+Benign,Benign,0.9986285
+Benign,Benign,0.9986312
+Benign,Benign,0.9986492
+Benign,Benign,0.9958502
+Benign,Benign,0.9986393
+Benign,Benign,0.99773693
+Benign,Benign,0.7303103
+Benign,Benign,0.99860793
+Benign,Benign,0.8519647
+Benign,Benign,0.99737775
+Benign,Benign,0.99033785
+Benign,Benign,0.9968683
+Benign,Benign,0.9971295
+Benign,Benign,0.9986141
+Benign,Benign,0.99864763
+Benign,Benign,0.9961972
+Benign,Benign,0.99864215
+Benign,Benign,0.9985341
+Benign,Benign,0.9984113
+Benign,Benign,0.9986327
+Benign,Benign,0.9985689
+Benign,Benign,0.9985024
+Benign,Benign,0.99806195
+Benign,Benign,0.9872356
+Benign,Benign,0.9985342
+Benign,Benign,0.9976325
+Benign,Benign,0.9912573
+Benign,Benign,0.997755
+Benign,Benign,0.9986387
+Benign,Benign,0.99610066
+Benign,Benign,0.9973908
+Benign,Benign,0.9984291
+Benign,Benign,0.9934615
+Benign,Benign,0.99689037
+Benign,Benign,0.99680495
+Benign,Benign,0.998642
+Benign,Benign,0.9975552
+Benign,Benign,0.9985707
+Benign,Benign,0.96500224
+Benign,Benign,0.9942
+Benign,Benign,0.9986066
+Benign,Benign,0.989764
+Benign,Benign,0.98716795
+Benign,Benign,0.9459722
+Benign,Benign,0.99365294
+Benign,Benign,0.97576505
+Benign,Benign,0.9975769
+Benign,Benign,0.991375
+Benign,Benign,0.9969668
+Benign,Benign,0.99860233
+Benign,Benign,0.9790636
+Benign,Benign,0.979143
+Benign,Benign,0.96500087
+Benign,Benign,0.99863666
+Benign,Benign,0.99725765
+Benign,Benign,0.99862707
+Benign,Benign,0.99864787
+Benign,Benign,0.99859005
+Benign,Benign,0.99729854
+Benign,Benign,0.9603036
+Benign,Benign,0.997414
+Benign,Benign,0.9908963
+Benign,Benign,0.99556476
+Benign,Benign,0.9982187
+Benign,Benign,0.9982375
+Benign,Benign,0.9941216
+Benign,Benign,0.7633709
+Benign,Benign,0.99694484
+Benign,Benign,0.9986242
+Benign,Benign,0.96321064
+Benign,Benign,0.9985769
+Benign,Benign,0.9986498
+DoS,DoS,0.9621762
+Benign,Benign,0.9985612
+DoS,Benign,0.9314455
+DoS,Benign,0.8628215
+Benign,Benign,0.92257094
+Benign,Benign,0.99863845
+DoS,DoS,0.9564099
+DoS,Benign,0.93143356
+DoS,DoS,0.9627092
+DoS,DoS,0.96271473
+DoS,DoS,0.9625171
+DoS,DoS,0.9625531
+DoS,DoS,0.96262723
+DoS,DoS,0.9566116
+DoS,DoS,0.96253955
+DoS,DoS,0.96257555
+DoS,DoS,0.96262777
+DoS,DoS,0.9626997
+DoS,DoS,0.96274966
+DoS,DDoS,0.9930172
+Benign,Benign,0.9635663
+Benign,Benign,0.9984843
+Benign,Benign,0.99683493
+Benign,Benign,0.9975508
+DoS,DoS,0.96367955
+DoS,DoS,0.98194695
+Benign,Benign,0.9976889
+Benign,Benign,0.9682289
+Benign,Benign,0.998648
+Benign,Benign,0.99553066
+Benign,Benign,0.9985864
+Benign,Benign,0.9927731
+Benign,Benign,0.9741521
+Benign,Benign,0.9976259
+Benign,Benign,0.9254957
+Benign,Benign,0.9728684
+Benign,Benign,0.9985373
+Benign,Benign,0.99864644
+Benign,Benign,0.99824584
+Benign,Benign,0.99347275
+Benign,Benign,0.9976532
+Benign,Benign,0.99209994
+Benign,Benign,0.9862048
+Benign,Benign,0.9954861
+Benign,Benign,0.99853325
+Benign,Benign,0.9986331
+Benign,Benign,0.99824035
+Benign,Benign,0.9983388
+Benign,Benign,0.9979862
+DoS,DoS,0.9985078
+DoS,DoS,0.9988141
+DoS,DoS,0.99770594
+DoS,DoS,0.9987154
+DoS,DoS,0.9975605
+DoS,DoS,0.9986727
+DoS,DoS,0.99870527
+DoS,DoS,0.99869555
+DoS,DoS,0.99876094
+DoS,DoS,0.99799865
+DoS,DoS,0.9986307
+DoS,DoS,0.99854255
+DoS,DoS,0.99767226
+DoS,DoS,0.9986639
+DoS,DoS,0.99852604
+DoS,DoS,0.9982674
+DoS,DoS,0.9987018
+DoS,DoS,0.9987006
+DoS,DoS,0.99847704
+DoS,DoS,0.99815327
+DoS,DoS,0.99884915
+DoS,DoS,0.99883336
+DoS,DoS,0.9979372
+DoS,DoS,0.99877733
+DoS,DoS,0.998814
+DoS,DoS,0.9979474
+DoS,DoS,0.9987704
+DoS,DoS,0.99843866
+DoS,DoS,0.99855226
+DoS,DoS,0.99872977
+DoS,DoS,0.9987436
+DoS,DoS,0.9968076
+DoS,DoS,0.9978631
+DoS,DoS,0.99876803
+DoS,DoS,0.99886876
+DoS,DoS,0.99822897
+DoS,DoS,0.9986802
+DoS,DoS,0.9988243
+DoS,DoS,0.99872917
+DoS,DoS,0.99885917
+DoS,DoS,0.9980677
+DoS,DoS,0.99867624
+DoS,DoS,0.9979317
+DoS,DoS,0.9985127
+DoS,DoS,0.9985605
+DoS,DoS,0.9988129
+DoS,DoS,0.9987093
+DoS,DoS,0.9988238
+DoS,DoS,0.9988426
+DoS,DoS,0.99884146
+DoS,DoS,0.9983382
+DoS,DoS,0.9986972
+DoS,DoS,0.99793386
+DoS,DoS,0.9987884
+DoS,DoS,0.99865854
+DoS,DoS,0.9987288
+Benign,Benign,0.52156186
+Benign,Benign,0.9924777
+Benign,Benign,0.9968119
+Benign,Benign,0.99862885
+Benign,Benign,0.9963452
+Benign,Benign,0.9931257
+DoS,DoS,0.9980263
+DoS,Port Scan,0.97767013
+DoS,Port Scan,0.93031216
+DoS,DoS,0.9967397
+DoS,Port Scan,0.9818981
+DoS,DoS,0.99564135
+DoS,Port Scan,0.98003983
+DoS,DoS,0.99886024
+DoS,DoS,0.9971529
+DoS,Port Scan,0.9730435
+DoS,DoS,0.9954405
+DoS,Port Scan,0.96150744
+DoS,DoS,0.87057734
+DoS,DoS,0.99636984
+DoS,DoS,0.99864393
+DoS,DoS,0.9965963
+DoS,Port Scan,0.9422056
+DoS,DoS,0.9964767
+DoS,Port Scan,0.98072535
+DoS,DoS,0.9986072
+DoS,DoS,0.9963877
+DoS,DoS,0.9963881
+DoS,DoS,0.99850476
+DoS,Port Scan,0.8788357
+DoS,Port Scan,0.97356015
+DoS,Port Scan,0.9770066
+DoS,DoS,0.9987754
+DoS,DoS,0.99769694
+DoS,Port Scan,0.96800005
+DoS,DoS,0.9955577
+DoS,DoS,0.9981932
+DoS,DoS,0.99819523
+DoS,DoS,0.9982173
+DoS,DoS,0.996572
+DoS,DoS,0.9966184
+DoS,DoS,0.9984275
+DoS,DoS,0.99883443
+DoS,Port Scan,0.9348345
+DoS,DoS,0.9981048
+DoS,DoS,0.99835384
+DoS,DoS,0.9985904
+DoS,DoS,0.9964295
+DoS,DoS,0.99857295
+DoS,DoS,0.9985247
+DoS,DoS,0.99555427
+DoS,DoS,0.99870706
+DoS,DoS,0.9987155
+DoS,DoS,0.9954957
+DoS,DoS,0.99653196
+DoS,Port Scan,0.9628537
+DoS,Port Scan,0.98133916
+DoS,DoS,0.9985902
+DoS,DoS,0.9987006
+DoS,DoS,0.99662364
+DoS,DoS,0.9982309
+DoS,DoS,0.9980307
+DoS,DoS,0.99833256
+DoS,DoS,0.99546623
+DoS,Port Scan,0.9714613
+DoS,Port Scan,0.9799799
+DoS,Port Scan,0.9225627
+DoS,DoS,0.9962787
+DoS,DoS,0.9986297
+DoS,DoS,0.99094534
+DoS,Port Scan,0.9762407
+DoS,DoS,0.99867624
+DoS,Port Scan,0.86305684
+DoS,DoS,0.99859875
+DoS,DoS,0.99547064
+DoS,Port Scan,0.9633792
+DoS,Port Scan,0.9735927
+DoS,Port Scan,0.9559318
+DoS,Port Scan,0.98057485
+DoS,Port Scan,0.8726916
+DoS,DoS,0.9988464
+DoS,DoS,0.99666744
+DoS,Port Scan,0.97929215
+DoS,DoS,0.99679226
+DoS,DoS,0.99661297
+DoS,DoS,0.9967969
+DoS,Port Scan,0.95242196
+DoS,Port Scan,0.9845749
+DoS,DoS,0.9968265
+DoS,DoS,0.9963237
+Benign,Benign,0.99864453
+DoS,Port Scan,0.98435736
+DoS,DoS,0.9965808
+DoS,Port Scan,0.98309106
+DoS,Port Scan,0.9813503
+DoS,DoS,0.9967709
+DoS,Port Scan,0.9846874
+DoS,Port Scan,0.9808411
+DoS,DoS,0.9967199
+DoS,Port Scan,0.9810152
+DoS,Port Scan,0.9715926
+DoS,Port Scan,0.9838218
+DoS,Port Scan,0.9838644
+DoS,DoS,0.99629056
+DoS,Port Scan,0.9858056
+DoS,DoS,0.99735403
+DoS,Port Scan,0.9844226
+DoS,Port Scan,0.9834601
+DoS,Port Scan,0.98549634
+DoS,Port Scan,0.97788656
+DoS,Port Scan,0.96926326
+DoS,Port Scan,0.9845465
+DoS,DoS,0.99798006
+DoS,Port Scan,0.98231906
+DoS,Port Scan,0.98315364
+DoS,DoS,0.9963542
+DoS,Port Scan,0.98431337
+DoS,Port Scan,0.98522055
+DoS,DoS,0.99660754
+DoS,Port Scan,0.9833256
+DoS,Port Scan,0.9806692
+DoS,Port Scan,0.98428464
+DoS,Port Scan,0.9845106
+DoS,Port Scan,0.98297024
+DoS,Port Scan,0.98702943
+DoS,Port Scan,0.97966087
+DoS,DoS,0.996539
+DoS,Port Scan,0.985097
+DoS,Port Scan,0.9861913
+DoS,Port Scan,0.98579943
+DoS,Port Scan,0.98128486
+DoS,DoS,0.99660194
+DoS,Port Scan,0.975045
+DoS,Port Scan,0.98599875
+DoS,Port Scan,0.9851151
+DoS,Port Scan,0.98382336
+DoS,Port Scan,0.96386725
+DoS,Port Scan,0.96774286
+DoS,DoS,0.99666935
+DoS,DoS,0.9967501
+DoS,DoS,0.9966605
+DoS,Port Scan,0.9843205
+DoS,Port Scan,0.9852197
+DoS,Port Scan,0.9843462
+DoS,DoS,0.9975158
+DoS,Port Scan,0.98356515
+DoS,Port Scan,0.98406625
+DoS,DoS,0.99737775
+DoS,Port Scan,0.98470706
+DoS,DoS,0.99670166
+DoS,DoS,0.99639565
+DoS,DoS,0.99674547
+DoS,Port Scan,0.9819595
+DoS,Port Scan,0.9835454
+DoS,Port Scan,0.98264354
+DoS,Port Scan,0.969906
+DoS,DoS,0.99671257
+DoS,Port Scan,0.9828252
+DoS,Port Scan,0.9844541
+DoS,Port Scan,0.9819136
+DoS,Port Scan,0.9812045
+DoS,DoS,0.9965917
+DoS,Port Scan,0.9811699
+DoS,DoS,0.99659866
+DoS,Port Scan,0.9170995
+DoS,Port Scan,0.9844044
+DoS,Port Scan,0.9851645
+DoS,DoS,0.9977906
+DoS,Port Scan,0.98426235
+DoS,Port Scan,0.98342913
+DoS,DoS,0.99616575
+DoS,Port Scan,0.981779
+DoS,DoS,0.9962375
+DoS,DoS,0.9963876
+DoS,DoS,0.9967674
+DoS,Port Scan,0.97954893
+Benign,Benign,0.99444973
+DoS,Port Scan,0.72338486
+DoS,Port Scan,0.8456326
+DoS,Port Scan,0.846036
+Benign,Benign,0.9981494
+Benign,Benign,0.97538424
+Benign,Benign,0.9976029
+DoS,Port Scan,0.9777258
+Benign,Benign,0.99731296
+Benign,Benign,0.98501116
+Benign,Benign,0.9962831
+Benign,Benign,0.99419665
+Benign,Benign,0.9983614
+DoS,DoS,0.9332418
+DoS,DoS,0.8460036
+DoS,Brute Force,0.4925029
+DoS,DoS,0.6437873
+DoS,DoS,0.8176264
+DoS,DoS,0.85577494
+DoS,DoS,0.82200396
+DoS,DoS,0.9675994
+DoS,DoS,0.66008717
+DoS,Port Scan,0.51544976
+DoS,DoS,0.89126587
+Benign,Benign,0.9985494
+DoS,DoS,0.9743404
+DoS,DoS,0.8970299
+DoS,Port Scan,0.9623439
+DoS,DoS,0.9563076
+DoS,DoS,0.9659711
+DoS,DoS,0.7967909
+DoS,DoS,0.92285347
+DoS,DoS,0.92540413
+DoS,Port Scan,0.96240425
+DoS,DoS,0.93569994
+DoS,DoS,0.34802768
+Benign,Benign,0.99515593
+Benign,Benign,0.99679524
+DoS,Port Scan,0.9608909
+DoS,DoS,0.6145177
+DoS,DoS,0.94931567
+DoS,Brute Force,0.3966679
+DoS,DoS,0.9287041
+DoS,DoS,0.93914664
+DoS,DoS,0.4140696
+DoS,DoS,0.41446275
+DoS,DoS,0.9646695
+DoS,DoS,0.9367785
+DoS,Port Scan,0.9611076
+DoS,Port Scan,0.9608606
+DoS,Port Scan,0.96138775
+DoS,DoS,0.8814206
+DoS,DoS,0.9624885
+DoS,DoS,0.92005247
+DoS,Port Scan,0.96179736
+DoS,DoS,0.9062687
+DoS,Port Scan,0.961161
+DoS,DoS,0.97503227
+Benign,Benign,0.9972916
+DoS,DDoS,0.98291355
+DoS,DoS,0.9569548
+DoS,DoS,0.9404929
+DoS,DoS,0.8854113
+DoS,DoS,0.9867259
+DoS,Port Scan,0.57769525
+DoS,Port Scan,0.96047556
+DoS,Port Scan,0.960919
+DoS,Port Scan,0.9605423
+DoS,DoS,0.99094486
+DoS,DDoS,0.99072486
+DoS,Brute Force,0.4674468
+DoS,DoS,0.9841165
+DoS,DoS,0.92518747
+DoS,DoS,0.92731744
+DoS,Port Scan,0.96048236
+DoS,DoS,0.53528035
+DoS,DoS,0.9511927
+DoS,Port Scan,0.9605591
+DoS,DoS,0.9293888
+DoS,Port Scan,0.960484
+DoS,DoS,0.9653759
+DoS,DoS,0.95541745
+DoS,DoS,0.98840046
+DoS,DoS,0.9323464
+Benign,Benign,0.9903908
+DoS,DoS,0.87661946
+DoS,DoS,0.9727735
+DoS,DoS,0.9048461
+Benign,Benign,0.98939604
+Benign,Benign,0.99080783
+DoS,Port Scan,0.96061677
+DoS,DoS,0.97428936
+DoS,Port Scan,0.96090144
+DoS,Brute Force,0.50116897
+DoS,DoS,0.89356226
+DoS,Port Scan,0.96025026
+DoS,Port Scan,0.9602749
+DoS,DoS,0.9684664
+DoS,DoS,0.923471
+DoS,Brute Force,0.3656657
+DoS,DoS,0.9021488
+DoS,DoS,0.94871575
+DoS,Port Scan,0.9602605
+DoS,DoS,0.9248075
+DoS,Port Scan,0.9605588
+DoS,DoS,0.9058292
+DoS,DoS,0.913699
+DoS,DoS,0.9401281
+Benign,Benign,0.9951638
+Benign,Benign,0.99837804
+Benign,Benign,0.9858547
+DoS,DoS,0.96120596
+DoS,Port Scan,0.9667544
+DoS,DoS,0.98889124
+DoS,Port Scan,0.96961594
+DoS,DoS,0.91030926
+DoS,Port Scan,0.96678025
+DoS,DoS,0.9902034
+DoS,DoS,0.9668797
+DoS,DoS,0.96803063
+DoS,DoS,0.65341455
+DoS,DDoS,0.9667622
+DoS,DoS,0.99398696
+DoS,DoS,0.7116799
+DoS,DoS,0.97229326
+DoS,DoS,0.96946925
+DoS,DoS,0.9454223
+DoS,DoS,0.9514094
+DoS,DoS,0.9327708
+DoS,Port Scan,0.9625191
+DoS,Port Scan,0.9717453
+DoS,Port Scan,0.963328
+DoS,DoS,0.4564731
+DoS,DoS,0.8789907
+DoS,DoS,0.8579344
+DoS,DoS,0.9934981
+DoS,DDoS,0.9814949
+DoS,Port Scan,0.9667918
+DoS,Port Scan,0.9638315
+DoS,DoS,0.44077522
+DoS,DoS,0.35361695
+DoS,DoS,0.93351316
+DoS,DoS,0.9675473
+DoS,Brute Force,0.60669976
+DoS,Brute Force,0.41145396
+DoS,DoS,0.9070573
+DoS,DoS,0.914704
+DoS,DoS,0.86637604
+DoS,DoS,0.9011996
+DoS,Brute Force,0.7132571
+DoS,DoS,0.87139267
+Benign,Benign,0.99634933
+Benign,Benign,0.99848264
+Benign,Benign,0.9893428
+Benign,Benign,0.94867826
+Benign,Benign,0.99859506
+Benign,Benign,0.99822
+Benign,Benign,0.997603
+Benign,Benign,0.9986507
+Benign,Benign,0.97186625
+Benign,Benign,0.9963887
+Benign,Benign,0.9982504
+Benign,Benign,0.99860173
+Benign,Benign,0.9931352
+Benign,Benign,0.99383074
+Benign,Benign,0.9925613
+Benign,Benign,0.9979102
+Benign,Benign,0.9983632
+Benign,Benign,0.9984163
+Benign,Benign,0.9985952
+Benign,Benign,0.99864453
+Benign,Benign,0.99863064
+Benign,Benign,0.96980435
+Benign,Benign,0.99238116
+Benign,Benign,0.9878807
+Benign,Benign,0.9986457
+Benign,Benign,0.99858737
+Benign,Benign,0.99863064
+Benign,Benign,0.9397515
+Benign,Benign,0.99811673
+Benign,Benign,0.9909601
+Benign,Benign,0.998621
+Benign,Benign,0.98233193
+Benign,Benign,0.9696348
+Benign,Benign,0.9986166
+Benign,Benign,0.99572337
+Benign,Benign,0.9983797
+Benign,Benign,0.9986297
+Benign,Benign,0.9985807
+Benign,Benign,0.9982272
+Benign,Benign,0.99533796
+Benign,Benign,0.99587893
+Benign,Benign,0.9986248
+Benign,Benign,0.9943693
+Benign,Benign,0.9974573
+Benign,Benign,0.9931465
+Benign,Benign,0.99822384
+Benign,Benign,0.9969168
+Benign,Benign,0.9986002
+Benign,Benign,0.9891979
+Benign,Benign,0.9970151
+Benign,Benign,0.9986137
+Benign,Benign,0.9643306
+Benign,Benign,0.9926024
+Benign,Benign,0.99735105
+Benign,Benign,0.993313
+Benign,Benign,0.99572754
+Benign,Benign,0.9986468
+Benign,Benign,0.9936982
+Benign,Benign,0.9986326
+Benign,Benign,0.98230547
+Benign,Benign,0.9967193
+Benign,Benign,0.9983177
+Benign,Benign,0.9986198
+Benign,Benign,0.9984011
+Benign,Benign,0.9978769
+Benign,Benign,0.997844
+Benign,Benign,0.99364567
+Benign,Benign,0.9951384
+Benign,Benign,0.99523443
+Benign,Benign,0.98206437
+Benign,Benign,0.9921429
+Benign,Benign,0.9986241
+Benign,Benign,0.99611264
+Benign,Benign,0.99280506
+Benign,Benign,0.9955979
+Benign,Benign,0.99851674
+Benign,Benign,0.99854964
+Benign,Benign,0.9984407
+Benign,Benign,0.9985037
+Benign,Benign,0.99862933
+Benign,Benign,0.9934974
+Benign,Benign,0.9986267
+Benign,Benign,0.9985399
+Benign,Benign,0.9899451
+Benign,Benign,0.9855725
+Benign,Benign,0.9983608
+Benign,Benign,0.9937889
+Benign,Benign,0.9985929
+Benign,Benign,0.95796204
+Benign,Benign,0.997071
+Benign,Benign,0.99861884
+Benign,Benign,0.9965223
+Benign,Benign,0.998637
+Benign,Benign,0.9986442
+Benign,Benign,0.99862754
+Benign,Benign,0.9985531
+Benign,Benign,0.99810636
+Benign,Benign,0.9985819
+Benign,Benign,0.86622876
+Benign,Benign,0.9953093
+Benign,Benign,0.9981641
+Benign,Benign,0.9983197
+Benign,Benign,0.9986199
+Benign,Benign,0.9981055
+Benign,Benign,0.99796593
+Benign,Benign,0.99044496
+Benign,Benign,0.9984536
+Benign,Benign,0.99837446
+Benign,Benign,0.9983589
+Benign,Benign,0.9985728
+Benign,Benign,0.9986135
+Benign,Benign,0.9985084
+Benign,Benign,0.99499583
+Benign,Benign,0.9923299
+Benign,Benign,0.99683243
+Benign,Benign,0.99289674
+Benign,Benign,0.995955
+Benign,Benign,0.9954021
+Benign,Benign,0.9967769
+Benign,Benign,0.9975055
+Benign,Benign,0.9878704
+Benign,Benign,0.99855787
+Benign,Benign,0.9985997
+Benign,Benign,0.99862945
+Benign,Benign,0.9975957
+Benign,Benign,0.9983034
+Benign,Benign,0.9981142
+Benign,Benign,0.9953461
+Benign,Benign,0.99662554
+Benign,Benign,0.9984011
+Benign,Benign,0.9949916
+Benign,Benign,0.86254793
+Benign,Benign,0.99859494
+Benign,Benign,0.9054304
+Benign,Benign,0.998133
+Benign,Benign,0.99836427
+Benign,Benign,0.99822205
+Benign,Benign,0.9952494
+Benign,Benign,0.99853027
+Benign,Benign,0.91562986
+Benign,Benign,0.9950918
+Benign,Benign,0.99306524
+Benign,Benign,0.9981609
+Benign,Benign,0.9986137
+Benign,Benign,0.9985678
+Benign,Benign,0.99661285
+Benign,Benign,0.9985275
+Benign,Benign,0.9980878
+Benign,Benign,0.9952761
+Benign,Benign,0.60872245
+Benign,Benign,0.9985232
+Benign,Benign,0.99674004
+Benign,Benign,0.99261194
+Benign,Benign,0.99528706
+Benign,Benign,0.998601
+Benign,Benign,0.9977075
+Benign,Benign,0.9986584
+Benign,Benign,0.99772304
+Benign,Benign,0.99440634
+Benign,Benign,0.99661237
+Benign,Benign,0.996212
+Benign,Benign,0.99863005
+Benign,Benign,0.99497116
+Benign,Benign,0.9986425
+Benign,Benign,0.9810813
+Benign,Benign,0.98499584
+Benign,Benign,0.99859995
+Benign,Benign,0.9931164
+Benign,Benign,0.99320203
+Benign,Benign,0.99861515
+Benign,Benign,0.99836713
+Benign,Benign,0.99832994
+Benign,Benign,0.9972403
+Benign,Benign,0.9965738
+Benign,Benign,0.9983602
+Benign,Benign,0.988698
+Benign,Benign,0.998346
+Benign,Benign,0.9887572
+Benign,Benign,0.9912544
+Benign,Benign,0.9964425
+Benign,Benign,0.9850949
+Benign,Benign,0.99859256
+Benign,Benign,0.9975211
+Benign,Benign,0.99859995
+Benign,Benign,0.99060446
+Benign,Benign,0.99600047
+Benign,Benign,0.9945214
+Benign,Benign,0.998292
+Benign,Benign,0.9980573
+Benign,Infiltration,0.80665827
+Benign,Benign,0.99735826
+Benign,Benign,0.998575
+Benign,Benign,0.9986066
+Benign,Benign,0.99842346
+Benign,Benign,0.99193394
+Benign,Benign,0.99774456
+Benign,Benign,0.99754816
+Benign,Benign,0.9986437
+Benign,Benign,0.9947084
+Benign,Benign,0.9956071
+Benign,Benign,0.9887776
+Benign,Benign,0.9985305
+Benign,Benign,0.9983565
+Benign,Benign,0.99855405
+Benign,Benign,0.99861014
+Benign,Benign,0.998544
+Benign,Benign,0.9982886
+Benign,Benign,0.99861336
+Benign,Benign,0.9986455
+Benign,Benign,0.99859375
+Benign,Benign,0.99864787
+Benign,Benign,0.9964485
+Benign,Benign,0.99861324
+Benign,Benign,0.9957897
+Benign,Benign,0.99250704
+Benign,Benign,0.99838126
+Benign,Benign,0.9957552
+Benign,Benign,0.9953053
+Benign,Benign,0.99673873
+Benign,Benign,0.9954259
+Benign,Benign,0.99737346
+Benign,Benign,0.99580956
+Benign,Benign,0.99812907
+Benign,Benign,0.99723023
+Benign,Benign,0.99190485
+Benign,Benign,0.998615
+Benign,Benign,0.9986112
+Benign,Benign,0.99856645
+Benign,Benign,0.9982742
+Benign,Benign,0.99818856
+Benign,Benign,0.99636096
+Benign,Benign,0.99858874
+Benign,Benign,0.9986093
+Benign,Benign,0.99650335
+Benign,Benign,0.9986382
+Benign,Benign,0.99832064
+Benign,Benign,0.8630812
+Benign,Benign,0.99862266
+Benign,Benign,0.99862885
+Benign,Benign,0.99501544
+Benign,Benign,0.998635
+Benign,Benign,0.9986487
+Benign,Benign,0.98429537
+Benign,Benign,0.9985959
+Benign,Benign,0.9923069
+Benign,Benign,0.9983486
+Benign,Benign,0.9969317
+Benign,Benign,0.98756856
+Benign,Benign,0.9984273
+Benign,Benign,0.9986418
+Benign,Benign,0.9976618
+Benign,Benign,0.99862087
+Benign,Benign,0.99809283
+Benign,Benign,0.9980603
+Benign,Benign,0.9766733
+Benign,Benign,0.9975527
+Benign,Benign,0.998292
+Benign,Benign,0.9891962
+Benign,Benign,0.9985629
+Benign,Benign,0.99812347
+Benign,Benign,0.99500895
+Benign,Benign,0.9938771
+Benign,Benign,0.9986071
+Benign,Benign,0.98766196
+Benign,Benign,0.9815446
+Benign,Benign,0.9933268
+Benign,Benign,0.99748224
+Benign,Benign,0.9985813
+Benign,Benign,0.9971102
+Benign,Benign,0.99832374
+Benign,Benign,0.99673647
+Benign,Benign,0.99861324
+Benign,Benign,0.99259514
+Benign,Benign,0.99859005
+Benign,Benign,0.9986312
+Benign,Benign,0.9985973
+Benign,Benign,0.9960672
+Benign,Benign,0.9975756
+Benign,Benign,0.9986374
+Benign,Benign,0.9985703
+Benign,Benign,0.99832886
+Benign,Benign,0.9951428
+Benign,Benign,0.9902214
+Benign,Benign,0.9947601
+Benign,Benign,0.99839586
+Benign,Benign,0.9959811
+Benign,Benign,0.99864334
+Benign,Benign,0.99375206
+Benign,Benign,0.99859136
+Benign,Benign,0.9986325
+Benign,Benign,0.99859244
+Benign,Benign,0.9986369
+Benign,Benign,0.99497473
+Benign,Benign,0.9983944
+Benign,Benign,0.9983462
+Benign,Benign,0.9984126
+Benign,Benign,0.9959907
+Benign,Benign,0.9938438
+Benign,Benign,0.99850637
+Benign,Benign,0.9786841
+Benign,Benign,0.99840873
+Benign,Benign,0.99842334
+Benign,Benign,0.9986492
+Benign,Benign,0.65739095
+Benign,Benign,0.981248
+Benign,Botnet,0.7918843
+Benign,Benign,0.9986161
+Benign,Benign,0.9975823
+Benign,Benign,0.9877984
+Benign,Benign,0.99775606
+Benign,Benign,0.9906916
+Benign,Benign,0.99865603
+Benign,Benign,0.99825495
+Benign,Benign,0.9985864
+Benign,Benign,0.99663574
+Benign,Benign,0.9960526
+Benign,Benign,0.99863297
+Benign,Benign,0.99834883
+Benign,Benign,0.9949201
+Benign,Benign,0.9985416
+Benign,Benign,0.99837816
+Benign,Benign,0.9986388
+Benign,Benign,0.99782455
+Benign,Benign,0.99174994
+Benign,Benign,0.99851745
+Benign,Benign,0.94633716
+Benign,Benign,0.99860424
+Benign,Benign,0.99859446
+Benign,Benign,0.9983088
+Benign,Benign,0.9976913
+Benign,Benign,0.9824583
+Benign,Benign,0.99862933
+Benign,Benign,0.9982199
+Benign,Benign,0.9974502
+Benign,Benign,0.9977145
+Benign,Benign,0.994361
+Benign,Benign,0.9972556
+Benign,Benign,0.9986125
+Benign,Benign,0.99755645
+Benign,Benign,0.9979656
+Benign,Benign,0.98576075
+Benign,Benign,0.9985324
+Benign,Benign,0.99425197
+Benign,Benign,0.99839455
+Benign,Benign,0.9978124
+Benign,Benign,0.9954259
+Benign,Benign,0.99863714
+Benign,Benign,0.9949726
+Benign,Benign,0.99574345
+Benign,Benign,0.9958118
+Benign,Benign,0.9986506
+Benign,Benign,0.99632674
+Benign,Benign,0.9937704
+Benign,Benign,0.9983694
+Benign,Benign,0.991903
+Benign,Benign,0.99554366
+Benign,Benign,0.9963523
+Benign,Benign,0.9982085
+Benign,Benign,0.9967506
+Benign,Benign,0.99740475
+Benign,Benign,0.97093
+Benign,Benign,0.9985696
+Benign,Benign,0.9976724
+Benign,Benign,0.8523306
+Benign,Benign,0.995387
+Benign,Benign,0.9951675
+Benign,Benign,0.9983297
+Benign,Benign,0.9829047
+Benign,Benign,0.99555993
+Benign,Benign,0.98867667
+Benign,Benign,0.99320686
+Benign,Benign,0.99775594
+Benign,Benign,0.99675685
+Benign,Benign,0.9985655
+Benign,Benign,0.9955656
+Benign,Benign,0.9985843
+Benign,Benign,0.99861467
+Benign,Benign,0.9964641
+Benign,Benign,0.9692872
+Benign,Benign,0.9956424
+Benign,Benign,0.99805236
+Benign,Benign,0.98592454
+Benign,Benign,0.9978143
+Benign,Benign,0.9799662
+Benign,Benign,0.9985991
+Benign,Benign,0.99849653
+Benign,Benign,0.9948894
+Benign,Benign,0.99810284
+Benign,Benign,0.7629296
+Benign,Benign,0.99820065
+Benign,Benign,0.99723035
+Benign,Benign,0.9912128
+Benign,Benign,0.9101675
+Benign,Benign,0.99721354
+Benign,Benign,0.994894
+Benign,Benign,0.99841475
+Benign,Benign,0.99736834
+Benign,Benign,0.9975412
+Benign,Benign,0.9985795
+Benign,Benign,0.9986065
+Benign,Benign,0.9980876
+Benign,Benign,0.9896347
+Benign,Benign,0.99859935
+Benign,Benign,0.9986111
+Benign,Benign,0.99862254
+Benign,Benign,0.99858654
+Benign,Benign,0.9873251
+Benign,Benign,0.9939422
+Benign,Benign,0.9985638
+Benign,Benign,0.99861205
+Benign,Benign,0.9942701
+Benign,Benign,0.99373144
+Benign,Benign,0.99858654
+Benign,Benign,0.9920918
+Benign,Benign,0.96422553
+Benign,Benign,0.998643
+Benign,Benign,0.9986469
+Benign,Benign,0.99863017
+Benign,Benign,0.99670035
+Benign,Benign,0.9964623
+Benign,Benign,0.997615
+Benign,Benign,0.9964922
+Benign,Benign,0.9986436
+Benign,Benign,0.99616843
+Benign,Benign,0.99856013
+Benign,Benign,0.9985482
+Benign,Benign,0.9860699
+Benign,Benign,0.9980665
+Benign,Benign,0.9941298
+Benign,Benign,0.9938548
+Benign,Benign,0.9931878
+Benign,Benign,0.9967456
+Benign,Benign,0.98030156
+Benign,Benign,0.5435481
+Benign,Benign,0.99754566
+Benign,Benign,0.9982913
+Benign,Benign,0.9986118
+Benign,Benign,0.998485
+Benign,Benign,0.99816906
+Benign,Benign,0.9936864
+Benign,Benign,0.99833065
+Benign,Benign,0.9986437
+Benign,Benign,0.9983224
+Benign,Benign,0.9980836
+Benign,Benign,0.9982495
+Benign,Benign,0.99852705
+Benign,Benign,0.9985771
+Benign,Benign,0.9950323
+Benign,Benign,0.99358857
+Benign,Benign,0.9981006
+Benign,Benign,0.9881434
+Benign,Benign,0.95020056
+Benign,Benign,0.8757859
+Benign,Benign,0.9676546
+Benign,Benign,0.99839705
+Benign,Benign,0.9879754
+Benign,Benign,0.99861765
+Benign,Benign,0.9986382
+Benign,Benign,0.99823964
+Benign,Benign,0.99862015
+Benign,Benign,0.97734696
+Benign,Benign,0.99672973
+Benign,Benign,0.9957386
+Benign,Benign,0.998611
+Benign,Benign,0.9850109
+Benign,Benign,0.99606615
+Benign,Benign,0.9986035
+Infiltration,Infiltration,0.978128
+Benign,Benign,0.99860966
+Benign,Benign,0.9934923
+Infiltration,Infiltration,0.9794646
+Infiltration,Infiltration,0.9727683
+Benign,Benign,0.9983884
+Infiltration,Benign,0.9969394
+Benign,Benign,0.9928161
+Benign,Benign,0.9986236
+Infiltration,Infiltration,0.9021041
+Benign,Benign,0.9963637
+Benign,Benign,0.99802643
+Benign,Benign,0.9784582
+Benign,Benign,0.9780739
+Benign,Benign,0.9907815
+Benign,Benign,0.9985759
+Benign,Benign,0.99741334
+Benign,Benign,0.9866409
+Benign,Benign,0.9986064
+Benign,Benign,0.99813664
+Benign,Benign,0.9980501
+Benign,Benign,0.99379796
+Benign,Benign,0.9957338
+Benign,Benign,0.97976387
+Benign,Benign,0.998602
+Benign,Benign,0.9985575
+Benign,Benign,0.992046
+Benign,Benign,0.997171
+Benign,Benign,0.99567235
+Benign,Benign,0.9948821
+Benign,Benign,0.88146585
+Benign,Benign,0.9986303
+Benign,Benign,0.99745625
+Benign,Benign,0.9986333
+Benign,Benign,0.9985037
+Benign,Benign,0.99863786
+Benign,Benign,0.9663929
+Benign,Benign,0.9976822
+Benign,Benign,0.99857605
+Benign,Benign,0.9938306
+Benign,Benign,0.99695754
+Benign,Benign,0.9982134
+Benign,Benign,0.99421906
+Benign,Benign,0.99586856
+Benign,Benign,0.99551374
+Benign,Benign,0.99862015
+Benign,Benign,0.9985857
+Benign,Benign,0.99733967
+Benign,Benign,0.9977214
+Benign,Benign,0.99278873
+Benign,Benign,0.9983045
+Benign,Benign,0.99861896
+Benign,Benign,0.99660957
+Benign,Benign,0.9986137
+Benign,Benign,0.9986216
+Benign,Benign,0.9966363
+Benign,Benign,0.9755798
+Benign,Benign,0.97981924
+Benign,Benign,0.99655294
+Benign,Benign,0.9986534
+Benign,Benign,0.9983265
+Benign,Benign,0.99864024
+Infiltration,Infiltration,0.9764365
+Benign,Benign,0.9918122
+Benign,Benign,0.9986082
+Benign,Benign,0.9986179
+Infiltration,Benign,0.98959994
+Benign,Benign,0.99033374
+Benign,Benign,0.9976458
+Benign,Benign,0.9985984
+Benign,Benign,0.9980977
+Benign,Benign,0.99635893
+Benign,Benign,0.998616
+Benign,Benign,0.99535084
+Benign,Benign,0.99772257
+Benign,Benign,0.99508756
+Benign,Benign,0.9958144
+Benign,Benign,0.9931015
+Benign,Benign,0.99862444
+Benign,Benign,0.9932833
+Benign,Benign,0.99108475
+Benign,Benign,0.99817395
+Benign,Benign,0.995248
+Benign,Benign,0.9986418
+Benign,Botnet,0.98237073
+Benign,Benign,0.9985612
+Benign,Benign,0.9978036
+Benign,Benign,0.9986089
+Benign,Benign,0.9960448
+Benign,Benign,0.9983779
+Benign,Benign,0.9963735
+Benign,Benign,0.9618451
+Benign,Benign,0.9984768
+Benign,Benign,0.98428255
+Benign,Benign,0.9985946
+Benign,Benign,0.99860066
+Benign,Benign,0.99400514
+Benign,Benign,0.9983883
+Benign,Benign,0.976756
+Benign,Benign,0.9986174
+Benign,Benign,0.99766624
+Benign,Benign,0.98413175
+Benign,Benign,0.99817395
+Benign,Benign,0.9983754
+Benign,Benign,0.9982168
+Benign,Benign,0.9901079
+Benign,Benign,0.9986254
+Benign,Benign,0.99858934
+Benign,Benign,0.99404174
+Benign,Benign,0.9947708
+Benign,Benign,0.9940621
+Benign,Benign,0.9985916
+Benign,Benign,0.9892096
+Benign,Benign,0.99860877
+Benign,Benign,0.9786977
+Benign,Benign,0.99805236
+Benign,Benign,0.9975763
+Benign,Benign,0.99593556
+Benign,Benign,0.99849343
+Benign,Benign,0.99809176
+Benign,Benign,0.97759026
+Benign,Benign,0.99140173
+Benign,Benign,0.99858713
+Benign,Benign,0.9970421
+Benign,Benign,0.9981408
+Benign,Benign,0.99108547
+Benign,Benign,0.99834347
+Benign,Benign,0.99540734
+Benign,Benign,0.9952472
+Benign,Benign,0.99852365
+Benign,Benign,0.9984201
+Benign,Benign,0.9820734
+Benign,Benign,0.99858934
+Benign,Benign,0.99659425
+Benign,Benign,0.99612147
+Benign,Benign,0.99544525
+Benign,Botnet,0.96136767
+Benign,Benign,0.7312585
+Benign,Benign,0.95797205
+Benign,Benign,0.9985562
+Benign,Benign,0.99819654
+Benign,Benign,0.99587506
+Benign,Benign,0.99729925
+Benign,Benign,0.9968071
+Benign,Benign,0.9985843
+Benign,Benign,0.99860424
+Benign,Benign,0.997973
+Benign,Benign,0.99712116
+Benign,Benign,0.99741685
+Benign,Benign,0.9969783
+Benign,Benign,0.996227
+Benign,Benign,0.998648
+Benign,Benign,0.9963624
+Benign,Benign,0.9867582
+Benign,Benign,0.99769753
+Benign,Benign,0.9960788
+Benign,Benign,0.9967264
+Benign,Benign,0.9976399
+Benign,Benign,0.9948094
+Benign,Benign,0.99498147
+Benign,Benign,0.91505873
+Benign,Benign,0.96503276
+Benign,Benign,0.998312
+Benign,Benign,0.9985569
+Benign,Benign,0.99859923
+Benign,Benign,0.9981402
+Benign,Benign,0.997658
+Benign,Benign,0.9985393
+Benign,Benign,0.9974317
+Benign,Benign,0.9985555
+Benign,Benign,0.9944372
+Benign,Benign,0.9953761
+Benign,Benign,0.97715604
+Benign,Benign,0.9985335
+Benign,Benign,0.9984743
+Benign,Benign,0.9884063
+Benign,Benign,0.9986437
+Benign,Benign,0.99664634
+Benign,Benign,0.99715865
+Benign,Benign,0.99261004
+Benign,Benign,0.99676394
+Benign,Benign,0.9985494
+Benign,Benign,0.98915976
+Benign,Benign,0.9815947
+Benign,Benign,0.9986249
+Benign,Benign,0.998572
+Benign,Benign,0.99861026
+Benign,Benign,0.9929885
+Benign,Benign,0.99522567
+Benign,Benign,0.9724572
+Benign,Benign,0.99815303
+Benign,Benign,0.9969729
+Benign,Benign,0.9511038
+Benign,Benign,0.9949057
+Benign,Benign,0.9386748
+Benign,Benign,0.7328946
+Benign,Benign,0.7495204
+Benign,Benign,0.99852896
+Benign,Benign,0.9969139
+Benign,Benign,0.998345
+Benign,Benign,0.99840266
+Benign,Benign,0.99838114
+Benign,Benign,0.99492776
+Benign,Benign,0.9952549
+Benign,Benign,0.9950309
+Benign,Benign,0.99859196
+Benign,Benign,0.96175534
+Benign,Benign,0.99837625
+Benign,Benign,0.99406636
+Benign,Brute Force,0.4961856
+Benign,Benign,0.9984285
+Benign,Benign,0.99379385
+Benign,Benign,0.9981515
+Benign,Benign,0.9984169
+Benign,Benign,0.8835228
+Benign,Benign,0.99501145
+Benign,Benign,0.99820757
+Benign,Benign,0.9975211
+Benign,Benign,0.9382569
+Benign,Benign,0.9969982
+Benign,Benign,0.9963309
+Benign,Benign,0.99739504
+Benign,Benign,0.9889237
+Benign,Benign,0.98766464
+Benign,Benign,0.9941379
+Benign,Benign,0.99096054
+Benign,Benign,0.9933648
+Benign,Benign,0.99659723
+Benign,Benign,0.99830097
+Benign,Benign,0.9843514
+Benign,Benign,0.9927384
+Botnet,Benign,0.97563475
+Benign,Benign,0.91506815
+Benign,Benign,0.9934464
+Benign,Benign,0.9956742
+Benign,Benign,0.99854857
+Benign,Benign,0.9357829
+Benign,Benign,0.99024314
+Benign,Benign,0.99848586
+Benign,Benign,0.9983766
+Benign,Benign,0.9969409
+Benign,Benign,0.99524975
+Benign,Benign,0.9942206
+Benign,Benign,0.9985489
+Benign,Benign,0.9983729
+Benign,Benign,0.9981363
+Benign,Benign,0.99748284
+Benign,Benign,0.9986135
+Benign,Benign,0.97318935
+Benign,Benign,0.99220735
+Benign,Benign,0.9971385
+Botnet,Botnet,0.99584216
+Benign,Benign,0.99862087
+Botnet,Botnet,0.99595165
+Botnet,Botnet,0.9959816
+Benign,Benign,0.99856585
+Benign,Benign,0.989359
+Benign,Benign,0.99652785
+Benign,Benign,0.9983014
+Botnet,Botnet,0.99596786
+Botnet,Botnet,0.9959806
+Botnet,Botnet,0.99598265
+Botnet,Botnet,0.9934953
+Botnet,Botnet,0.99598205
+Botnet,Botnet,0.99346524
+Botnet,Botnet,0.99347335
+Botnet,Botnet,0.99596256
+Benign,Benign,0.99819094
+Benign,Benign,0.9950724
+Botnet,Botnet,0.9959772
+Botnet,Botnet,0.9935142
+Botnet,Botnet,0.9958625
+Botnet,Botnet,0.99334174
+Benign,Benign,0.9949469
+Benign,Benign,0.9983563
+Botnet,Botnet,0.99598205
+Botnet,Botnet,0.9935388
+Botnet,Botnet,0.9939448
+Botnet,Botnet,0.9941875
+Botnet,Botnet,0.9932973
+Botnet,Botnet,0.9959794
+Benign,Benign,0.99480295
+Benign,Benign,0.9985964
+Botnet,Botnet,0.99417526
+Botnet,Botnet,0.9936274
+Botnet,Botnet,0.9958324
+Botnet,Botnet,0.9929195
+Botnet,Botnet,0.9940224
+Botnet,Botnet,0.9958325
+Botnet,Botnet,0.9935514
+Botnet,Botnet,0.99329597
+Benign,Benign,0.9893455
+Botnet,Botnet,0.9935595
+Botnet,Botnet,0.99583155
+Botnet,Botnet,0.9932678
+Botnet,Botnet,0.99402547
+Botnet,Botnet,0.99327326
+Benign,Benign,0.9983937
+Botnet,Botnet,0.9932961
+Botnet,Botnet,0.99583435
+Botnet,Botnet,0.993555
+Botnet,Botnet,0.99355835
+Botnet,Botnet,0.9942211
+Benign,Benign,0.9986161
+Botnet,Botnet,0.99417686
+Botnet,Botnet,0.993565
+Botnet,Botnet,0.9935579
+Botnet,Botnet,0.9935494
+Botnet,Botnet,0.99583447
+Botnet,Botnet,0.9940445
+Botnet,Botnet,0.993226
+Botnet,Botnet,0.99583286
+Botnet,Botnet,0.9938525
+Botnet,Botnet,0.99327046
+Botnet,Botnet,0.99577063
+Botnet,Botnet,0.99593914
+Botnet,Botnet,0.99355984
+Botnet,Botnet,0.99422234
+Botnet,Botnet,0.9936237
+Botnet,Botnet,0.9932643
+Botnet,Botnet,0.9957735
+Botnet,Botnet,0.9957695
+Botnet,Botnet,0.9957677
+Botnet,Botnet,0.99413955
+Botnet,Botnet,0.9935493
+Botnet,Botnet,0.99576557
+Botnet,Botnet,0.9958288
+Botnet,Botnet,0.9934505
+Botnet,Botnet,0.9935556
+Botnet,Botnet,0.9936008
+Botnet,Botnet,0.99385107
+Botnet,Botnet,0.9942094
+Botnet,Botnet,0.9958365
+Botnet,Botnet,0.9956813
+Botnet,Botnet,0.99576724
+Botnet,Botnet,0.99326587
+Botnet,Botnet,0.99582916
+Botnet,Botnet,0.99576604
+Botnet,Botnet,0.99371135
+Botnet,Botnet,0.9938518
+Botnet,Botnet,0.99341255
+Botnet,Botnet,0.9932754
+Botnet,Botnet,0.99576545
+Botnet,Botnet,0.9932822
+Botnet,Botnet,0.9930948
+Botnet,Botnet,0.99355185
+Botnet,Botnet,0.99423295
+Botnet,Botnet,0.9959347
+Botnet,Botnet,0.9958072
+Botnet,Botnet,0.99576545
+Botnet,Botnet,0.9957709
+Botnet,Botnet,0.9935522
+Botnet,Botnet,0.9939581
+Botnet,Botnet,0.99340326
+Botnet,Botnet,0.9958346
+Botnet,Botnet,0.9935521
+Botnet,Botnet,0.9957646
+Botnet,Botnet,0.9932707
+Botnet,Botnet,0.9935502
+Botnet,Botnet,0.9957639
+Botnet,Botnet,0.99583495
+Botnet,Botnet,0.99334985
+Botnet,Botnet,0.9940215
+Botnet,Botnet,0.9957664
+Botnet,Botnet,0.9935464
+Botnet,Botnet,0.9932806
+Botnet,Botnet,0.9934169
+Botnet,Botnet,0.99576414
+Botnet,Botnet,0.99593675
+Botnet,Botnet,0.9957696
+Botnet,Botnet,0.99386036
+Botnet,Botnet,0.9935514
+Botnet,Botnet,0.99576795
+Botnet,Botnet,0.99576265
+Botnet,Botnet,0.9930829
+Botnet,Botnet,0.99409807
+Botnet,Botnet,0.9958352
+Botnet,Botnet,0.9932678
+Botnet,Botnet,0.9957688
+Botnet,Botnet,0.99583614
+Botnet,Botnet,0.9939336
+Botnet,Botnet,0.9932736
+Botnet,Botnet,0.99355054
+Botnet,Botnet,0.99307996
+Benign,Benign,0.99430615
+Botnet,Botnet,0.9957634
+Botnet,Botnet,0.99583435
+Botnet,Botnet,0.9935504
+Botnet,Botnet,0.9957645
+Botnet,Botnet,0.99354666
+Botnet,Botnet,0.99307853
+Botnet,Botnet,0.9938153
+Botnet,Botnet,0.9957695
+Botnet,Botnet,0.9935462
+Botnet,Botnet,0.99576676
+Botnet,Botnet,0.99576306
+Botnet,Botnet,0.9940837
+Botnet,Botnet,0.9959357
+Botnet,Botnet,0.9933949
+Botnet,Botnet,0.99290764
+Botnet,Botnet,0.9939995
+Botnet,Botnet,0.99359447
+Botnet,Botnet,0.9930796
+Botnet,Botnet,0.9957659
+Botnet,Botnet,0.995834
+Botnet,Botnet,0.9935457
+Botnet,Botnet,0.9957612
+Botnet,Botnet,0.99576604
+Botnet,Botnet,0.9930823
+Botnet,Botnet,0.9929075
+Botnet,Botnet,0.9957618
+Botnet,Botnet,0.99385685
+Botnet,Botnet,0.9932706
+Botnet,Botnet,0.9958359
+Benign,Benign,0.9986084
+Botnet,Botnet,0.9958359
+Botnet,Botnet,0.99384516
+Botnet,Botnet,0.995767
+Botnet,Botnet,0.99402857
+Botnet,Botnet,0.9932788
+Botnet,Botnet,0.9935523
+Botnet,Botnet,0.9957628
+Botnet,Botnet,0.994113
+Botnet,Botnet,0.9935502
+Botnet,Botnet,0.99313545
+Botnet,Botnet,0.9957681
+Botnet,Botnet,0.9958347
+Benign,Benign,0.996031
+Botnet,Botnet,0.9957617
+Botnet,Botnet,0.9935427
+Botnet,Botnet,0.99583286
+Botnet,Botnet,0.9932634
+Botnet,Botnet,0.99576604
+Botnet,Botnet,0.99369895
+Botnet,Botnet,0.9930542
+Botnet,Botnet,0.9957606
+Botnet,Botnet,0.99328107
+Benign,Benign,0.99840456
+Benign,Benign,0.99464166
+Benign,Benign,0.9986131
+Botnet,Botnet,0.995761
+Botnet,Botnet,0.9933983
+Botnet,Botnet,0.99400514
+Botnet,Botnet,0.99398637
+Botnet,Botnet,0.99576604
+Botnet,Botnet,0.9939067
+Botnet,Botnet,0.9959363
+Botnet,Botnet,0.9933562
+Botnet,Botnet,0.9932607
+Botnet,Botnet,0.9957657
+Botnet,Botnet,0.9941684
+Botnet,Botnet,0.9958364
+Botnet,Botnet,0.99325126
+Botnet,Botnet,0.9957593
+Botnet,Botnet,0.9935389
+Botnet,Botnet,0.9957592
+Botnet,Botnet,0.9959372
+Botnet,Botnet,0.99576426
+Botnet,Botnet,0.9936506
+Botnet,Botnet,0.99305665
+Botnet,Botnet,0.9932454
+Benign,Benign,0.9952624
+Benign,Benign,0.99024826
+Benign,Benign,0.9985245
+Port Scan,Brute Force,0.777689
+Benign,Benign,0.9936786
+Benign,Benign,0.9982014
+Benign,Benign,0.9735618
+Benign,Benign,0.9986168
+Benign,Benign,0.9962261
+Benign,Benign,0.9983621
+Benign,Benign,0.99751943
+Benign,Benign,0.99238926
+Benign,Benign,0.99854773
+Benign,Benign,0.99863833
+Benign,Benign,0.998585
+Benign,Benign,0.9850007
+Benign,Benign,0.9975291
+Benign,Benign,0.9680771
+Benign,Benign,0.97738546
+Benign,Benign,0.9986203
+Benign,Benign,0.99292094
+Benign,Benign,0.99828917
+Benign,Benign,0.9986345
+Benign,Benign,0.99851745
+Benign,Benign,0.997934
+Benign,Benign,0.9970594
+Benign,Benign,0.996828
+Benign,Benign,0.9986356
+Benign,Benign,0.99860066
+Benign,Benign,0.9982212
+Benign,Benign,0.9907844
+Benign,Benign,0.9959169
+Benign,Benign,0.99864775
+Benign,Benign,0.99147886
+Benign,Benign,0.99861515
+Benign,Benign,0.99864334
+Benign,Benign,0.9983778
+Benign,Benign,0.5099979
+Benign,Benign,0.9977175
+Benign,Benign,0.9920366
+Benign,Benign,0.9844998
+Benign,Benign,0.99111277
+Port Scan,Port Scan,0.99215466
+Port Scan,Port Scan,0.9916367
+Port Scan,Port Scan,0.99203545
+Port Scan,Port Scan,0.99619555
+Port Scan,Port Scan,0.99621445
+Port Scan,Port Scan,0.99541414
+Port Scan,Port Scan,0.99198854
+Port Scan,Port Scan,0.99123925
+Port Scan,Port Scan,0.9919533
+Port Scan,Port Scan,0.99145186
+Port Scan,Port Scan,0.9962218
+Port Scan,Port Scan,0.99124664
+Port Scan,Port Scan,0.9918087
+Port Scan,Port Scan,0.99617153
+Port Scan,Port Scan,0.9959239
+Port Scan,Port Scan,0.9958509
+Port Scan,Port Scan,0.99606615
+Port Scan,Port Scan,0.995921
+Port Scan,Port Scan,0.9921767
+Port Scan,Port Scan,0.9924797
+Port Scan,Port Scan,0.9960343
+Port Scan,Port Scan,0.99232763
+Port Scan,Port Scan,0.9918268
+Port Scan,Port Scan,0.9924384
+Port Scan,Port Scan,0.99125856
+Port Scan,Port Scan,0.9922626
+Port Scan,Port Scan,0.99615115
+Port Scan,Port Scan,0.992382
+Benign,Benign,0.9986488
+Benign,Benign,0.99561715
+Benign,Benign,0.99081683
+Benign,Benign,0.9986389
+Benign,Benign,0.998607
+Benign,Benign,0.99762493
+Benign,Benign,0.9916946
+Benign,Benign,0.99840623
+Benign,Benign,0.9293378
+Benign,Benign,0.9983638
+Port Scan,Port Scan,0.98319906
+Port Scan,Port Scan,0.6884117
+Port Scan,Port Scan,0.9968077
+Port Scan,Port Scan,0.9919065
+Port Scan,Port Scan,0.99646014
+Port Scan,Port Scan,0.9964095
+Port Scan,Port Scan,0.9968285
+Port Scan,Port Scan,0.874665
+Port Scan,Port Scan,0.9963471
+Port Scan,Port Scan,0.97661144
+Port Scan,Port Scan,0.9766708
+Port Scan,Port Scan,0.9963437
+Port Scan,Port Scan,0.9831435
+Port Scan,Port Scan,0.99688405
+Port Scan,Port Scan,0.9919075
+Benign,Benign,0.9871629
+Port Scan,Port Scan,0.99165756
+Port Scan,DoS,0.9912009
+Port Scan,Port Scan,0.99186206
+Benign,Benign,0.98622537
+Benign,Benign,0.99860495
+Benign,Benign,0.99617285
+Benign,Benign,0.9985226
+Benign,Benign,0.967754
+Benign,Benign,0.9916963
+Benign,Benign,0.99722385
+Benign,Benign,0.9897223
+Benign,Benign,0.9726052
+Benign,Benign,0.99794215
+Benign,Benign,0.9986247
+Benign,Benign,0.99861157
+Benign,Benign,0.99783343
+Benign,Benign,0.9981742
+Benign,Benign,0.9890927
+Benign,Benign,0.99860674
+Benign,Benign,0.9982998
+Benign,Benign,0.9986125
+Benign,Benign,0.9973623
+Benign,Benign,0.9150989
+Benign,Benign,0.99858874
+Benign,Benign,0.99846447
+Benign,Botnet,0.99401134
+Benign,Botnet,0.9959121
+Benign,Benign,0.9955585
+Benign,Benign,0.99693537
+Benign,Benign,0.9985978
+Benign,Benign,0.9984471
+Port Scan,Port Scan,0.9843721
+Port Scan,Port Scan,0.9916952
+Port Scan,Port Scan,0.9915884
+Port Scan,Port Scan,0.9920764
+Port Scan,Port Scan,0.99254155
+Port Scan,Port Scan,0.9914078
+Port Scan,Port Scan,0.9946985
+Port Scan,Port Scan,0.99455607
+Port Scan,Port Scan,0.99159193
+Port Scan,Port Scan,0.99425757
+Port Scan,Port Scan,0.9922076
+Port Scan,Port Scan,0.99220455
+Port Scan,Port Scan,0.9921633
+Port Scan,Port Scan,0.9923017
+Port Scan,Port Scan,0.9924104
+Port Scan,Port Scan,0.99336326
+Port Scan,Port Scan,0.99193746
+Port Scan,Port Scan,0.9926012
+Port Scan,Port Scan,0.9920785
+Port Scan,Port Scan,0.9960233
+Port Scan,Port Scan,0.9948914
+Port Scan,Port Scan,0.989785
+Port Scan,Port Scan,0.9924596
+Port Scan,Port Scan,0.9922845
+Port Scan,Port Scan,0.991168
+Port Scan,Port Scan,0.99300176
+Port Scan,Port Scan,0.9920288
+Port Scan,Port Scan,0.99142843
+Port Scan,Port Scan,0.99630946
+Port Scan,Port Scan,0.99395144
+Port Scan,Port Scan,0.9924629
+Port Scan,Port Scan,0.9922855
+Port Scan,Port Scan,0.9831855
+Port Scan,Port Scan,0.9915017
+Port Scan,Port Scan,0.9914718
+Port Scan,Port Scan,0.9915978
+Port Scan,Port Scan,0.9920465
+Port Scan,Port Scan,0.9926238
+Port Scan,Port Scan,0.99193877
+Port Scan,Port Scan,0.9923254
+Port Scan,Port Scan,0.99246615
+Port Scan,Port Scan,0.99197817
+Port Scan,Port Scan,0.99243075
+Port Scan,Port Scan,0.9925282
+Port Scan,Port Scan,0.98540664
+Port Scan,Port Scan,0.9914209
+Port Scan,Port Scan,0.9923267
+Port Scan,Port Scan,0.9913361
+Port Scan,Port Scan,0.991052
+Port Scan,Port Scan,0.9931901
+Port Scan,Port Scan,0.99217504
+Port Scan,Port Scan,0.99125856
+Port Scan,Port Scan,0.9922565
+Port Scan,Port Scan,0.99319816
+Port Scan,Port Scan,0.99237484
+Port Scan,Port Scan,0.9912731
+Port Scan,Port Scan,0.99166065
+Port Scan,Port Scan,0.99229115
+Port Scan,Port Scan,0.99228656
+Port Scan,Port Scan,0.9922829
+Port Scan,Port Scan,0.9914272
+Port Scan,Port Scan,0.9925289
+Port Scan,Port Scan,0.9853254
+Port Scan,Port Scan,0.9931809
+Port Scan,Port Scan,0.99300224
+Port Scan,Port Scan,0.99234045
+Port Scan,Port Scan,0.9922201
+Port Scan,Port Scan,0.991958
+Port Scan,Port Scan,0.995426
+Port Scan,Port Scan,0.9930962
+Port Scan,Port Scan,0.9930992
+Port Scan,Port Scan,0.99479276
+Port Scan,Port Scan,0.99343663
+Port Scan,Port Scan,0.99580586
+Port Scan,Port Scan,0.99250776
+Port Scan,Port Scan,0.9920551
+Port Scan,Port Scan,0.9923333
+Port Scan,Port Scan,0.9877094
+Port Scan,Port Scan,0.9961081
+Port Scan,Port Scan,0.9918012
+Port Scan,Port Scan,0.99564075
+Port Scan,Port Scan,0.9916904
+Port Scan,Port Scan,0.9930729
+Port Scan,Port Scan,0.9912655
+Port Scan,Port Scan,0.9924465
+Port Scan,Port Scan,0.99189734
+Port Scan,Port Scan,0.99213433
+Port Scan,Port Scan,0.99220467
+Port Scan,Port Scan,0.9916039
+Port Scan,Port Scan,0.9923665
+Port Scan,Port Scan,0.9923258
+Port Scan,Port Scan,0.9923862
+Port Scan,Port Scan,0.9920718
+Port Scan,Port Scan,0.9924338
+Port Scan,Port Scan,0.99072474
+Port Scan,Port Scan,0.993251
+Port Scan,Port Scan,0.99289143
+Port Scan,Port Scan,0.99143034
+Port Scan,Port Scan,0.9923906
+Port Scan,Port Scan,0.9923529
+Port Scan,Port Scan,0.99114954
+Port Scan,Port Scan,0.9938508
+Port Scan,Port Scan,0.99138325
+Port Scan,Port Scan,0.99178094
+Port Scan,Port Scan,0.9929804
+Port Scan,Port Scan,0.9932192
+Port Scan,Port Scan,0.99110985
+Port Scan,Port Scan,0.9913305
+Port Scan,Port Scan,0.99506193
+Port Scan,Port Scan,0.99117154
+Port Scan,Port Scan,0.9925249
+Port Scan,Port Scan,0.9919041
+Port Scan,Port Scan,0.99318403
+Port Scan,Port Scan,0.9915142
+Port Scan,Port Scan,0.99246055
+Port Scan,Port Scan,0.9954117
+Port Scan,Port Scan,0.9968747
+Port Scan,Port Scan,0.99328893
+Port Scan,Port Scan,0.9929212
+Port Scan,Port Scan,0.9924205
+Port Scan,Port Scan,0.99645764
+Port Scan,Port Scan,0.9924689
+Port Scan,Port Scan,0.986406
+Port Scan,Port Scan,0.9919796
+Port Scan,Port Scan,0.99244845
+Port Scan,Port Scan,0.9963696
+Port Scan,Port Scan,0.9921813
+Port Scan,Port Scan,0.995138
+Port Scan,Port Scan,0.9929818
+Port Scan,Port Scan,0.992438
+Port Scan,Port Scan,0.9921063
+Port Scan,Port Scan,0.99134594
+Port Scan,Port Scan,0.9848183
+Port Scan,Port Scan,0.99655306
+Port Scan,Port Scan,0.99692047
+Port Scan,Port Scan,0.9918715
+Port Scan,Port Scan,0.8853598
+Port Scan,Port Scan,0.9925876
+Port Scan,Port Scan,0.99135065
+Port Scan,Port Scan,0.99176896
+Port Scan,Port Scan,0.9921108
+Port Scan,Port Scan,0.9923543
+Port Scan,Port Scan,0.9948384
+Port Scan,Port Scan,0.9925298
+Port Scan,Port Scan,0.9967691
+Port Scan,Port Scan,0.99561113
+Port Scan,Port Scan,0.9925702
+Port Scan,Port Scan,0.99235934
+Port Scan,Port Scan,0.9924919
+Port Scan,Port Scan,0.99308985
+Port Scan,Port Scan,0.9915182
+Port Scan,Port Scan,0.99240994
+Port Scan,Port Scan,0.9923264
+Port Scan,Port Scan,0.9927084
+Port Scan,Port Scan,0.9923757
+Port Scan,Port Scan,0.99306583
+Port Scan,Port Scan,0.99176836
+Port Scan,Port Scan,0.9917346
+Port Scan,Port Scan,0.9910477
+Port Scan,Port Scan,0.99222153
+Port Scan,Port Scan,0.99189246
+Port Scan,Port Scan,0.99231863
+Port Scan,Port Scan,0.99232614
+Port Scan,Port Scan,0.9851489
+Port Scan,Port Scan,0.99233365
+Port Scan,Port Scan,0.99201477
+Port Scan,Port Scan,0.9911712
+Port Scan,Port Scan,0.9920576
+Port Scan,Port Scan,0.9925607
+Port Scan,Port Scan,0.9957766
+Port Scan,Port Scan,0.9915036
+Port Scan,Port Scan,0.9854248
+Port Scan,Port Scan,0.99314755
+Port Scan,Port Scan,0.9919333
+Port Scan,Port Scan,0.9965798
+Port Scan,Port Scan,0.9924615
+Benign,Benign,0.77347714
+Port Scan,Port Scan,0.99237275
+Port Scan,Port Scan,0.9924676
+Port Scan,Port Scan,0.99226224
+Port Scan,Port Scan,0.99153155
+Port Scan,Port Scan,0.9921204
+Benign,Benign,0.9944892
+Benign,Benign,0.9972523
+Benign,Benign,0.9983011
+Benign,Benign,0.9984097
+Benign,Benign,0.7176264
+Benign,Benign,0.92712784
+Benign,Benign,0.9938805
+Benign,Benign,0.99837214
+Benign,Benign,0.9657267
+Benign,Benign,0.99615484
+Benign,Benign,0.98857236
+Benign,Benign,0.9986091
+Benign,Benign,0.99820006
+Benign,Benign,0.98855793
+Benign,Benign,0.9907995
+Port Scan,Port Scan,0.99306715
+Port Scan,Port Scan,0.98432434
+Port Scan,Port Scan,0.98753357
+Port Scan,Port Scan,0.9921504
+Port Scan,Port Scan,0.9926208
+Port Scan,Port Scan,0.99708694
+Port Scan,Port Scan,0.9969112
+Port Scan,Port Scan,0.99647635
+Port Scan,Port Scan,0.997232
+Port Scan,Port Scan,0.99172664
+Port Scan,Port Scan,0.99684864
+Port Scan,Port Scan,0.99655956
+Port Scan,Port Scan,0.9863679
+Port Scan,Port Scan,0.99654466
+Port Scan,DoS,0.98557496
+Port Scan,Port Scan,0.99697125
+Port Scan,Port Scan,0.98940545
+Port Scan,Port Scan,0.9964223
+Port Scan,Port Scan,0.9969585
+Port Scan,Port Scan,0.90501565
+Port Scan,Port Scan,0.99716383
+Port Scan,Port Scan,0.9930895
+Port Scan,DoS,0.9892875
+Port Scan,Port Scan,0.98435843
+Port Scan,Port Scan,0.9970373
+Benign,Benign,0.99861157
+Benign,Benign,0.99865025
+Benign,Benign,0.9911732
+Benign,Benign,0.9596127
+Port Scan,Benign,0.96795046
+Benign,Benign,0.99863595
+Port Scan,Benign,0.99192274
+Benign,Benign,0.9981987
+Benign,Benign,0.9955388
+Benign,Benign,0.9960258
+Benign,Benign,0.9982059
+Benign,Benign,0.9896847
+Benign,Benign,0.9985765
+Benign,Benign,0.9983712
+Benign,Benign,0.9958776
+Benign,Benign,0.9986193
+Benign,Benign,0.99865377
+Benign,Benign,0.99786854
+Benign,Benign,0.9985917
+Port Scan,Port Scan,0.9944383
+Port Scan,Port Scan,0.987721
+Port Scan,Port Scan,0.9877346
+Port Scan,Port Scan,0.98636484
+Port Scan,Port Scan,0.9225552
+Port Scan,Port Scan,0.99204457
+Port Scan,Port Scan,0.9547543
+Port Scan,Port Scan,0.98640835
+Port Scan,Port Scan,0.97045285
+Port Scan,Port Scan,0.99214655
+Port Scan,Port Scan,0.9944385
+Port Scan,Port Scan,0.99668056
+Port Scan,Port Scan,0.9966736
+Port Scan,Port Scan,0.9580193
+Port Scan,Port Scan,0.99656785
+Port Scan,Port Scan,0.98773164
+Port Scan,Port Scan,0.9864118
+Port Scan,Port Scan,0.95803434
+Port Scan,Port Scan,0.9931244
+Port Scan,Port Scan,0.99443924
+Benign,Benign,0.99443024
+Benign,Benign,0.9957833
+Benign,Benign,0.9973513
+Benign,Benign,0.9934909
+Benign,Benign,0.9986511
+Benign,Benign,0.9956073
+Benign,Benign,0.9986094
+Benign,Benign,0.9986357
+Benign,Benign,0.998509
+Benign,Benign,0.9929957
+Benign,Benign,0.99857116
+Benign,Benign,0.9696537
+Benign,Benign,0.9985721
+Benign,Benign,0.9986191
+Benign,Benign,0.9986368
+Benign,Benign,0.9985826
+Benign,Benign,0.99783665
+Benign,Benign,0.99824286
+Benign,Benign,0.9844418
+Benign,Benign,0.9958984
+Benign,Benign,0.9940999
+Benign,Benign,0.998102
+Benign,Benign,0.99744403
+Benign,Benign,0.9909767
+Benign,Benign,0.9973756
+Benign,Benign,0.998604
+Benign,Benign,0.9986167
+Benign,Benign,0.99778384
+Benign,Benign,0.5041854
+Benign,Benign,0.9892168
+Benign,Benign,0.9943145
+Benign,Benign,0.9986173
+Benign,Benign,0.96132463
+Benign,Benign,0.99848217
+Benign,Benign,0.7182062
+Benign,Benign,0.99360305
+Benign,Benign,0.9984616
+Benign,Benign,0.9983962
+Benign,Benign,0.9985386
+DDoS,DDoS,0.99876034
+DDoS,DDoS,0.99570775
+DDoS,DDoS,0.9984465
+DDoS,DDoS,0.9987319
+DDoS,DDoS,0.99835455
+DDoS,DDoS,0.99905926
+DDoS,DDoS,0.99868983
+DDoS,DDoS,0.9978023
+DDoS,DDoS,0.99774534
+DDoS,DDoS,0.99775165
+DDoS,DDoS,0.99843603
+DDoS,DDoS,0.99800974
+DDoS,DDoS,0.9988249
+DDoS,DDoS,0.99866843
+DDoS,DDoS,0.99798703
+DDoS,DDoS,0.9947248
+DDoS,DDoS,0.9984238
+DDoS,DDoS,0.9970995
+DDoS,DDoS,0.9986896
+DDoS,DDoS,0.99848133
+DDoS,DDoS,0.9975811
+DDoS,DDoS,0.998747
+DDoS,DDoS,0.9946995
+DDoS,DDoS,0.9910642
+DDoS,DDoS,0.9980872
+DDoS,DDoS,0.9933755
+DDoS,DDoS,0.99874324
+DDoS,DDoS,0.9984396
+DDoS,DDoS,0.9986355
+DDoS,DDoS,0.9940929
+DDoS,DDoS,0.998723
+DDoS,DDoS,0.984253
+DDoS,DDoS,0.9979475
+DDoS,DDoS,0.9968869
+DDoS,DDoS,0.9910138
+DDoS,DDoS,0.99719006
+DDoS,DDoS,0.997769
+DDoS,DDoS,0.99578875
+DDoS,DDoS,0.99526525
+DDoS,DDoS,0.99853766
+DDoS,DDoS,0.9987607
+DDoS,DDoS,0.99867505
+DDoS,DDoS,0.9980337
+DDoS,DDoS,0.9986015
+DDoS,DDoS,0.9973621
+DDoS,DDoS,0.9928349
+DDoS,DDoS,0.9976979
+DDoS,DDoS,0.99738115
+DDoS,DDoS,0.998247
+DDoS,DDoS,0.9987338
+DDoS,DDoS,0.9984053
+DDoS,DDoS,0.998231
+DDoS,DDoS,0.99775285
+DDoS,DDoS,0.9986028
+DDoS,DDoS,0.99851376
+DDoS,DDoS,0.9985267
+DDoS,DDoS,0.9980605
+DDoS,DDoS,0.99882144
+DDoS,DDoS,0.999035
+DDoS,DDoS,0.9981041
+DDoS,DDoS,0.9987722
+DDoS,DDoS,0.9978719
+DDoS,DDoS,0.99902153
+DDoS,DDoS,0.9904861
+DDoS,DDoS,0.9976018
+DDoS,DDoS,0.9990452
+DDoS,DDoS,0.9984218
+DDoS,DDoS,0.9980367
+DDoS,DDoS,0.99848455
+DDoS,DDoS,0.9985831
+DDoS,DDoS,0.9986558
+DDoS,DDoS,0.9980925
+DDoS,DoS,0.5867417
+DDoS,DDoS,0.9986092
+DDoS,DDoS,0.9980483
+DDoS,DDoS,0.9987213
+DDoS,DDoS,0.98783815
+DDoS,DDoS,0.9985373
+DDoS,DDoS,0.9986565
+DDoS,DDoS,0.9958509
+DDoS,DDoS,0.998828
+DDoS,DDoS,0.9980076
+DDoS,DDoS,0.9986632
+DDoS,DDoS,0.9976363
+DDoS,DDoS,0.9984847
+DDoS,DDoS,0.9991042
+DDoS,DDoS,0.9989881
+DDoS,DDoS,0.9978255
+DDoS,DDoS,0.99760455
+DDoS,DDoS,0.9977695
+DDoS,DDoS,0.99845016
+DDoS,DDoS,0.99828786
+DDoS,DDoS,0.9979697
+DDoS,DDoS,0.99672407
+DDoS,DDoS,0.99575377
+DDoS,DDoS,0.99834335
+DDoS,DDoS,0.9982855
+DDoS,DDoS,0.998719
+DDoS,DDoS,0.99805486
+DDoS,DDoS,0.9983785
+DDoS,DDoS,0.997943
+DDoS,DDoS,0.99385047
+DDoS,DDoS,0.9987085
+DDoS,DDoS,0.9984219
+DDoS,DDoS,0.9975999
+DDoS,DDoS,0.9987808
+DDoS,DDoS,0.99575907
+DDoS,DDoS,0.99893326
+DDoS,DDoS,0.9983315
+Benign,Benign,0.99394363
+Benign,Benign,0.9931432
+Benign,Benign,0.99394387
+Benign,Benign,0.9932473
+Benign,Benign,0.9939912
+Benign,Benign,0.99773383
+DDoS,DDoS,0.99862444
+DDoS,DDoS,0.99901855
+DDoS,DDoS,0.99872655
+DDoS,DDoS,0.99877626
+DDoS,DDoS,0.998572
+DDoS,DDoS,0.99877506
+DDoS,DDoS,0.99872977
+DDoS,DDoS,0.997468
+DDoS,DDoS,0.9983911
+DDoS,DDoS,0.9986577
+DDoS,DDoS,0.99821544
+DDoS,DDoS,0.9985475
+DDoS,DDoS,0.9985967
+DDoS,DDoS,0.99675447
+DDoS,DDoS,0.9982493
+DDoS,DDoS,0.9983138
+DDoS,DDoS,0.9979406
+DDoS,DDoS,0.99238026
+DDoS,DDoS,0.9972451
+DDoS,DDoS,0.9986504
+DDoS,DDoS,0.9971348
+DDoS,DDoS,0.99491227
+DDoS,DDoS,0.9986106
+DDoS,DDoS,0.9987238
+DDoS,DDoS,0.9983046
+DDoS,DDoS,0.9982811
+DDoS,DDoS,0.9990119
+DDoS,DDoS,0.99847096
+DDoS,DDoS,0.98809963
+DDoS,DDoS,0.9987159
+DDoS,DDoS,0.9958978
+DDoS,DDoS,0.9971776
+DDoS,DDoS,0.9987098
+DDoS,DDoS,0.983127
+DDoS,DDoS,0.99871135
+DDoS,DDoS,0.9958098
+DDoS,DDoS,0.9985461
+DDoS,DDoS,0.9986644
+DDoS,DDoS,0.9985318
+DDoS,DDoS,0.9977126
+DDoS,DDoS,0.9986412
+DDoS,DDoS,0.99731284
+DDoS,DDoS,0.9989491
+DDoS,DDoS,0.9976069
+DDoS,DDoS,0.99728644
+DDoS,DDoS,0.9983865
+DDoS,DDoS,0.9985297
+DDoS,DDoS,0.9981
+DDoS,DDoS,0.9982493
+DDoS,DDoS,0.9986945
+DDoS,DDoS,0.99850935
+DDoS,DDoS,0.9987011
+DDoS,DDoS,0.99107915
+DDoS,DDoS,0.9982792
+DDoS,DDoS,0.9985904
+DDoS,DDoS,0.99867487
+DDoS,DDoS,0.9979633
+DDoS,DDoS,0.9986645
+DDoS,DDoS,0.99531037
+DDoS,DDoS,0.9986738
+DDoS,DDoS,0.994558
+DDoS,DDoS,0.9971222
+DDoS,DDoS,0.99800867
+DDoS,DDoS,0.99488187
+DDoS,DDoS,0.99227285
+DDoS,DDoS,0.9990451
+DDoS,DDoS,0.9976683
+DDoS,DDoS,0.997866
+DDoS,DDoS,0.9989034
+DDoS,DDoS,0.99868053
+DDoS,DDoS,0.99746215
+DDoS,DDoS,0.99874616
+DDoS,DDoS,0.9985524
+DDoS,DDoS,0.9988175
+DDoS,DDoS,0.9985714
+DDoS,DDoS,0.998588
+DDoS,DDoS,0.9933461
+DDoS,DDoS,0.99898213
+DDoS,DDoS,0.9989298
+DDoS,DDoS,0.9954461
+DDoS,DDoS,0.9954373
+DDoS,DDoS,0.99837935
+DDoS,DDoS,0.9990054
+DDoS,DDoS,0.99812335
+DDoS,DDoS,0.99689686
+DDoS,DDoS,0.9990233
+DDoS,DDoS,0.9984951
+DDoS,DDoS,0.998662
+DDoS,DDoS,0.99871814
+DDoS,DDoS,0.9972269
+DDoS,DDoS,0.99689937
+DDoS,DDoS,0.9987778
+DDoS,DDoS,0.9978531
+DDoS,DDoS,0.99833727
+DDoS,DDoS,0.997626
+DDoS,DDoS,0.9985518
+DDoS,DDoS,0.9987079
+DDoS,DDoS,0.9973871
+DDoS,DDoS,0.99496835
+DDoS,DDoS,0.99872273
+DDoS,DDoS,0.9985713
+DDoS,DDoS,0.99870193
+DDoS,DDoS,0.9985753
+DDoS,DDoS,0.98793286
+DDoS,DDoS,0.9966176
+DDoS,DDoS,0.99757344
+DDoS,DDoS,0.9987495
+DDoS,DDoS,0.9986627
+DDoS,DDoS,0.9987023
+DDoS,DDoS,0.9987791
+DDoS,DDoS,0.9986268
+DDoS,DDoS,0.99867636
+DDoS,DDoS,0.99895895
+Benign,Benign,0.99356705
+Benign,Benign,0.99347323
+Benign,Benign,0.9925344
+Benign,Benign,0.9354462
+DDoS,DDoS,0.99781346
+DDoS,DDoS,0.9985006
+DDoS,DDoS,0.99177295
+DDoS,DDoS,0.9984274
+DDoS,DDoS,0.99702114
+DDoS,DDoS,0.9918751
+DDoS,DDoS,0.9971131
+DDoS,DDoS,0.9987073
+DDoS,DDoS,0.9984653
+DDoS,DDoS,0.99841034
+DDoS,DDoS,0.9985689
+DDoS,DDoS,0.9957402
+DDoS,DDoS,0.99831736
+DDoS,DDoS,0.9987676
+DDoS,DDoS,0.9985524
+DDoS,DDoS,0.9986802
+DDoS,DDoS,0.9955122
+DDoS,DDoS,0.9952003
+DDoS,DDoS,0.9950553
+DDoS,DDoS,0.998428
+DDoS,DDoS,0.99870706
+DDoS,DDoS,0.9986432
+DDoS,DDoS,0.98947316
+DDoS,DDoS,0.99850523
+DDoS,DDoS,0.998678
+DDoS,DDoS,0.99830735
+DDoS,DDoS,0.9984676
+DDoS,DDoS,0.99275464
+DDoS,DDoS,0.99390185
+DDoS,DDoS,0.99871325
+DDoS,DDoS,0.9947594
+DDoS,DDoS,0.99860954
+DDoS,DDoS,0.9986986
+DDoS,DDoS,0.99824667
+DDoS,DDoS,0.9984668
+DDoS,DDoS,0.9976406
+DDoS,DDoS,0.9979513
+DDoS,DDoS,0.9985928
+DDoS,DDoS,0.99847406
+DDoS,DDoS,0.9985813
+DDoS,DDoS,0.9981483
+DDoS,DDoS,0.998135
+DDoS,DDoS,0.9985777
+DDoS,DDoS,0.9977851
+DDoS,DDoS,0.99870694
+DDoS,DDoS,0.99595296
+DDoS,DDoS,0.9979352
+DDoS,DDoS,0.9950808
+DDoS,DDoS,0.9985862
+DDoS,DDoS,0.9978655
+DDoS,DDoS,0.99864763
+DDoS,DDoS,0.99877757
+DDoS,DDoS,0.9984831
+DDoS,DDoS,0.9972767
+DDoS,DDoS,0.99858356
+DDoS,DDoS,0.9982759
+DDoS,DDoS,0.9974837
+DDoS,DDoS,0.9974009
+DDoS,DDoS,0.99819916
+DDoS,DDoS,0.9985455
+DDoS,DDoS,0.99650323
+DDoS,DDoS,0.9986621
+DDoS,DDoS,0.99716216
+DDoS,DDoS,0.997846
+DDoS,DDoS,0.99761033
+DDoS,DDoS,0.9978416
+DDoS,DDoS,0.9983991
+DDoS,DDoS,0.9986513
+DDoS,DDoS,0.9986411
+DDoS,DDoS,0.99831796
+DDoS,DDoS,0.99585634
+DDoS,DDoS,0.998574
+DDoS,DDoS,0.99852043
+DDoS,DDoS,0.9986534
+DDoS,DDoS,0.9986266
+DDoS,DDoS,0.99091727
+DDoS,DDoS,0.9984884
+DDoS,DDoS,0.99812216
+DDoS,DDoS,0.9986778
+DDoS,DDoS,0.9986413
+DDoS,DDoS,0.99676275
+DDoS,DDoS,0.9986389
+DDoS,DDoS,0.99863094
+DDoS,DDoS,0.99752134
+DDoS,DDoS,0.9981894
+DDoS,DDoS,0.9985726
+DDoS,DDoS,0.9985775
+DDoS,DDoS,0.9986553
+DDoS,DDoS,0.99776614
+DDoS,DDoS,0.99849176
+DDoS,DDoS,0.99872226
+DDoS,DDoS,0.9985152
+DDoS,DDoS,0.9984915
+DDoS,DDoS,0.9955166
+DDoS,DDoS,0.99762183
+DDoS,DDoS,0.9984816
+DDoS,DDoS,0.9982514
+DDoS,DDoS,0.9984627
+DDoS,DDoS,0.9958407
+DDoS,DDoS,0.9972257
+DDoS,DDoS,0.99793833
+DDoS,DDoS,0.99832314
+DDoS,DDoS,0.9905255
+DDoS,DDoS,0.99866164
+DDoS,DDoS,0.99862695
+DDoS,DDoS,0.99769694
+DDoS,DDoS,0.9986211
+DDoS,DDoS,0.9983499
+DDoS,DDoS,0.99787664
+DDoS,DDoS,0.99847835
+DDoS,DDoS,0.9955896
+DDoS,DDoS,0.99860954
+DDoS,DDoS,0.99772435
+DDoS,DDoS,0.99874973
+DDoS,DDoS,0.9963511
+DDoS,DDoS,0.9927758
+DDoS,DDoS,0.9963058
+DDoS,DDoS,0.9978631
+DDoS,DDoS,0.9986432
+DDoS,DDoS,0.99658775
+DDoS,DDoS,0.998054
+DDoS,DDoS,0.9978934
+DDoS,DDoS,0.998662
+DDoS,DDoS,0.99770087
+DDoS,DDoS,0.99108595
+DDoS,DDoS,0.99877745
+DDoS,DDoS,0.9985815
+DDoS,DDoS,0.9983833
+DDoS,DDoS,0.997419
+Benign,Benign,0.9986105
+DDoS,DDoS,0.9986261
+DDoS,DDoS,0.99487936
+DDoS,DDoS,0.9985599
+DDoS,DDoS,0.9984895
+DDoS,DDoS,0.9985752
+DDoS,DDoS,0.9937289
+DDoS,DDoS,0.9985684
+DDoS,DDoS,0.9986908
+DDoS,DDoS,0.99854976
+DDoS,DDoS,0.9984446
+DDoS,DDoS,0.5371597
+DDoS,DDoS,0.99869245
+DDoS,DDoS,0.9973513
+DDoS,DDoS,0.9971666
+DDoS,DDoS,0.99864477
+DDoS,DDoS,0.98743594
+DDoS,DDoS,0.998691
+DDoS,DDoS,0.991662
+DDoS,DDoS,0.9987676
+DDoS,DDoS,0.9986518
+DDoS,DDoS,0.86423075
+DDoS,DDoS,0.99470997
+DDoS,DDoS,0.9953689
+DDoS,DDoS,0.9985788
+Benign,Benign,0.9958982
+Benign,Benign,0.99854845
+Benign,Benign,0.9938294
+Benign,Benign,0.99012214
+Benign,Benign,0.99854964
+Benign,Benign,0.9897646
+Benign,Benign,0.9842024
+Benign,Benign,0.99718827
+Benign,Benign,0.9986191
+Benign,Benign,0.96793294
+Benign,Benign,0.99825794
+Benign,Benign,0.99863845
+Benign,Benign,0.99058855
+Benign,Benign,0.99742645
+Benign,Benign,0.99809223
+Benign,Benign,0.9969963
+Benign,Benign,0.99634105
+Benign,Benign,0.99864656
+Benign,Benign,0.99802196
+Benign,Benign,0.98978245
+Benign,Benign,0.94149864
+Benign,Benign,0.9957961
+Benign,Benign,0.74295205
+Benign,Benign,0.9986405
+Benign,Benign,0.99443936
+Benign,Benign,0.99635386
+Benign,Benign,0.9882294
+Benign,Benign,0.9983304
+Benign,Benign,0.9974692
+Benign,Benign,0.9985695
+Benign,Botnet,0.9465

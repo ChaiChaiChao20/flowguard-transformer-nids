@@ -1,0 +1,6 @@
+{
+  "method": "LIME Tabular",
+  "predicted_class": "DDoS",
+  "local_surrogate_r2": 0.14396246718083816,
+  "samples": 1000
+}

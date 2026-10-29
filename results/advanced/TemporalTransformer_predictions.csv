@@ -1,0 +1,197 @@
+actual,predicted,probability
+Brute Force,Brute Force,0.9101847
+Brute Force,Brute Force,0.92218864
+Brute Force,Brute Force,0.91292804
+Brute Force,Brute Force,0.91831565
+Brute Force,Brute Force,0.81497604
+Brute Force,Brute Force,0.9117816
+Brute Force,Brute Force,0.90620214
+Brute Force,Brute Force,0.90823174
+Brute Force,Brute Force,0.9236404
+Brute Force,Brute Force,0.9081508
+Brute Force,Brute Force,0.92261404
+Brute Force,Brute Force,0.91024613
+Brute Force,Brute Force,0.91635615
+Brute Force,Brute Force,0.9213747
+Brute Force,Brute Force,0.9056288
+Brute Force,Brute Force,0.8943874
+Brute Force,Brute Force,0.9228807
+Brute Force,Brute Force,0.90801877
+Brute Force,Brute Force,0.91363186
+Brute Force,Brute Force,0.91421825
+Brute Force,Brute Force,0.9111696
+Brute Force,Brute Force,0.8019285
+Brute Force,Brute Force,0.91797733
+Brute Force,Brute Force,0.8692564
+Brute Force,Brute Force,0.9113784
+Brute Force,Brute Force,0.9225343
+Brute Force,Brute Force,0.9204744
+Brute Force,Brute Force,0.92203796
+Brute Force,Brute Force,0.9189232
+Brute Force,Brute Force,0.91362214
+Brute Force,Brute Force,0.9157176
+Brute Force,Brute Force,0.91782373
+Brute Force,Brute Force,0.91813284
+Brute Force,Brute Force,0.9184017
+Brute Force,Brute Force,0.9179464
+Brute Force,Brute Force,0.91854155
+Brute Force,Brute Force,0.9182676
+Brute Force,Brute Force,0.91751075
+Brute Force,Brute Force,0.9176822
+Brute Force,Brute Force,0.86158925
+Brute Force,Brute Force,0.8443479
+Brute Force,Brute Force,0.4877036
+Brute Force,Brute Force,0.9205714
+Brute Force,Brute Force,0.91797835
+Brute Force,Brute Force,0.9181651
+Brute Force,Brute Force,0.9177469
+DoS,DoS,0.789954
+DoS,DoS,0.57460696
+DoS,DoS,0.93766606
+DoS,DoS,0.9401716
+DoS,DoS,0.9376977
+DoS,DoS,0.89916307
+DoS,DoS,0.9404477
+DoS,DoS,0.94000465
+DoS,DoS,0.9401356
+DoS,DoS,0.68199575
+DoS,DoS,0.5697714
+DoS,DoS,0.43311605
+DoS,DoS,0.85872906
+DoS,DoS,0.90680164
+DoS,DoS,0.8743086
+DoS,DoS,0.8846133
+DoS,DoS,0.61555284
+DoS,DoS,0.42926204
+DoS,DoS,0.5570284
+DoS,Port Scan,0.64659536
+DoS,Port Scan,0.6793461
+DoS,Port Scan,0.5981632
+DoS,Port Scan,0.5275824
+DoS,Port Scan,0.63238853
+DoS,Port Scan,0.68918055
+DoS,Port Scan,0.6411147
+DoS,Port Scan,0.47160384
+DoS,Port Scan,0.6855043
+DoS,Port Scan,0.69721854
+DoS,Port Scan,0.42896333
+DoS,DoS,0.56984675
+DoS,DoS,0.83678764
+DoS,DoS,0.89753526
+DoS,DoS,0.91759694
+DoS,DoS,0.8596498
+DoS,DoS,0.9078962
+DoS,DoS,0.8138678
+DoS,DoS,0.93268055
+DoS,DoS,0.87622285
+DoS,DoS,0.8813149
+DoS,DoS,0.79945695
+DoS,DoS,0.84906703
+DoS,DoS,0.9139289
+DoS,DoS,0.8496167
+DoS,DoS,0.7970877
+DoS,DoS,0.9315413
+Port Scan,Port Scan,0.94140047
+Port Scan,Port Scan,0.9352287
+Port Scan,Port Scan,0.94177294
+Port Scan,Port Scan,0.9117207
+Port Scan,Port Scan,0.9371353
+Port Scan,Port Scan,0.9069198
+Port Scan,Port Scan,0.92048854
+Port Scan,Port Scan,0.9458194
+Port Scan,Port Scan,0.9450083
+Port Scan,Port Scan,0.94396764
+Port Scan,Port Scan,0.9441306
+Port Scan,Port Scan,0.942349
+Port Scan,Port Scan,0.94534844
+Port Scan,Port Scan,0.9203754
+Port Scan,Port Scan,0.938007
+Port Scan,Port Scan,0.94482416
+Port Scan,Port Scan,0.94481915
+Port Scan,Port Scan,0.94465446
+Port Scan,Port Scan,0.9447154
+Port Scan,Port Scan,0.9459433
+Port Scan,Port Scan,0.9192364
+Port Scan,Port Scan,0.94543695
+Port Scan,Port Scan,0.9438977
+Port Scan,Port Scan,0.94573957
+Port Scan,Port Scan,0.94379556
+Port Scan,Port Scan,0.9453687
+Port Scan,Port Scan,0.94605756
+Port Scan,Port Scan,0.943605
+Port Scan,Port Scan,0.9464807
+Port Scan,Port Scan,0.9173952
+Port Scan,Port Scan,0.69003206
+Port Scan,Port Scan,0.90195787
+DDoS,DDoS,0.92519754
+DDoS,DDoS,0.93019354
+DDoS,DDoS,0.93971777
+DDoS,DDoS,0.9284792
+DDoS,DDoS,0.9355721
+DDoS,DDoS,0.93869936
+DDoS,DDoS,0.937234
+DDoS,DDoS,0.93843555
+DDoS,DDoS,0.9401687
+DDoS,DDoS,0.9130748
+DDoS,DDoS,0.9429482
+DDoS,DDoS,0.9376347
+DDoS,DDoS,0.93969285
+DDoS,DDoS,0.94000024
+DDoS,DDoS,0.8288354
+DDoS,DDoS,0.9330129
+DDoS,DDoS,0.9361663
+DDoS,DDoS,0.9354414
+DDoS,DDoS,0.9384168
+DDoS,DDoS,0.9363909
+DDoS,DDoS,0.93188906
+DDoS,DDoS,0.92591625
+DDoS,DDoS,0.93991923
+DDoS,DDoS,0.93732804
+DDoS,DDoS,0.92877495
+DDoS,DDoS,0.92690736
+DDoS,DDoS,0.9200216
+DDoS,DDoS,0.7945878
+DDoS,DDoS,0.9400771
+DDoS,DDoS,0.6914498
+DDoS,DDoS,0.93139446
+DDoS,DDoS,0.9308392
+DDoS,DDoS,0.9351964
+DDoS,DDoS,0.930765
+DDoS,DDoS,0.6808131
+DDoS,DDoS,0.9369494
+DDoS,DDoS,0.8354302
+DDoS,DDoS,0.93354815
+DDoS,DDoS,0.93742716
+DDoS,DDoS,0.91889477
+DDoS,DDoS,0.9318357
+DDoS,DDoS,0.93531156
+DDoS,DDoS,0.91886127
+DDoS,DDoS,0.9330846
+DDoS,DDoS,0.9300776
+DDoS,DDoS,0.88196796
+Botnet,Botnet,0.7753272
+Botnet,Botnet,0.7753406
+Botnet,Botnet,0.7755715
+Botnet,Botnet,0.7917831
+Botnet,Botnet,0.82699174
+Botnet,Botnet,0.830726
+Botnet,Botnet,0.8309448
+Botnet,Botnet,0.8308196
+Benign,Benign,0.8047348
+Benign,Benign,0.6416644
+Benign,Botnet,0.799276
+Benign,Benign,0.93398666
+Botnet,Botnet,0.80185497
+Botnet,Botnet,0.8274147
+Botnet,Botnet,0.8275586
+Benign,Benign,0.7136201
+Benign,Benign,0.92960525
+Botnet,Botnet,0.8705776
+Botnet,Botnet,0.87043804
+Botnet,Botnet,0.8703378
+Botnet,Botnet,0.87024677
+Botnet,Botnet,0.87016815
+Botnet,Botnet,0.8688596
+Botnet,Botnet,0.86898357
+Botnet,Botnet,0.8690461
+Botnet,Botnet,0.8690466

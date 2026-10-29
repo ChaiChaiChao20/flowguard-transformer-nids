@@ -1,0 +1,14 @@
+[
+  {
+    "round": 1,
+    "validation_macro_f1": 0.8401930020038043
+  },
+  {
+    "round": 2,
+    "validation_macro_f1": 0.8437480549589677
+  },
+  {
+    "round": 3,
+    "validation_macro_f1": 0.8490653357401985
+  }
+]

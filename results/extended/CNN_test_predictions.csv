@@ -1,0 +1,1812 @@
+actual_class,predicted_class,model_probability,test_row
+DDoS,DDoS,0.99905926,0
+DoS,DoS,0.99991333,1
+DoS,DoS,0.999663,2
+Botnet,Botnet,0.9945873,3
+Botnet,Botnet,0.98973036,4
+Benign,Benign,0.9999994,5
+Botnet,Botnet,0.99153155,6
+Brute Force,Brute Force,0.99945897,7
+Botnet,Botnet,0.988992,8
+Botnet,Botnet,0.99490404,9
+Benign,Benign,0.9999995,10
+Botnet,Botnet,0.997071,11
+Benign,Benign,0.99999845,12
+Benign,Benign,0.99999905,13
+Port Scan,Port Scan,0.99879444,14
+Brute Force,Brute Force,0.9995055,15
+Port Scan,Port Scan,0.99868554,16
+Benign,Benign,0.99295604,17
+Brute Force,Brute Force,0.98844236,18
+Port Scan,Port Scan,0.99732023,19
+DoS,DoS,0.9999993,20
+DoS,DoS,0.9997911,21
+Port Scan,Port Scan,0.98051924,22
+Benign,Benign,0.99999905,23
+Benign,Benign,0.99315816,24
+DDoS,DDoS,0.9997404,25
+Brute Force,Brute Force,0.98744905,26
+Botnet,Botnet,0.9898448,27
+Brute Force,Brute Force,0.975525,28
+Port Scan,Port Scan,0.9976808,29
+Benign,Benign,0.99444795,30
+Benign,Benign,0.999009,31
+Benign,Benign,0.9992718,32
+Brute Force,Brute Force,0.999549,33
+Benign,DoS,0.8804222,34
+Brute Force,Brute Force,0.99954623,35
+Brute Force,Brute Force,0.9891623,36
+DDoS,DDoS,0.9740933,37
+DDoS,DDoS,0.999156,38
+Botnet,Botnet,0.98936814,39
+Port Scan,Port Scan,0.99873716,40
+Benign,Benign,0.99999964,41
+Brute Force,Brute Force,0.99957603,42
+Botnet,Botnet,0.99194276,43
+DoS,DoS,0.9999994,44
+Port Scan,Port Scan,0.99875367,45
+Benign,Benign,0.9999993,46
+Brute Force,Brute Force,0.98661,47
+Benign,Benign,0.9987739,48
+Benign,Benign,0.99791926,49
+DoS,DoS,0.9405311,50
+Botnet,Botnet,0.9914101,51
+Port Scan,Port Scan,0.9994618,52
+DoS,DoS,0.99999964,53
+Port Scan,Port Scan,0.9987619,54
+Brute Force,Brute Force,0.99951696,55
+Brute Force,Brute Force,0.98727185,56
+DoS,DoS,0.9999987,57
+DDoS,DDoS,0.9982488,58
+Port Scan,Port Scan,0.99854445,59
+Brute Force,Brute Force,0.9995665,60
+Benign,Benign,0.99999964,61
+DDoS,DDoS,0.99947983,62
+Botnet,Botnet,0.9970962,63
+DDoS,DDoS,0.9951079,64
+Benign,Benign,0.9999989,65
+Brute Force,Brute Force,0.9856791,66
+DDoS,DDoS,0.8774666,67
+Benign,Benign,0.9999995,68
+Benign,Benign,0.9952868,69
+DDoS,DDoS,0.99937207,70
+DoS,DoS,0.9998895,71
+DDoS,DDoS,0.99884343,72
+Port Scan,Port Scan,0.9955304,73
+Benign,Benign,0.97308344,74
+Botnet,Botnet,0.99284714,75
+Brute Force,Brute Force,0.9884,76
+Port Scan,Port Scan,0.9983407,77
+DDoS,DDoS,0.9996828,78
+Benign,Benign,0.9999995,79
+DDoS,DDoS,0.9998036,80
+Port Scan,DDoS,0.8229975,81
+DoS,DoS,0.99997735,82
+Port Scan,Port Scan,0.99605536,83
+Port Scan,Port Scan,0.9987662,84
+DDoS,DDoS,0.9411863,85
+Port Scan,Port Scan,0.99656373,86
+DDoS,DDoS,0.9959818,87
+Brute Force,Brute Force,0.9995128,88
+DoS,DoS,0.9995192,89
+DDoS,DDoS,0.9992279,90
+Port Scan,Port Scan,0.9991308,91
+Benign,Benign,0.99999976,92
+Botnet,Botnet,0.9971316,93
+DDoS,DDoS,0.99915576,94
+DoS,DoS,0.9999987,95
+DDoS,DDoS,0.99314064,96
+DoS,DoS,0.9999993,97
+DoS,DoS,0.99999905,98
+DDoS,DDoS,0.99901617,99
+Benign,Benign,0.998919,100
+DDoS,DDoS,0.99947876,101
+Botnet,Botnet,0.9970469,102
+Brute Force,Brute Force,0.98793143,103
+Benign,Benign,0.9964987,104
+Port Scan,Port Scan,0.99934787,105
+Benign,Benign,0.9657656,106
+Benign,Benign,0.9999994,107
+Botnet,Botnet,0.9920224,108
+Brute Force,Brute Force,0.98643297,109
+Port Scan,Port Scan,0.99675685,110
+Botnet,Botnet,0.9946085,111
+Benign,Benign,0.85874027,112
+Brute Force,Brute Force,0.9884647,113
+DDoS,DDoS,0.98855406,114
+Port Scan,Port Scan,0.998757,115
+Brute Force,Brute Force,0.9994448,116
+Benign,Benign,0.99657744,117
+DoS,DoS,0.99932003,118
+Botnet,Botnet,0.9909768,119
+Brute Force,Brute Force,0.9862467,120
+Brute Force,Brute Force,0.99952614,121
+DoS,DoS,0.87942296,122
+Benign,Benign,0.99999785,123
+Brute Force,Brute Force,0.9995578,124
+DoS,DoS,0.987948,125
+Benign,Benign,0.9999989,126
+Botnet,Botnet,0.99708873,127
+Benign,Benign,0.9974214,128
+Brute Force,Brute Force,0.9996476,129
+Benign,Benign,0.9913986,130
+Benign,Benign,0.9999987,131
+DDoS,DDoS,0.9650975,132
+Brute Force,Brute Force,0.99957055,133
+DDoS,DDoS,0.9994336,134
+Brute Force,Brute Force,0.97411025,135
+DDoS,DDoS,0.99947757,136
+Brute Force,Brute Force,0.9760139,137
+Botnet,Benign,0.9959126,138
+Port Scan,Port Scan,0.95588905,139
+Port Scan,Port Scan,0.99898356,140
+Benign,Benign,0.7486107,141
+Brute Force,Brute Force,0.9821231,142
+Brute Force,Brute Force,0.9994369,143
+Benign,Benign,0.99999964,144
+Port Scan,Port Scan,0.99636996,145
+Brute Force,Benign,0.7786462,146
+Benign,Benign,0.9999989,147
+DoS,DoS,0.99996495,148
+DDoS,DDoS,0.96947104,149
+DDoS,DDoS,0.9994797,150
+Port Scan,Port Scan,0.99733967,151
+Port Scan,Port Scan,0.9983675,152
+Benign,Benign,0.99999976,153
+Benign,Benign,0.99281174,154
+Port Scan,Port Scan,0.9701853,155
+DDoS,DDoS,0.9991598,156
+Benign,Benign,0.84010863,157
+DoS,DoS,0.9998293,158
+Brute Force,Brute Force,0.9737032,159
+DoS,DoS,0.99997354,160
+Brute Force,Brute Force,0.9994804,161
+Botnet,Botnet,0.989902,162
+DDoS,DDoS,0.99992573,163
+Benign,Benign,0.9931201,164
+DoS,DoS,0.9999993,165
+Brute Force,Brute Force,0.9876951,166
+Benign,Benign,0.9999981,167
+Botnet,Botnet,0.9917991,168
+Benign,Benign,0.99999964,169
+DDoS,DDoS,0.99329513,170
+Benign,Benign,0.99999976,171
+DoS,DoS,0.52882487,172
+Brute Force,Brute Force,0.97495246,173
+Port Scan,Port Scan,0.9986499,174
+DDoS,DDoS,0.9996612,175
+Botnet,Botnet,0.9955089,176
+Benign,Benign,0.99982435,177
+Port Scan,Port Scan,0.9996817,178
+Port Scan,Port Scan,0.99960345,179
+Port Scan,Port Scan,0.9963085,180
+DDoS,DDoS,0.9992686,181
+Port Scan,Port Scan,0.9986091,182
+Benign,Benign,0.9300112,183
+Botnet,Botnet,0.99637467,184
+Brute Force,Brute Force,0.9995809,185
+Port Scan,Port Scan,0.99755293,186
+Port Scan,Port Scan,0.9982401,187
+DDoS,DDoS,0.9994191,188
+DoS,DoS,0.99994254,189
+Port Scan,Port Scan,0.9985915,190
+DDoS,DDoS,0.9997212,191
+DoS,DoS,0.9999993,192
+DDoS,DDoS,0.9990146,193
+Port Scan,Port Scan,0.9635649,194
+DDoS,DDoS,0.9962076,195
+Benign,Benign,0.9999993,196
+Port Scan,Port Scan,0.9988036,197
+Benign,Benign,0.9999993,198
+Benign,Benign,0.97818315,199
+DoS,DoS,0.6040268,200
+Benign,Benign,0.9908076,201
+Brute Force,Brute Force,0.999554,202
+Benign,Benign,0.99999964,203
+Port Scan,Port Scan,0.9972366,204
+Port Scan,Port Scan,0.99733967,205
+Benign,Benign,0.9914928,206
+Brute Force,Brute Force,0.9995505,207
+Botnet,Botnet,0.9938899,208
+DDoS,DDoS,0.99921477,209
+Botnet,Botnet,0.9882633,210
+Brute Force,Brute Force,0.999456,211
+Benign,Benign,0.9629316,212
+Benign,Benign,0.99029505,213
+Benign,Benign,0.95776165,214
+Brute Force,Brute Force,0.9995127,215
+Benign,Benign,0.9999988,216
+DoS,DoS,0.9999155,217
+Benign,DoS,0.95575833,218
+DoS,DoS,0.99990034,219
+Benign,Benign,0.9996425,220
+Benign,Benign,0.9999989,221
+DDoS,DDoS,0.99986887,222
+Benign,Benign,0.99960595,223
+Brute Force,Brute Force,0.9995092,224
+Benign,Benign,0.99233925,225
+Port Scan,Port Scan,0.9972602,226
+Botnet,Botnet,0.9970469,227
+DoS,DoS,0.99999964,228
+Benign,Benign,0.96546626,229
+Port Scan,Port Scan,0.99984336,230
+DDoS,DDoS,0.9939453,231
+DDoS,DDoS,0.9984113,232
+Brute Force,Brute Force,0.9994727,233
+Brute Force,Brute Force,0.9995192,234
+DDoS,DDoS,0.99538827,235
+Botnet,Botnet,0.9970511,236
+Infiltration,Benign,0.834089,237
+DDoS,DDoS,0.9989095,238
+DoS,DoS,0.98966646,239
+DoS,DoS,0.99330163,240
+Benign,Benign,0.9167651,241
+Brute Force,Brute Force,0.9756031,242
+DDoS,DDoS,0.9897127,243
+Benign,DoS,0.66207767,244
+Port Scan,Port Scan,0.9991309,245
+DoS,DoS,0.9999908,246
+Benign,Benign,0.99999917,247
+DDoS,DDoS,0.99948174,248
+DoS,DoS,0.9999956,249
+Botnet,Botnet,0.99131876,250
+Benign,Benign,0.99542576,251
+Benign,Benign,0.9983601,252
+Benign,Benign,0.99416006,253
+DoS,DoS,0.9918794,254
+Port Scan,Port Scan,0.9986765,255
+Port Scan,Port Scan,0.9980134,256
+Benign,Benign,0.9991768,257
+Benign,Benign,0.99999917,258
+Benign,Benign,0.9999995,259
+Benign,Benign,0.99753296,260
+DDoS,DDoS,0.9988431,261
+Benign,Benign,0.9999995,262
+Port Scan,Port Scan,0.9996817,263
+DoS,DoS,0.99999976,264
+Botnet,Botnet,0.99537057,265
+Brute Force,Brute Force,0.9867599,266
+Benign,Benign,0.99909127,267
+Benign,Benign,0.99999976,268
+Benign,Benign,0.9980478,269
+DDoS,DDoS,0.99836606,270
+Benign,Benign,0.86152875,271
+Benign,Benign,0.99999905,272
+Port Scan,Port Scan,0.9987306,273
+Brute Force,Brute Force,0.99954045,274
+Brute Force,Brute Force,0.99962807,275
+Botnet,Botnet,0.97592974,276
+Benign,Benign,0.9941288,277
+Benign,Benign,0.96381986,278
+Brute Force,Brute Force,0.9748917,279
+DDoS,DDoS,0.99832064,280
+Botnet,Botnet,0.9970607,281
+Brute Force,Brute Force,0.9995347,282
+DoS,DoS,0.9948725,283
+DDoS,DDoS,0.9982741,284
+Port Scan,Port Scan,0.9791251,285
+Port Scan,Port Scan,0.9971119,286
+Benign,Benign,0.9857604,287
+DoS,DoS,0.99998784,288
+Brute Force,Brute Force,0.9995559,289
+Botnet,Botnet,0.9971505,290
+Brute Force,Brute Force,0.98489153,291
+Port Scan,Port Scan,0.99652076,292
+Botnet,Botnet,0.99704665,293
+Port Scan,Port Scan,0.90840924,294
+DDoS,DDoS,0.99975735,295
+Port Scan,Benign,0.8611782,296
+DDoS,DDoS,0.99732333,297
+Brute Force,Brute Force,0.97497374,298
+DoS,DoS,0.98611546,299
+Brute Force,Brute Force,0.9995715,300
+DDoS,DDoS,0.9995596,301
+Benign,Benign,0.9845725,302
+Brute Force,Brute Force,0.9996269,303
+Port Scan,Port Scan,0.7037011,304
+DDoS,DDoS,0.9990502,305
+DDoS,DDoS,0.99966633,306
+Brute Force,Brute Force,0.98494476,307
+Botnet,Botnet,0.9841632,308
+Brute Force,Brute Force,0.9995459,309
+DDoS,DDoS,0.999206,310
+DDoS,DDoS,0.998713,311
+Benign,Benign,0.996727,312
+DoS,DoS,0.5675197,313
+Benign,Benign,0.99910295,314
+Benign,Benign,0.99999964,315
+Port Scan,Port Scan,0.99875283,316
+Port Scan,Port Scan,0.9973398,317
+Benign,Benign,0.7689375,318
+DoS,DoS,0.99969554,319
+Port Scan,Port Scan,0.99868983,320
+Brute Force,Brute Force,0.9728292,321
+DoS,DoS,0.9999598,322
+Benign,Benign,0.99999917,323
+Port Scan,Port Scan,0.9965372,324
+Port Scan,Port Scan,0.99737203,325
+Port Scan,Port Scan,0.996416,326
+Benign,Benign,0.99880624,327
+DDoS,DDoS,0.9992617,328
+DoS,DoS,0.99999654,329
+Benign,Benign,0.99717665,330
+Brute Force,Brute Force,0.9996408,331
+Benign,Benign,0.99775785,332
+Brute Force,Brute Force,0.949014,333
+Botnet,Botnet,0.99344605,334
+DoS,DoS,0.62524796,335
+DoS,DoS,0.99998546,336
+Brute Force,Brute Force,0.98390996,337
+Brute Force,Brute Force,0.99948174,338
+Benign,Benign,0.99678814,339
+Benign,Benign,0.96865964,340
+DDoS,DDoS,0.99968445,341
+DoS,DoS,0.9999993,342
+Benign,Benign,0.99999976,343
+DDoS,DDoS,0.9989492,344
+DDoS,DDoS,0.9986707,345
+Benign,Benign,0.99999964,346
+Benign,Benign,0.99999976,347
+DoS,DoS,0.9999784,348
+DoS,DoS,0.99999917,349
+DDoS,Benign,0.9935846,350
+Port Scan,Port Scan,0.9963452,351
+Brute Force,Brute Force,0.9858392,352
+DoS,DoS,0.9991473,353
+Benign,Benign,0.99999964,354
+Infiltration,Infiltration,0.99991906,355
+DoS,DoS,0.99999917,356
+Benign,Benign,0.9972038,357
+DDoS,DDoS,0.99937075,358
+Botnet,Botnet,0.99716187,359
+Botnet,Botnet,0.5662876,360
+Botnet,Botnet,0.99709165,361
+Port Scan,Port Scan,0.9971511,362
+Benign,Benign,0.9852064,363
+Benign,Benign,0.99918574,364
+DoS,DoS,0.9999995,365
+Port Scan,Port Scan,0.9885643,366
+Benign,Benign,0.9933074,367
+DDoS,DDoS,0.9983032,368
+Brute Force,Brute Force,0.99950397,369
+Brute Force,Brute Force,0.99950063,370
+Port Scan,Port Scan,0.9966336,371
+Benign,Benign,0.9999993,372
+Port Scan,Port Scan,0.99887615,373
+Benign,Benign,0.99999905,374
+Benign,Benign,0.998889,375
+Benign,Benign,0.99170977,376
+DoS,DoS,0.9998752,377
+Botnet,Botnet,0.99186397,378
+Port Scan,Port Scan,0.99793977,379
+Brute Force,Brute Force,0.98693115,380
+DoS,DoS,0.99999905,381
+Benign,Benign,0.9999989,382
+Botnet,Botnet,0.99715185,383
+Benign,Benign,0.9999994,384
+Port Scan,Port Scan,0.99863416,385
+DDoS,DDoS,0.99943715,386
+Brute Force,Brute Force,0.987581,387
+DoS,DoS,0.9706906,388
+Benign,Benign,0.9999994,389
+DoS,DoS,0.9998543,390
+DDoS,DDoS,0.99779296,391
+DoS,DoS,0.95654154,392
+Brute Force,Brute Force,0.98517936,393
+DDoS,DDoS,0.9993241,394
+Brute Force,Brute Force,0.97233635,395
+Port Scan,Port Scan,0.99729353,396
+DDoS,DDoS,0.9951669,397
+DDoS,DDoS,0.9988738,398
+Port Scan,Port Scan,0.9988279,399
+Port Scan,Port Scan,0.99699795,400
+Brute Force,Brute Force,0.9995777,401
+DDoS,DDoS,0.9903865,402
+Benign,Benign,0.9941369,403
+DDoS,DDoS,0.9983802,404
+Benign,Benign,0.99999964,405
+Brute Force,Brute Force,0.99946827,406
+Botnet,Botnet,0.99715173,407
+Botnet,Botnet,0.997145,408
+DoS,DoS,0.99999976,409
+Brute Force,Brute Force,0.9995548,410
+Benign,Benign,0.99356574,411
+Port Scan,Port Scan,0.90843284,412
+DDoS,DDoS,0.99935013,413
+Benign,Benign,0.5906547,414
+DoS,DoS,0.99975914,415
+DoS,DoS,0.99999225,416
+Port Scan,Port Scan,0.998657,417
+Benign,Benign,0.9999974,418
+Benign,Benign,0.97657573,419
+Port Scan,Port Scan,0.9994618,420
+DoS,Port Scan,0.74937415,421
+Benign,Benign,0.9999975,422
+Benign,Benign,0.9983986,423
+Benign,Benign,0.9891556,424
+Benign,Benign,0.98117036,425
+DoS,DoS,0.9999379,426
+Benign,Benign,0.98646635,427
+Benign,Benign,0.9482565,428
+Brute Force,Brute Force,0.99949884,429
+Benign,Benign,0.9989737,430
+DDoS,DDoS,0.9998103,431
+Benign,Benign,0.99999964,432
+DoS,DoS,0.9999993,433
+Benign,Benign,0.99014413,434
+Brute Force,Brute Force,0.97574335,435
+DoS,DoS,0.9999659,436
+Benign,Benign,0.99855536,437
+Botnet,Botnet,0.99220043,438
+Botnet,Botnet,0.9923948,439
+Benign,Benign,0.9999994,440
+Benign,Benign,0.9999993,441
+Port Scan,Port Scan,0.9969524,442
+DoS,DoS,0.99999905,443
+Brute Force,Brute Force,0.9995018,444
+Benign,Benign,0.99802446,445
+Benign,Benign,0.9964103,446
+Benign,Benign,0.98153335,447
+DoS,DoS,0.999969,448
+Brute Force,Brute Force,0.99951947,449
+DDoS,DDoS,0.99991345,450
+DDoS,DDoS,0.99626464,451
+DoS,DoS,0.9993672,452
+Benign,Benign,0.99999917,453
+Brute Force,Brute Force,0.97468626,454
+Botnet,Botnet,0.9970463,455
+Benign,Benign,0.9570775,456
+Benign,Benign,0.99515426,457
+Botnet,Botnet,0.9901598,458
+DDoS,DDoS,0.9986468,459
+Benign,Benign,0.9990594,460
+Benign,Benign,0.99999785,461
+Brute Force,Brute Force,0.9870673,462
+Benign,Benign,0.9999994,463
+Port Scan,Port Scan,0.9986249,464
+DDoS,DDoS,0.9990233,465
+Brute Force,Brute Force,0.97390646,466
+DDoS,DDoS,0.9875936,467
+Port Scan,Port Scan,0.95273083,468
+DoS,DoS,0.95668346,469
+Brute Force,Brute Force,0.99955684,470
+DDoS,DDoS,0.9994143,471
+Brute Force,Brute Force,0.99953747,472
+Benign,Benign,0.99024093,473
+DDoS,DDoS,0.8966644,474
+Benign,Benign,0.9999988,475
+Benign,Benign,0.99999964,476
+Botnet,Botnet,0.9905793,477
+Brute Force,Brute Force,0.99956733,478
+DoS,DoS,0.9499352,479
+Brute Force,Brute Force,0.9996195,480
+Botnet,Botnet,0.99706024,481
+Benign,Benign,0.50777304,482
+Port Scan,Port Scan,0.9994469,483
+Benign,Benign,0.958342,484
+DoS,DoS,0.9999988,485
+DoS,DoS,0.9995641,486
+DoS,DoS,0.9912025,487
+DoS,DoS,0.9999995,488
+Brute Force,Brute Force,0.97475004,489
+Port Scan,Port Scan,0.99883074,490
+DDoS,DDoS,0.9994816,491
+Benign,Port Scan,0.34673032,492
+Port Scan,Port Scan,0.48459035,493
+DDoS,DDoS,0.99924695,494
+Brute Force,Brute Force,0.9859039,495
+Brute Force,Brute Force,0.97493976,496
+DoS,DoS,0.9999186,497
+Brute Force,Brute Force,0.9995129,498
+DDoS,DDoS,0.99844366,499
+DDoS,DDoS,0.998723,500
+Brute Force,Brute Force,0.9995401,501
+DoS,DoS,0.99999833,502
+Benign,Benign,0.9999988,503
+Botnet,Botnet,0.9929644,504
+Benign,Benign,0.99999917,505
+DDoS,DDoS,0.9989446,506
+Benign,Benign,0.99706465,507
+Port Scan,DDoS,0.76835364,508
+DoS,DoS,0.9999535,509
+Benign,Benign,0.9934856,510
+Brute Force,Brute Force,0.99949324,511
+DDoS,DDoS,0.99977654,512
+DoS,DoS,0.99969745,513
+Benign,Benign,0.9999994,514
+DDoS,DDoS,0.99957997,515
+Botnet,Botnet,0.9912703,516
+Brute Force,Brute Force,0.99956185,517
+Botnet,Botnet,0.99704677,518
+DDoS,DDoS,0.9907534,519
+Brute Force,Brute Force,0.9922603,520
+Brute Force,Brute Force,0.9995685,521
+Brute Force,Brute Force,0.97365487,522
+DDoS,DDoS,0.9987698,523
+DoS,DoS,0.9886274,524
+DoS,DoS,0.9999994,525
+Botnet,Botnet,0.98187137,526
+Brute Force,Brute Force,0.98727334,527
+DoS,DoS,0.999876,528
+Port Scan,Port Scan,0.99634606,529
+DoS,DoS,0.98369575,530
+Brute Force,Brute Force,0.98817134,531
+DoS,DoS,0.9999995,532
+DDoS,DDoS,0.9991916,533
+DoS,DoS,0.99999905,534
+DoS,DoS,0.9999529,535
+DoS,DoS,0.9997112,536
+Brute Force,Brute Force,0.97491574,537
+DDoS,DDoS,0.97987956,538
+Botnet,Botnet,0.9939322,539
+DoS,DoS,0.9999989,540
+Port Scan,Port Scan,0.99831605,541
+DDoS,DDoS,0.99945885,542
+Benign,Benign,0.9995111,543
+Brute Force,Brute Force,0.9995223,544
+Benign,Benign,0.99999964,545
+Port Scan,Port Scan,0.9993591,546
+Brute Force,Brute Force,0.999514,547
+DoS,DoS,0.9999281,548
+Port Scan,Port Scan,0.99876344,549
+Benign,Benign,0.991928,550
+DoS,DoS,0.9999988,551
+Botnet,Botnet,0.99716103,552
+Benign,Benign,0.9113721,553
+Brute Force,Brute Force,0.99957436,554
+Brute Force,Brute Force,0.9839251,555
+Brute Force,Brute Force,0.99952817,556
+DoS,DoS,0.999966,557
+Port Scan,Port Scan,0.9981559,558
+Brute Force,Brute Force,0.9708721,559
+Brute Force,Brute Force,0.97500336,560
+DoS,DoS,0.99999976,561
+Port Scan,Port Scan,0.997051,562
+DoS,DoS,0.99997973,563
+Port Scan,Port Scan,0.99846953,564
+Brute Force,Brute Force,0.97468966,565
+Brute Force,Brute Force,0.9836145,566
+Benign,Benign,0.9998808,567
+DoS,DoS,0.9999988,568
+Port Scan,Port Scan,0.9985077,569
+DDoS,DDoS,0.9992631,570
+Brute Force,Brute Force,0.999564,571
+Benign,Benign,0.99999964,572
+DDoS,DDoS,0.99914503,573
+DDoS,DDoS,0.99509215,574
+DoS,DoS,0.9999994,575
+DoS,DoS,0.99996495,576
+DDoS,DDoS,0.9998386,577
+Botnet,Botnet,0.9970469,578
+Benign,Benign,0.9999994,579
+DoS,DoS,0.9999993,580
+Port Scan,Port Scan,0.99733967,581
+Benign,Benign,0.99999964,582
+Brute Force,Brute Force,0.9995908,583
+Benign,Benign,0.9999995,584
+Brute Force,Brute Force,0.97444975,585
+Port Scan,Port Scan,0.7382326,586
+Benign,Benign,0.9983436,587
+Benign,Benign,0.99999964,588
+Port Scan,Port Scan,0.9993587,589
+Port Scan,Port Scan,0.9987921,590
+Botnet,Botnet,0.9932609,591
+DDoS,DDoS,0.9994789,592
+Botnet,Botnet,0.99709237,593
+Port Scan,Port Scan,0.9987937,594
+DoS,DoS,0.7473331,595
+DoS,DoS,0.99999833,596
+DoS,DoS,0.99965644,597
+Botnet,Benign,0.9466439,598
+Botnet,Botnet,0.99711084,599
+Brute Force,Brute Force,0.99965537,600
+Botnet,Botnet,0.9971424,601
+Brute Force,Brute Force,0.9995735,602
+DDoS,DDoS,0.9994516,603
+DoS,DoS,0.9850758,604
+Benign,Benign,0.99999976,605
+DoS,DoS,0.9879594,606
+Port Scan,Port Scan,0.99703634,607
+Benign,Benign,0.9993674,608
+Brute Force,Brute Force,0.97142076,609
+Infiltration,Infiltration,0.99998724,610
+Brute Force,Brute Force,0.9995258,611
+Benign,Benign,0.99999964,612
+Brute Force,Brute Force,0.99950457,613
+DoS,DoS,0.99987924,614
+Brute Force,Brute Force,0.9995097,615
+Brute Force,Brute Force,0.9843126,616
+DDoS,DDoS,0.99956363,617
+Benign,Benign,0.99999905,618
+Benign,Benign,0.99364907,619
+Port Scan,Port Scan,0.999052,620
+Benign,Benign,0.99999964,621
+DoS,DoS,0.9999864,622
+Brute Force,Brute Force,0.9995017,623
+DDoS,DDoS,0.9994704,624
+Benign,Benign,0.99999785,625
+Brute Force,Brute Force,0.9876152,626
+Benign,Benign,0.9999993,627
+Botnet,Botnet,0.9949451,628
+DoS,DoS,0.9999906,629
+Port Scan,Port Scan,0.95370185,630
+Benign,Benign,0.8533927,631
+Brute Force,Brute Force,0.99954236,632
+Benign,Benign,0.99999964,633
+Brute Force,Brute Force,0.99944764,634
+DoS,DoS,0.9999014,635
+Botnet,Botnet,0.99710506,636
+Port Scan,Port Scan,0.99821234,637
+Benign,Benign,0.9902372,638
+Botnet,Botnet,0.9953998,639
+Port Scan,Port Scan,0.9991308,640
+DoS,DoS,0.9999994,641
+Brute Force,Brute Force,0.97247386,642
+DDoS,DDoS,0.99939823,643
+Botnet,Botnet,0.997047,644
+Benign,Benign,0.9999994,645
+Port Scan,Port Scan,0.9980598,646
+Port Scan,Port Scan,0.99960345,647
+DoS,DoS,0.99995613,648
+Botnet,Botnet,0.99705964,649
+Port Scan,Port Scan,0.90183055,650
+Benign,Benign,0.9994842,651
+DDoS,DDoS,0.9994598,652
+Port Scan,Port Scan,0.9084136,653
+Port Scan,Port Scan,0.99877304,654
+DDoS,DDoS,0.9547438,655
+Botnet,Botnet,0.99715024,656
+Port Scan,Port Scan,0.99873143,657
+DoS,DoS,0.99999917,658
+Botnet,Botnet,0.99191964,659
+Benign,Benign,0.9999988,660
+DoS,Port Scan,0.6379126,661
+DoS,DoS,0.9911703,662
+Botnet,Botnet,0.99705964,663
+Brute Force,Brute Force,0.98676795,664
+DDoS,DDoS,0.9994823,665
+DoS,DoS,0.99999964,666
+DDoS,DDoS,0.99909437,667
+Benign,Benign,0.99999917,668
+DoS,DoS,0.99995935,669
+Botnet,Botnet,0.9877758,670
+Port Scan,Port Scan,0.9971697,671
+DDoS,DDoS,0.99941456,672
+DDoS,DDoS,0.99951255,673
+Brute Force,Brute Force,0.9866259,674
+Brute Force,Brute Force,0.9995678,675
+Benign,Benign,0.9999989,676
+Port Scan,Port Scan,0.99955434,677
+Benign,Benign,0.99217457,678
+DDoS,DDoS,0.9997924,679
+Benign,Benign,0.9995813,680
+DoS,DoS,0.9997317,681
+Port Scan,Port Scan,0.99876535,682
+Brute Force,Brute Force,0.9995034,683
+Benign,Benign,0.99999976,684
+Botnet,Botnet,0.9971501,685
+DoS,DoS,0.9092465,686
+Brute Force,Brute Force,0.9868982,687
+DoS,DoS,0.54472417,688
+DDoS,DDoS,0.9995746,689
+Port Scan,Port Scan,0.9973398,690
+Brute Force,Brute Force,0.97270197,691
+Benign,Benign,0.9984055,692
+DDoS,DDoS,0.9845391,693
+Brute Force,Brute Force,0.60211474,694
+Benign,Benign,0.9976567,695
+Botnet,Botnet,0.9971167,696
+Brute Force,Brute Force,0.97499055,697
+Brute Force,Brute Force,0.9994368,698
+Brute Force,Brute Force,0.9994974,699
+Brute Force,Brute Force,0.973942,700
+DoS,DoS,0.97069013,701
+DoS,DoS,0.9999994,702
+DDoS,DDoS,0.9966593,703
+Port Scan,Port Scan,0.99879515,704
+DoS,DoS,0.92823404,705
+Benign,Benign,0.99999976,706
+DDoS,DDoS,0.9988374,707
+Botnet,Botnet,0.99469584,708
+Botnet,Botnet,0.99704665,709
+DoS,DoS,0.9987914,710
+DoS,DoS,0.9999443,711
+Benign,Benign,0.9936166,712
+Brute Force,Brute Force,0.97068024,713
+DoS,DoS,0.9852437,714
+Port Scan,Port Scan,0.7801451,715
+Benign,Benign,0.9996455,716
+Port Scan,Port Scan,0.998755,717
+DDoS,DDoS,0.9989668,718
+Brute Force,Brute Force,0.999542,719
+Benign,Benign,0.9999989,720
+DoS,DoS,0.99996436,721
+Brute Force,Brute Force,0.99949694,722
+DoS,DoS,0.9876035,723
+Brute Force,Brute Force,0.9995098,724
+DDoS,DDoS,0.99939,725
+Port Scan,Port Scan,0.9805047,726
+Benign,Benign,0.9999995,727
+Brute Force,Brute Force,0.9877352,728
+DoS,DoS,0.92822653,729
+Port Scan,Port Scan,0.9967039,730
+Botnet,Botnet,0.99714535,731
+DoS,DoS,0.9999999,732
+Port Scan,Port Scan,0.9985297,733
+Brute Force,Brute Force,0.9862895,734
+Benign,Benign,0.99999964,735
+DDoS,DDoS,0.9951367,736
+DoS,DoS,0.99997663,737
+DoS,DoS,0.9999982,738
+DoS,DoS,0.9999999,739
+Botnet,Botnet,0.9948473,740
+Benign,Benign,0.495889,741
+DoS,DoS,0.7823862,742
+DDoS,DDoS,0.99438006,743
+DDoS,DDoS,0.99903417,744
+DoS,DoS,0.9999999,745
+DDoS,DDoS,0.99946934,746
+Benign,Benign,0.9999995,747
+DDoS,DDoS,0.9994616,748
+DDoS,DDoS,0.99941957,749
+Benign,Benign,0.9999993,750
+Benign,Benign,0.9999982,751
+Botnet,Botnet,0.9977558,752
+DoS,DoS,0.99999225,753
+Benign,Benign,0.9996455,754
+DDoS,DDoS,0.99914014,755
+Benign,Benign,0.8373217,756
+DDoS,DDoS,0.9994242,757
+DoS,DoS,0.999979,758
+Benign,Benign,0.9999989,759
+Benign,Benign,0.99999964,760
+DDoS,DDoS,0.99624556,761
+Brute Force,Brute Force,0.999508,762
+Botnet,Botnet,0.99155575,763
+Port Scan,Port Scan,0.9994618,764
+Benign,Benign,0.99999964,765
+Benign,Benign,0.9999989,766
+Benign,Benign,0.95609564,767
+Port Scan,Port Scan,0.4914922,768
+DDoS,DDoS,0.9056541,769
+Brute Force,Brute Force,0.9854521,770
+Brute Force,Brute Force,0.9995414,771
+Brute Force,Brute Force,0.98722976,772
+Brute Force,Brute Force,0.8321222,773
+Brute Force,Brute Force,0.9766233,774
+Brute Force,Brute Force,0.9994604,775
+Benign,Benign,0.99999964,776
+Brute Force,Brute Force,0.9726168,777
+Benign,Benign,0.99335325,778
+Botnet,Botnet,0.99086577,779
+DoS,DoS,0.99963486,780
+DoS,DoS,0.52382123,781
+DDoS,DDoS,0.99667466,782
+DDoS,DDoS,0.9979741,783
+Port Scan,Port Scan,0.9988005,784
+Brute Force,Brute Force,0.9995315,785
+DDoS,DDoS,0.999032,786
+Botnet,Botnet,0.9902756,787
+DoS,DoS,0.9999975,788
+Port Scan,Port Scan,0.99946576,789
+DoS,DoS,0.9999995,790
+DoS,DoS,0.49566925,791
+Benign,Benign,0.9999994,792
+Botnet,Botnet,0.99713194,793
+Port Scan,Port Scan,0.99898833,794
+DoS,DoS,0.9999083,795
+Benign,Benign,0.99999964,796
+DDoS,DDoS,0.98817664,797
+Botnet,Botnet,0.954379,798
+Benign,Benign,0.83472335,799
+DoS,DoS,0.9999993,800
+Port Scan,Port Scan,0.99849975,801
+Port Scan,Port Scan,0.99745363,802
+DoS,DoS,0.56512654,803
+DDoS,DDoS,0.9953827,804
+Port Scan,Port Scan,0.98408335,805
+Benign,Benign,0.9957765,806
+Brute Force,Brute Force,0.9882649,807
+DoS,DoS,0.9997894,808
+DDoS,DDoS,0.99833655,809
+Benign,Benign,0.9844624,810
+Brute Force,Brute Force,0.97458696,811
+DoS,DoS,0.99986994,812
+Benign,Benign,0.99945265,813
+DDoS,DDoS,0.95166606,814
+Botnet,Botnet,0.9971499,815
+Benign,Benign,0.9999995,816
+Benign,Benign,0.9855942,817
+Brute Force,Brute Force,0.98034793,818
+DDoS,DDoS,0.9975339,819
+DDoS,DDoS,0.9993344,820
+DDoS,DDoS,0.9991806,821
+Port Scan,Port Scan,0.99870765,822
+Botnet,Botnet,0.99147683,823
+Port Scan,Port Scan,0.99708503,824
+Brute Force,Brute Force,0.98422235,825
+DDoS,DDoS,0.99976903,826
+DDoS,DDoS,0.99968886,827
+Botnet,Botnet,0.99714965,828
+Benign,Benign,0.99728024,829
+DoS,DoS,0.9999999,830
+Benign,Benign,0.99999964,831
+Botnet,Botnet,0.9939773,832
+DoS,DoS,0.9999188,833
+DDoS,DDoS,0.9866588,834
+Port Scan,Port Scan,0.9963825,835
+Brute Force,Brute Force,0.98251826,836
+Port Scan,Port Scan,0.99644107,837
+Benign,Benign,0.99929464,838
+DDoS,DDoS,0.99757224,839
+Benign,Benign,0.9999995,840
+Benign,Benign,0.99999917,841
+Port Scan,Port Scan,0.77859086,842
+Brute Force,Brute Force,0.9995901,843
+Benign,Benign,0.99999964,844
+Benign,Benign,0.99946517,845
+Port Scan,Port Scan,0.9982596,846
+DDoS,DDoS,0.97670597,847
+DDoS,DDoS,0.9873754,848
+Port Scan,Port Scan,0.9949767,849
+Benign,Benign,0.99999976,850
+Port Scan,Port Scan,0.9991309,851
+Brute Force,Brute Force,0.99959046,852
+Port Scan,Port Scan,0.9987092,853
+DoS,DoS,0.99074215,854
+DDoS,DDoS,0.9974245,855
+DoS,DoS,0.9998549,856
+DDoS,DDoS,0.99950445,857
+DoS,DoS,0.99183345,858
+Benign,Benign,0.93631375,859
+DoS,DoS,0.9999906,860
+DDoS,DDoS,0.9855097,861
+Brute Force,Brute Force,0.9741664,862
+Botnet,Botnet,0.9970542,863
+Benign,Benign,0.999998,864
+DDoS,DDoS,0.9993839,865
+Benign,Benign,0.9999994,866
+Benign,Benign,0.9932059,867
+Benign,Benign,0.9999994,868
+Botnet,Botnet,0.9730463,869
+Benign,Benign,0.83839756,870
+DoS,DoS,0.9997123,871
+Port Scan,Port Scan,0.99633044,872
+Benign,Benign,0.9999988,873
+Benign,Benign,0.99999917,874
+Brute Force,Brute Force,0.99957186,875
+Brute Force,Brute Force,0.99956185,876
+DoS,DoS,0.9992843,877
+Benign,Benign,0.99999917,878
+Port Scan,Port Scan,0.99989533,879
+DoS,DoS,0.999556,880
+Benign,Benign,0.99999976,881
+Botnet,Botnet,0.99716115,882
+Botnet,Botnet,0.9928099,883
+Botnet,Botnet,0.99709296,884
+Port Scan,Port Scan,0.9973398,885
+DoS,DoS,0.9998536,886
+Port Scan,Port Scan,0.99899775,887
+Benign,Benign,0.9999989,888
+Port Scan,Port Scan,0.7382091,889
+Port Scan,Port Scan,0.99707305,890
+Port Scan,Port Scan,0.77419573,891
+Botnet,Botnet,0.99709654,892
+DoS,DoS,0.57214576,893
+DoS,DoS,0.9998486,894
+DDoS,DDoS,0.99954695,895
+DDoS,DDoS,0.96630985,896
+Botnet,Botnet,0.99159735,897
+Brute Force,Brute Force,0.97692615,898
+DoS,DoS,0.9996668,899
+DDoS,DDoS,0.9980258,900
+DoS,DoS,0.9999993,901
+Port Scan,Port Scan,0.9975253,902
+DDoS,DDoS,0.99467283,903
+DDoS,DDoS,0.99931526,904
+Botnet,Botnet,0.99039406,905
+Botnet,Botnet,0.99714226,906
+Brute Force,Brute Force,0.98574173,907
+DoS,DoS,0.9999286,908
+Benign,Benign,0.55130684,909
+DoS,DoS,0.9994822,910
+Botnet,Botnet,0.9908506,911
+Botnet,Botnet,0.98859006,912
+Port Scan,Port Scan,0.99876344,913
+DDoS,DDoS,0.9983316,914
+Benign,Benign,0.9949779,915
+Benign,Benign,0.9837421,916
+Benign,Benign,0.99479717,917
+Port Scan,Port Scan,0.9759393,918
+DDoS,DDoS,0.9992773,919
+Benign,Benign,0.96930546,920
+DDoS,DDoS,0.9992223,921
+Port Scan,Port Scan,0.99750596,922
+Botnet,Botnet,0.9927689,923
+Port Scan,Port Scan,0.9969415,924
+DoS,DoS,0.9828941,925
+Benign,Benign,0.9999993,926
+Benign,Benign,0.99999857,927
+DoS,DoS,0.9999993,928
+Brute Force,Brute Force,0.99963784,929
+Botnet,Botnet,0.99706024,930
+Botnet,Botnet,0.9971353,931
+Port Scan,Port Scan,0.99656576,932
+Brute Force,Brute Force,0.9995627,933
+Brute Force,Brute Force,0.999566,934
+DoS,DoS,0.9611607,935
+Port Scan,Port Scan,0.99855095,936
+Benign,Benign,0.99999845,937
+DDoS,DDoS,0.9994759,938
+DoS,DoS,0.99996436,939
+Botnet,Botnet,0.9970471,940
+Benign,Benign,0.99999976,941
+Brute Force,Brute Force,0.9864342,942
+DDoS,DDoS,0.9824706,943
+Port Scan,Port Scan,0.96210426,944
+DDoS,DDoS,0.9997292,945
+Benign,Benign,0.9929704,946
+Brute Force,Brute Force,0.9994671,947
+DDoS,DDoS,0.99930394,948
+Benign,Benign,0.9928786,949
+Brute Force,Brute Force,0.99957377,950
+Benign,Benign,0.9999995,951
+Brute Force,Brute Force,0.9852669,952
+DoS,DoS,0.99987626,953
+DDoS,DDoS,0.99931014,954
+DoS,DoS,0.99999964,955
+Brute Force,Brute Force,0.9994924,956
+Benign,Benign,0.9999994,957
+Brute Force,Brute Force,0.98360217,958
+Botnet,Botnet,0.9971501,959
+Brute Force,Brute Force,0.99948823,960
+Port Scan,Port Scan,0.9987596,961
+Port Scan,Port Scan,0.9973398,962
+DoS,DoS,0.99613935,963
+Botnet,Botnet,0.99181163,964
+Brute Force,Brute Force,0.9994815,965
+Brute Force,Brute Force,0.97264975,966
+Port Scan,Port Scan,0.9973398,967
+Benign,Benign,0.98658526,968
+Benign,Benign,0.99113643,969
+Benign,Benign,0.9999995,970
+DDoS,DDoS,0.99984896,971
+Benign,Benign,0.85156244,972
+Botnet,Botnet,0.99109167,973
+DoS,DoS,0.99999964,974
+DoS,DoS,0.9999993,975
+DoS,DoS,0.9999621,976
+DoS,DoS,0.9957653,977
+Brute Force,Brute Force,0.98856163,978
+Port Scan,Port Scan,0.9988323,979
+Botnet,Botnet,0.9971372,980
+Botnet,Botnet,0.9908524,981
+Port Scan,Port Scan,0.99725974,982
+DoS,DoS,0.99999964,983
+Benign,Benign,0.851566,984
+DDoS,DDoS,0.9994722,985
+DoS,DoS,0.99037,986
+Port Scan,Port Scan,0.99786144,987
+DDoS,DDoS,0.9996158,988
+Botnet,Botnet,0.9971374,989
+Benign,Benign,0.9992872,990
+DoS,DoS,0.99994147,991
+Botnet,Botnet,0.99186736,992
+Benign,Benign,0.9999995,993
+DoS,DoS,0.97021466,994
+DoS,DoS,0.9282295,995
+Port Scan,Port Scan,0.9987662,996
+DDoS,DDoS,0.99945945,997
+Brute Force,Brute Force,0.9995054,998
+Botnet,Botnet,0.99180496,999
+DDoS,DDoS,0.99942017,1000
+DoS,DoS,0.99802077,1001
+DDoS,DDoS,0.9997236,1002
+Port Scan,Port Scan,0.7378479,1003
+DoS,DoS,0.9997998,1004
+Port Scan,Port Scan,0.9973398,1005
+Benign,Benign,0.99999964,1006
+Benign,Benign,0.99915445,1007
+Benign,Benign,0.9551481,1008
+DoS,DoS,0.6980828,1009
+DDoS,DDoS,0.9992316,1010
+DoS,DoS,0.9999994,1011
+Benign,Benign,0.99999976,1012
+Benign,Benign,0.9995838,1013
+Benign,Benign,0.9999993,1014
+Port Scan,Port Scan,0.99855727,1015
+Benign,Benign,0.99947053,1016
+DoS,DoS,0.9999993,1017
+Botnet,Botnet,0.99716383,1018
+Botnet,Botnet,0.9932793,1019
+Benign,Benign,0.99999964,1020
+Benign,Benign,0.9999993,1021
+Botnet,Botnet,0.99182653,1022
+DDoS,DDoS,0.9990195,1023
+Botnet,Botnet,0.99694,1024
+DoS,DoS,0.99999976,1025
+DoS,DoS,0.5287037,1026
+DDoS,DDoS,0.9994407,1027
+DoS,DoS,0.9999993,1028
+DoS,DoS,0.9997409,1029
+DoS,DoS,0.9999993,1030
+DDoS,DDoS,0.99142915,1031
+Benign,Benign,0.99999976,1032
+Botnet,Botnet,0.7820719,1033
+Port Scan,Port Scan,0.9801486,1034
+Brute Force,Brute Force,0.9995584,1035
+Benign,Benign,0.9999993,1036
+Port Scan,Port Scan,0.99940383,1037
+DDoS,DDoS,0.9999323,1038
+Brute Force,Brute Force,0.9739188,1039
+DoS,DoS,0.99999976,1040
+DDoS,DDoS,0.99879265,1041
+Port Scan,Port Scan,0.99881685,1042
+DDoS,DDoS,0.9994641,1043
+Brute Force,Brute Force,0.9995247,1044
+Port Scan,Port Scan,0.99589264,1045
+Benign,Benign,0.99999857,1046
+DDoS,DDoS,0.9999583,1047
+DoS,DoS,0.99969256,1048
+DDoS,DDoS,0.97997034,1049
+Benign,Benign,0.99999917,1050
+DDoS,DDoS,0.99920565,1051
+Brute Force,Brute Force,0.9994011,1052
+Benign,Benign,0.9999994,1053
+Brute Force,Brute Force,0.97834367,1054
+Benign,Benign,0.9999995,1055
+Brute Force,Brute Force,0.98441803,1056
+Brute Force,Brute Force,0.999542,1057
+DoS,DoS,0.68443155,1058
+Botnet,Botnet,0.9970938,1059
+DDoS,DDoS,0.9982072,1060
+Benign,Benign,0.9999994,1061
+DDoS,DDoS,0.99962807,1062
+Benign,Benign,0.999995,1063
+DoS,DoS,0.99998236,1064
+DDoS,DDoS,0.9905973,1065
+Benign,Benign,0.9978485,1066
+Botnet,Botnet,0.99376374,1067
+Benign,Benign,0.99999833,1068
+Benign,Benign,0.9897983,1069
+Benign,Benign,0.99999917,1070
+Benign,Benign,0.99999976,1071
+Botnet,Botnet,0.99051684,1072
+DoS,DoS,0.985502,1073
+Port Scan,Port Scan,0.9992015,1074
+Port Scan,Port Scan,0.9998431,1075
+Brute Force,Brute Force,0.9750748,1076
+Benign,Benign,0.9999993,1077
+Port Scan,Port Scan,0.99947435,1078
+Port Scan,Port Scan,0.9976471,1079
+Brute Force,Brute Force,0.99947685,1080
+DoS,DoS,0.9999993,1081
+Brute Force,Brute Force,0.98701894,1082
+DoS,DoS,0.55574995,1083
+Port Scan,Port Scan,0.99881005,1084
+DoS,DoS,0.9999652,1085
+Botnet,Botnet,0.9970913,1086
+Infiltration,Infiltration,0.9794702,1087
+Port Scan,Port Scan,0.9988274,1088
+Brute Force,Brute Force,0.9866073,1089
+DDoS,DDoS,0.9979365,1090
+Port Scan,Port Scan,0.99595296,1091
+DoS,DoS,0.9999995,1092
+Port Scan,Port Scan,0.9971117,1093
+Benign,Benign,0.7582264,1094
+DDoS,DDoS,0.99895215,1095
+Brute Force,Brute Force,0.9738271,1096
+Benign,Benign,0.99946684,1097
+Benign,Benign,0.99891376,1098
+Benign,Benign,0.94477093,1099
+Brute Force,Brute Force,0.9871956,1100
+Port Scan,Benign,0.861164,1101
+Port Scan,Port Scan,0.9973398,1102
+Benign,Benign,0.99620616,1103
+Botnet,Botnet,0.9970853,1104
+Port Scan,Port Scan,0.9948245,1105
+Brute Force,Brute Force,0.97239435,1106
+Benign,Benign,0.9999995,1107
+DDoS,DDoS,0.998054,1108
+DoS,DoS,0.9999778,1109
+Botnet,Botnet,0.99036306,1110
+Benign,Benign,0.9999995,1111
+Port Scan,Port Scan,0.9994561,1112
+DDoS,DDoS,0.9981737,1113
+DoS,DoS,0.99999917,1114
+Port Scan,Port Scan,0.99702567,1115
+DoS,DoS,0.99996316,1116
+Brute Force,Brute Force,0.99946684,1117
+DoS,DoS,0.9999999,1118
+Port Scan,Port Scan,0.996851,1119
+Port Scan,Port Scan,0.9973398,1120
+Brute Force,Brute Force,0.99953175,1121
+Port Scan,Port Scan,0.99553514,1122
+DDoS,DDoS,0.9847991,1123
+Botnet,Botnet,0.9915131,1124
+Brute Force,Brute Force,0.9878754,1125
+Benign,Benign,0.98448795,1126
+DDoS,DDoS,0.98380995,1127
+Benign,Benign,0.99973625,1128
+DDoS,DDoS,0.9968562,1129
+Brute Force,Brute Force,0.9741178,1130
+DoS,DoS,0.9997068,1131
+Port Scan,Port Scan,0.99545825,1132
+DDoS,DDoS,0.99902225,1133
+DoS,DoS,0.9980598,1134
+DDoS,DDoS,0.9990664,1135
+Port Scan,Port Scan,0.9973834,1136
+Port Scan,Port Scan,0.9966606,1137
+DDoS,DDoS,0.99965215,1138
+Brute Force,Brute Force,0.9995085,1139
+DoS,DoS,0.99996686,1140
+DDoS,DDoS,0.9991387,1141
+Port Scan,Port Scan,0.99708277,1142
+Brute Force,Brute Force,0.9994423,1143
+DDoS,DDoS,0.86341494,1144
+DoS,DoS,0.9999608,1145
+DDoS,DDoS,0.9984981,1146
+Port Scan,Port Scan,0.9977289,1147
+DoS,DoS,0.99999917,1148
+Brute Force,Brute Force,0.9995388,1149
+Benign,DoS,0.93003017,1150
+DDoS,DDoS,0.9941057,1151
+Brute Force,Brute Force,0.99948716,1152
+DDoS,DDoS,0.99911696,1153
+Botnet,Botnet,0.9971041,1154
+Brute Force,Brute Force,0.9996141,1155
+Port Scan,Port Scan,0.9994618,1156
+Port Scan,Port Scan,0.9982755,1157
+Benign,Benign,0.9947417,1158
+DoS,DoS,0.9999634,1159
+Infiltration,Benign,0.53578186,1160
+DDoS,DDoS,0.97525394,1161
+DoS,DoS,0.9999846,1162
+DDoS,DDoS,0.99599385,1163
+Brute Force,Brute Force,0.9995192,1164
+DDoS,DDoS,0.99903023,1165
+DoS,DoS,0.50084054,1166
+DoS,DoS,0.9999989,1167
+DDoS,DDoS,0.9994824,1168
+DoS,DoS,0.9999988,1169
+Brute Force,Brute Force,0.9995055,1170
+Benign,Benign,0.99999964,1171
+DDoS,DDoS,0.9847127,1172
+Port Scan,Port Scan,0.99947554,1173
+Port Scan,Port Scan,0.99744713,1174
+DDoS,DDoS,0.9994733,1175
+Benign,Benign,0.9999993,1176
+Benign,Benign,0.98712766,1177
+Benign,Benign,0.9999989,1178
+Benign,Benign,0.99999905,1179
+Brute Force,Brute Force,0.9994036,1180
+Benign,Benign,0.99999964,1181
+Benign,Benign,0.7083964,1182
+Port Scan,Port Scan,0.9987349,1183
+DoS,DoS,0.9999999,1184
+Benign,Benign,0.99349993,1185
+DDoS,DDoS,0.9970483,1186
+DDoS,DDoS,0.9988457,1187
+Botnet,Botnet,0.9921409,1188
+Botnet,Botnet,0.9931767,1189
+Botnet,Botnet,0.99706155,1190
+Benign,Benign,0.9640889,1191
+Benign,Benign,0.99999964,1192
+Benign,Benign,0.99999964,1193
+Port Scan,Port Scan,0.99790716,1194
+Brute Force,Brute Force,0.9866644,1195
+DDoS,DDoS,0.99894494,1196
+Port Scan,Port Scan,0.9975866,1197
+Port Scan,Port Scan,0.9961488,1198
+Botnet,Botnet,0.99704653,1199
+Benign,Benign,0.9999995,1200
+DDoS,DDoS,0.98975974,1201
+DoS,DoS,0.99999905,1202
+Port Scan,Port Scan,0.99882764,1203
+Port Scan,Port Scan,0.90845066,1204
+DoS,DoS,0.5287618,1205
+Brute Force,Brute Force,0.9993734,1206
+Brute Force,Brute Force,0.99952126,1207
+DoS,DoS,0.95967805,1208
+DDoS,DDoS,0.99232835,1209
+Benign,Benign,0.9887925,1210
+Brute Force,Brute Force,0.99956995,1211
+Benign,Benign,0.9999993,1212
+DoS,DoS,0.5287652,1213
+DDoS,DDoS,0.9992767,1214
+Benign,Benign,0.9999982,1215
+Benign,Benign,0.9999987,1216
+Benign,Benign,0.9999994,1217
+Benign,Benign,0.9975689,1218
+Port Scan,Port Scan,0.9982998,1219
+Port Scan,Port Scan,0.995902,1220
+DDoS,DDoS,0.99901867,1221
+DDoS,DDoS,0.99042225,1222
+Port Scan,Port Scan,0.9529344,1223
+Port Scan,Port Scan,0.9994721,1224
+Benign,Benign,0.99999976,1225
+DoS,DoS,0.9996462,1226
+DDoS,DDoS,0.96866906,1227
+Benign,Benign,0.99968994,1228
+Botnet,Botnet,0.99000084,1229
+DDoS,DDoS,0.9991881,1230
+Port Scan,Port Scan,0.9991308,1231
+DDoS,DDoS,0.9939506,1232
+Brute Force,Brute Force,0.99959785,1233
+Brute Force,Brute Force,0.9728684,1234
+Port Scan,Port Scan,0.99640465,1235
+Benign,Benign,0.97562146,1236
+Benign,Benign,0.84838665,1237
+DDoS,DDoS,0.9971993,1238
+DoS,DoS,0.9999832,1239
+DDoS,DDoS,0.99947375,1240
+Benign,Benign,0.99999964,1241
+Benign,Benign,0.9991216,1242
+Benign,Benign,0.97766393,1243
+Brute Force,Brute Force,0.9995908,1244
+Benign,Benign,0.9381236,1245
+DDoS,DDoS,0.9994357,1246
+DoS,DoS,0.9998815,1247
+DDoS,DDoS,0.99970347,1248
+Port Scan,Port Scan,0.9986595,1249
+Port Scan,Port Scan,0.99878913,1250
+Brute Force,Brute Force,0.9851001,1251
+Benign,Benign,0.98597765,1252
+Brute Force,Brute Force,0.97354424,1253
+DoS,DoS,0.9999987,1254
+Benign,Benign,0.99531233,1255
+Port Scan,Port Scan,0.9977174,1256
+DDoS,DDoS,0.98360795,1257
+Benign,Benign,0.9958903,1258
+Botnet,Botnet,0.99706894,1259
+DDoS,DDoS,0.99959785,1260
+Port Scan,Port Scan,0.9977102,1261
+Benign,Benign,0.9999994,1262
+Port Scan,Port Scan,0.99874973,1263
+Botnet,Botnet,0.9789726,1264
+Benign,Benign,0.9999995,1265
+Benign,Benign,0.8579687,1266
+Benign,Benign,0.98395777,1267
+Port Scan,Port Scan,0.9988116,1268
+Benign,Benign,0.9680447,1269
+Brute Force,Brute Force,0.973531,1270
+DDoS,DDoS,0.99356514,1271
+Benign,Benign,0.99999917,1272
+Benign,Benign,0.9999988,1273
+Benign,Benign,0.99999833,1274
+DDoS,DDoS,0.9994784,1275
+DDoS,DDoS,0.99866927,1276
+Botnet,Botnet,0.9906031,1277
+Port Scan,Port Scan,0.9998839,1278
+DoS,DoS,0.9999455,1279
+Port Scan,Port Scan,0.99864894,1280
+Port Scan,Port Scan,0.70586926,1281
+DoS,DoS,0.9999993,1282
+DDoS,DDoS,0.9935975,1283
+DDoS,DDoS,0.9988392,1284
+Port Scan,Port Scan,0.9994618,1285
+DoS,DoS,0.99989176,1286
+DoS,DoS,0.9999064,1287
+DoS,DoS,0.9421479,1288
+Benign,Benign,0.9954668,1289
+Brute Force,Brute Force,0.97498465,1290
+Benign,Benign,0.9978611,1291
+Brute Force,Brute Force,0.9873104,1292
+Port Scan,Port Scan,0.99862313,1293
+Benign,Benign,0.97887665,1294
+Botnet,Botnet,0.9947305,1295
+DDoS,DDoS,0.99902976,1296
+Port Scan,Port Scan,0.99921393,1297
+Benign,Benign,0.9999993,1298
+DoS,DoS,0.99996066,1299
+Brute Force,Brute Force,0.9752236,1300
+Botnet,Botnet,0.8927842,1301
+Port Scan,Port Scan,0.90843856,1302
+Brute Force,Brute Force,0.9995321,1303
+Brute Force,Benign,0.8352982,1304
+Brute Force,Brute Force,0.999491,1305
+DDoS,DDoS,0.9993401,1306
+DDoS,DDoS,0.98929787,1307
+Botnet,Botnet,0.9970469,1308
+Brute Force,Brute Force,0.9995291,1309
+Brute Force,Brute Force,0.99953425,1310
+DoS,DoS,0.99994016,1311
+DoS,DoS,0.9999968,1312
+Benign,Benign,0.99999964,1313
+Brute Force,Brute Force,0.9995235,1314
+Benign,Benign,0.79039633,1315
+DDoS,DDoS,0.99953866,1316
+DDoS,DDoS,0.99969447,1317
+DoS,DoS,0.99995923,1318
+Benign,Benign,0.9510846,1319
+DDoS,DDoS,0.9995877,1320
+Benign,Benign,0.99999964,1321
+Botnet,Botnet,0.99694127,1322
+Benign,Benign,0.9927583,1323
+Port Scan,Port Scan,0.99874914,1324
+Botnet,Botnet,0.99172384,1325
+Port Scan,Port Scan,0.99880767,1326
+Botnet,Botnet,0.99014217,1327
+Port Scan,Port Scan,0.99733967,1328
+Benign,Port Scan,0.74255437,1329
+DoS,DoS,0.9999523,1330
+DoS,DoS,0.9999366,1331
+DoS,DoS,0.997013,1332
+Benign,Benign,0.9999993,1333
+DoS,DoS,0.9951142,1334
+DDoS,DDoS,0.99902296,1335
+Botnet,Botnet,0.99185395,1336
+DoS,DoS,0.9999988,1337
+DDoS,DDoS,0.99969435,1338
+Benign,Benign,0.9992594,1339
+Benign,Benign,0.9970348,1340
+Brute Force,Brute Force,0.9764683,1341
+Benign,Benign,0.9958911,1342
+Brute Force,Brute Force,0.9995371,1343
+Port Scan,Port Scan,0.99756014,1344
+DoS,DoS,0.9999318,1345
+DDoS,DDoS,0.977237,1346
+Brute Force,Benign,0.99499327,1347
+Botnet,Botnet,0.99256307,1348
+Benign,Benign,0.9999993,1349
+Benign,Benign,0.9999989,1350
+Brute Force,Brute Force,0.9859137,1351
+Brute Force,Brute Force,0.9994481,1352
+Benign,Benign,0.99915826,1353
+DoS,DoS,0.99940443,1354
+Botnet,Botnet,0.99708825,1355
+Benign,Benign,0.9999989,1356
+Benign,Benign,0.998331,1357
+Benign,Benign,0.9933565,1358
+DDoS,DDoS,0.99942315,1359
+Benign,Benign,0.99999976,1360
+Port Scan,Port Scan,0.9954425,1361
+Benign,Benign,0.96839476,1362
+Benign,Benign,0.9999989,1363
+Botnet,Botnet,0.9971499,1364
+DoS,DoS,0.9999795,1365
+Port Scan,Port Scan,0.9991002,1366
+Botnet,Botnet,0.9935621,1367
+Benign,Benign,0.82438403,1368
+Brute Force,Brute Force,0.9911588,1369
+DoS,DoS,0.99999857,1370
+DoS,Port Scan,0.5948579,1371
+Benign,Benign,0.9902008,1372
+Benign,Benign,0.9999975,1373
+Benign,Benign,0.99999857,1374
+Port Scan,Port Scan,0.99944407,1375
+DoS,DoS,0.9965977,1376
+Benign,Benign,0.99999905,1377
+DoS,DoS,0.6622145,1378
+DoS,DoS,0.99998665,1379
+Brute Force,Brute Force,0.9748575,1380
+DDoS,DDoS,0.99894875,1381
+Brute Force,Brute Force,0.99959654,1382
+DoS,DoS,0.999992,1383
+Benign,Benign,0.99999964,1384
+DoS,DoS,0.9997025,1385
+Brute Force,Brute Force,0.9995049,1386
+Benign,Benign,0.99999857,1387
+DDoS,DDoS,0.9712162,1388
+Brute Force,Brute Force,0.9994779,1389
+Benign,Benign,0.5714576,1390
+DDoS,DDoS,0.9997292,1391
+Brute Force,Brute Force,0.9912368,1392
+Benign,Benign,0.9999994,1393
+Brute Force,Brute Force,0.9871811,1394
+DoS,DoS,0.9999944,1395
+DoS,DoS,0.98587924,1396
+DDoS,DDoS,0.9990374,1397
+Benign,Benign,0.99999964,1398
+Port Scan,Port Scan,0.9986688,1399
+DDoS,DDoS,0.9998776,1400
+Benign,Benign,0.99999905,1401
+DDoS,DDoS,0.99947387,1402
+Botnet,Botnet,0.988373,1403
+Brute Force,Brute Force,0.97256756,1404
+DDoS,DDoS,0.9994823,1405
+Benign,Benign,0.9541055,1406
+DDoS,DDoS,0.99917763,1407
+Brute Force,Brute Force,0.98712003,1408
+Benign,Benign,0.99999833,1409
+Benign,Benign,0.9999969,1410
+DDoS,DDoS,0.9993249,1411
+DoS,DoS,0.9960664,1412
+Port Scan,Port Scan,0.99864787,1413
+Benign,Benign,0.99865854,1414
+Port Scan,Port Scan,0.99733967,1415
+DDoS,DDoS,0.9984849,1416
+DDoS,DDoS,0.9990571,1417
+Benign,Benign,0.98567134,1418
+Port Scan,Port Scan,0.99638414,1419
+Benign,Benign,0.99999905,1420
+Benign,Benign,0.9934782,1421
+DDoS,DDoS,0.9996112,1422
+Port Scan,Port Scan,0.9987136,1423
+Brute Force,Brute Force,0.97711766,1424
+Benign,Port Scan,0.5002229,1425
+Benign,Benign,0.8590867,1426
+DDoS,DDoS,0.956161,1427
+DDoS,DDoS,0.99776495,1428
+Benign,Benign,0.99218243,1429
+Benign,Benign,0.99999976,1430
+DoS,DoS,0.9999777,1431
+Brute Force,Brute Force,0.9861433,1432
+Brute Force,Brute Force,0.9995353,1433
+Port Scan,Port Scan,0.998468,1434
+DDoS,DDoS,0.99964595,1435
+Benign,Benign,0.9991584,1436
+Benign,Benign,0.9999995,1437
+Botnet,Botnet,0.9970469,1438
+Botnet,Botnet,0.997147,1439
+Port Scan,Port Scan,0.9988317,1440
+DoS,DoS,0.9999578,1441
+Botnet,Botnet,0.9971505,1442
+Botnet,Botnet,0.98973185,1443
+DDoS,DDoS,0.9979285,1444
+Brute Force,Brute Force,0.9994344,1445
+DoS,DoS,0.9625155,1446
+Port Scan,Port Scan,0.99652016,1447
+Brute Force,Brute Force,0.9855092,1448
+Botnet,Botnet,0.99715,1449
+Brute Force,Brute Force,0.98743236,1450
+DoS,DoS,0.96661747,1451
+Benign,Benign,0.99903035,1452
+DDoS,DDoS,0.9838203,1453
+Benign,Benign,0.99999976,1454
+Benign,DoS,0.7174082,1455
+DDoS,DDoS,0.9996971,1456
+Brute Force,Brute Force,0.99954504,1457
+Benign,Benign,0.96100086,1458
+DDoS,DDoS,0.99745625,1459
+Benign,Benign,0.99988854,1460
+Botnet,Botnet,0.9893038,1461
+Brute Force,Brute Force,0.9995047,1462
+Port Scan,Port Scan,0.73798084,1463
+DoS,DoS,0.89779425,1464
+DoS,DoS,0.9999882,1465
+Brute Force,Brute Force,0.97494215,1466
+Benign,Benign,0.9774106,1467
+Brute Force,Brute Force,0.97202873,1468
+DoS,DoS,0.97759503,1469
+Brute Force,Brute Force,0.9995678,1470
+Botnet,Botnet,0.9942883,1471
+Brute Force,Brute Force,0.9994394,1472
+Benign,Benign,0.9999994,1473
+Benign,Benign,0.9999994,1474
+Botnet,Botnet,0.9971584,1475
+Botnet,Botnet,0.99470747,1476
+Port Scan,Port Scan,0.99733967,1477
+DoS,DoS,0.99993837,1478
+Brute Force,Brute Force,0.9877136,1479
+DoS,DoS,0.99999905,1480
+Benign,Benign,0.9999993,1481
+DDoS,DDoS,0.999456,1482
+DDoS,DDoS,0.99894994,1483
+DoS,DoS,0.9998448,1484
+Brute Force,Brute Force,0.9867247,1485
+Benign,Benign,0.87571985,1486
+Brute Force,Brute Force,0.9995747,1487
+DoS,DoS,0.9999999,1488
+DDoS,DDoS,0.9989471,1489
+Brute Force,Brute Force,0.9719169,1490
+DoS,DoS,0.9995932,1491
+Port Scan,Port Scan,0.9979722,1492
+Brute Force,Brute Force,0.9995413,1493
+DoS,DoS,0.9999993,1494
+Benign,Benign,0.9999995,1495
+Botnet,Botnet,0.9897251,1496
+Brute Force,Brute Force,0.98575586,1497
+Port Scan,Port Scan,0.9961565,1498
+Benign,Benign,0.99999964,1499
+Port Scan,Port Scan,0.9998852,1500
+Benign,Benign,0.99999917,1501
+DDoS,DDoS,0.99209106,1502
+Port Scan,Port Scan,0.9971439,1503
+Brute Force,Brute Force,0.9995128,1504
+Benign,Benign,0.99886465,1505
+DoS,DoS,0.96359056,1506
+Brute Force,Brute Force,0.9831064,1507
+Port Scan,Port Scan,0.99865377,1508
+Benign,Benign,0.9992551,1509
+DDoS,DDoS,0.9795449,1510
+DoS,DoS,0.9999999,1511
+Benign,Benign,0.99518543,1512
+DoS,DoS,0.9999776,1513
+DDoS,DDoS,0.999461,1514
+Benign,Benign,0.99999964,1515
+Benign,Benign,0.9943975,1516
+DDoS,DDoS,0.995083,1517
+Brute Force,Brute Force,0.9995365,1518
+Brute Force,Brute Force,0.99951863,1519
+Botnet,Botnet,0.99715024,1520
+Brute Force,Brute Force,0.9877437,1521
+Benign,Port Scan,0.37786853,1522
+Brute Force,Brute Force,0.97437084,1523
+Port Scan,Port Scan,0.88205194,1524
+DoS,DoS,0.9994493,1525
+DDoS,DDoS,0.99902046,1526
+Botnet,Botnet,0.99707675,1527
+Botnet,Botnet,0.9920878,1528
+Botnet,Botnet,0.99715024,1529
+DoS,DoS,0.99999964,1530
+DDoS,DDoS,0.99856144,1531
+DDoS,DDoS,0.9986726,1532
+Botnet,Botnet,0.97914755,1533
+Port Scan,Port Scan,0.99876595,1534
+Brute Force,Brute Force,0.98285735,1535
+DoS,DoS,0.99984515,1536
+DoS,DoS,0.9999994,1537
+Port Scan,Port Scan,0.99558675,1538
+Botnet,Botnet,0.9916266,1539
+Benign,Benign,0.9999993,1540
+DDoS,DDoS,0.9716341,1541
+Brute Force,Brute Force,0.9915665,1542
+Botnet,Botnet,0.99407506,1543
+Botnet,Botnet,0.993345,1544
+Benign,Benign,0.99999964,1545
+Botnet,Botnet,0.9971506,1546
+DDoS,DDoS,0.9990343,1547
+DoS,DoS,0.99910045,1548
+Port Scan,Port Scan,0.98050594,1549
+DoS,DoS,0.9999994,1550
+Port Scan,Port Scan,0.9996061,1551
+DDoS,DDoS,0.9997458,1552
+Benign,Benign,0.99999964,1553
+Benign,Benign,0.99999964,1554
+DoS,DoS,0.9995733,1555
+Benign,Benign,0.9999993,1556
+Brute Force,Brute Force,0.9995035,1557
+Botnet,Botnet,0.9946591,1558
+Benign,Benign,0.9953761,1559
+Port Scan,Port Scan,0.9991309,1560
+Port Scan,Port Scan,0.99902034,1561
+DoS,DoS,0.99999976,1562
+Benign,Benign,1.0,1563
+Benign,Benign,0.9664817,1564
+Botnet,Botnet,0.71778494,1565
+DoS,DoS,0.9795083,1566
+DoS,DoS,0.9999945,1567
+DDoS,DDoS,0.99959856,1568
+Brute Force,Brute Force,0.9994797,1569
+Brute Force,Brute Force,0.9722891,1570
+Port Scan,Port Scan,0.9985715,1571
+Benign,Benign,0.9866866,1572
+Brute Force,Brute Force,0.99950516,1573
+Port Scan,Port Scan,0.99960345,1574
+DDoS,DDoS,0.98914796,1575
+Port Scan,Port Scan,0.99579155,1576
+Brute Force,Brute Force,0.99944323,1577
+DoS,DoS,0.99999976,1578
+Port Scan,Port Scan,0.99875987,1579
+DDoS,DDoS,0.9913146,1580
+Benign,Benign,0.9999994,1581
+Brute Force,Brute Force,0.98464787,1582
+Brute Force,Brute Force,0.9732978,1583
+Port Scan,Port Scan,0.77912337,1584
+Port Scan,Port Scan,0.99960345,1585
+Port Scan,Port Scan,0.9996377,1586
+DDoS,DDoS,0.9933036,1587
+Botnet,Botnet,0.997062,1588
+Port Scan,Port Scan,0.9972728,1589
+DDoS,DDoS,0.999017,1590
+Brute Force,Brute Force,0.99949217,1591
+DoS,DoS,0.99998844,1592
+Benign,Benign,0.9955605,1593
+Botnet,Botnet,0.99709773,1594
+DDoS,DDoS,0.9989033,1595
+DoS,DoS,0.9999995,1596
+Brute Force,Brute Force,0.9874834,1597
+Port Scan,Port Scan,0.99675995,1598
+Port Scan,Port Scan,0.998005,1599
+Botnet,Botnet,0.9971349,1600
+Benign,Benign,0.99999785,1601
+DDoS,DDoS,0.9928913,1602
+DoS,DoS,0.99996114,1603
+DoS,DoS,0.99992716,1604
+Botnet,Botnet,0.99706167,1605
+Brute Force,Brute Force,0.9878414,1606
+Benign,Benign,0.9990644,1607
+DoS,DoS,0.99927396,1608
+DoS,DoS,0.9999634,1609
+Benign,Benign,0.8460025,1610
+Benign,Benign,0.9992085,1611
+Brute Force,Brute Force,0.9864991,1612
+Brute Force,Brute Force,0.97239155,1613
+Benign,Benign,0.99285203,1614
+DDoS,DDoS,0.99973255,1615
+DDoS,DDoS,0.9990392,1616
+Brute Force,Brute Force,0.97478026,1617
+Benign,Benign,0.9999993,1618
+Benign,Benign,0.913568,1619
+DoS,DoS,0.9999999,1620
+Benign,Benign,0.9999995,1621
+Benign,Benign,0.72063804,1622
+Benign,Benign,0.99999964,1623
+Benign,Benign,0.9042017,1624
+Benign,Benign,0.9940568,1625
+DDoS,DDoS,0.9845819,1626
+Port Scan,Port Scan,0.9917578,1627
+Benign,Benign,0.99999917,1628
+DDoS,DDoS,0.9989716,1629
+DoS,DoS,0.61995035,1630
+Benign,Benign,0.991763,1631
+DDoS,DDoS,0.9977442,1632
+Port Scan,Port Scan,0.9981762,1633
+Benign,Benign,0.99848866,1634
+Benign,Benign,0.9999993,1635
+DDoS,DDoS,0.9994604,1636
+Botnet,Botnet,0.9940754,1637
+Botnet,Botnet,0.99715155,1638
+DDoS,DDoS,0.9989274,1639
+Botnet,Botnet,0.99093646,1640
+Benign,Benign,0.9999994,1641
+Port Scan,Port Scan,0.99822634,1642
+Port Scan,Port Scan,0.99877626,1643
+Brute Force,Brute Force,0.999554,1644
+Botnet,Botnet,0.9918194,1645
+DoS,DoS,0.96846855,1646
+DDoS,DDoS,0.99961436,1647
+Benign,Benign,0.97693926,1648
+Port Scan,Port Scan,0.99920386,1649
+Brute Force,Brute Force,0.99946076,1650
+Brute Force,Brute Force,0.9878842,1651
+Port Scan,Port Scan,0.99871063,1652
+DDoS,DDoS,0.9996008,1653
+Benign,Benign,0.99999976,1654
+DoS,DoS,0.99853826,1655
+DDoS,DDoS,0.9991947,1656
+Benign,Port Scan,0.73367697,1657
+Benign,Benign,0.9999987,1658
+DoS,DoS,0.9999858,1659
+Port Scan,Port Scan,0.9990024,1660
+DDoS,DDoS,0.99941516,1661
+Botnet,Botnet,0.9969849,1662
+Port Scan,Port Scan,0.9988242,1663
+DDoS,DDoS,0.99808204,1664
+Brute Force,Brute Force,0.9995351,1665
+Brute Force,Brute Force,0.97445506,1666
+DoS,DoS,0.9998994,1667
+Brute Force,Brute Force,0.99955505,1668
+Botnet,Botnet,0.99715036,1669
+Benign,Benign,0.9999993,1670
+Brute Force,Brute Force,0.9846907,1671
+DoS,DoS,0.9999999,1672
+Brute Force,Brute Force,0.9994492,1673
+Benign,Benign,0.9999993,1674
+Botnet,Botnet,0.9971353,1675
+Benign,Benign,0.9948402,1676
+DDoS,DDoS,0.99944025,1677
+DDoS,DDoS,0.99939346,1678
+DDoS,DDoS,0.9868672,1679
+DDoS,DDoS,0.85741454,1680
+Port Scan,Port Scan,0.9962618,1681
+Benign,Benign,0.99404293,1682
+Brute Force,Brute Force,0.9869784,1683
+DDoS,DDoS,0.99956864,1684
+Brute Force,Brute Force,0.9996394,1685
+Brute Force,Brute Force,0.9995702,1686
+Port Scan,Port Scan,0.9981091,1687
+Port Scan,Port Scan,0.9974152,1688
+Benign,Benign,0.9959319,1689
+DDoS,DDoS,0.98423356,1690
+DoS,DoS,0.9999726,1691
+Benign,Benign,0.9980958,1692
+Benign,Benign,0.99999917,1693
+Benign,Benign,0.9947513,1694
+DDoS,DDoS,0.9997725,1695
+Botnet,Botnet,0.9917223,1696
+Botnet,Botnet,0.99704665,1697
+DoS,DoS,0.92821574,1698
+DoS,DoS,0.99993694,1699
+Benign,Benign,0.9970071,1700
+Benign,Benign,0.9999995,1701
+Brute Force,Brute Force,0.9731199,1702
+DoS,DoS,0.9873998,1703
+DoS,DoS,0.9999162,1704
+DDoS,DDoS,0.9088756,1705
+DDoS,DDoS,0.9993869,1706
+DDoS,DDoS,0.9990227,1707
+DDoS,DDoS,0.9938684,1708
+Benign,Benign,0.9969024,1709
+Port Scan,Port Scan,0.9991309,1710
+Brute Force,Brute Force,0.9839361,1711
+Port Scan,Port Scan,0.99909294,1712
+Port Scan,Port Scan,0.99681705,1713
+Port Scan,Port Scan,0.99862266,1714
+Botnet,Botnet,0.99713314,1715
+Brute Force,Brute Force,0.98677737,1716
+Brute Force,Brute Force,0.9995358,1717
+Brute Force,Brute Force,0.9995004,1718
+Benign,Benign,0.9999993,1719
+Botnet,Botnet,0.9931625,1720
+DDoS,DDoS,0.9993623,1721
+Benign,Benign,0.99999964,1722
+Botnet,Botnet,0.99308985,1723
+Benign,Benign,0.9999994,1724
+DDoS,DDoS,0.99948066,1725
+Benign,Benign,0.9983303,1726
+Port Scan,Port Scan,0.9986518,1727
+Benign,Benign,0.99999857,1728
+Benign,Benign,0.9794083,1729
+Brute Force,Brute Force,0.97706634,1730
+DDoS,DDoS,0.9990946,1731
+Botnet,Botnet,0.99715173,1732
+Brute Force,Brute Force,0.9995478,1733
+DoS,DoS,0.9999994,1734
+Benign,Benign,0.99999964,1735
+Botnet,Botnet,0.99713993,1736
+Benign,Benign,0.99412656,1737
+Brute Force,Brute Force,0.999605,1738
+DoS,DoS,0.99937564,1739
+Brute Force,Brute Force,0.9875307,1740
+DDoS,DDoS,0.9990206,1741
+DoS,DoS,0.9999405,1742
+Port Scan,Port Scan,0.9973712,1743
+Benign,Benign,0.9855304,1744
+Benign,Benign,0.9986082,1745
+Benign,Benign,0.99999976,1746
+Benign,Benign,0.99999917,1747
+Benign,Benign,0.8702538,1748
+Botnet,Botnet,0.98967594,1749
+DoS,DoS,0.99999964,1750
+DDoS,DDoS,0.9997265,1751
+Benign,Benign,0.8750193,1752
+Brute Force,Brute Force,0.9995983,1753
+Benign,Benign,0.99999917,1754
+DDoS,DDoS,0.99726284,1755
+Botnet,Botnet,0.9924924,1756
+Port Scan,Port Scan,0.97686225,1757
+Benign,Benign,0.9970667,1758
+Brute Force,Brute Force,0.99951375,1759
+DoS,DoS,0.9596365,1760
+DDoS,DDoS,0.98933184,1761
+Benign,Benign,0.99999917,1762
+DDoS,DDoS,0.9992493,1763
+Brute Force,Brute Force,0.9995351,1764
+Benign,Benign,0.9970823,1765
+Brute Force,Brute Force,0.98413336,1766
+Benign,Benign,0.9999994,1767
+Port Scan,Port Scan,0.99987733,1768
+Brute Force,Brute Force,0.9994265,1769
+DoS,DoS,0.9999987,1770
+Port Scan,Port Scan,0.9764099,1771
+Botnet,Botnet,0.98868436,1772
+Brute Force,Brute Force,0.97470915,1773
+Brute Force,Brute Force,0.9994611,1774
+DoS,DoS,0.9999467,1775
+Benign,Benign,0.9905496,1776
+Port Scan,Port Scan,0.9967218,1777
+Port Scan,Port Scan,0.99879056,1778
+DoS,DoS,0.9971328,1779
+Benign,Benign,0.99999976,1780
+Port Scan,Port Scan,0.9986675,1781
+Benign,Benign,0.99999905,1782
+Benign,Benign,0.9316626,1783
+DoS,DoS,0.9999652,1784
+DoS,DoS,0.9999777,1785
+Port Scan,Port Scan,0.9971649,1786
+Brute Force,Brute Force,0.9994981,1787
+Benign,Benign,0.9999994,1788
+Botnet,Botnet,0.9951997,1789
+DoS,DoS,0.97479624,1790
+DoS,DoS,0.9999987,1791
+DDoS,DDoS,0.99965954,1792
+DoS,DoS,0.98693347,1793
+Brute Force,Brute Force,0.999423,1794
+Port Scan,Port Scan,0.9979095,1795
+DDoS,DDoS,0.99926347,1796
+Botnet,Botnet,0.9901148,1797
+Benign,Benign,0.99690515,1798
+DoS,DoS,0.9994955,1799
+DoS,DoS,0.9994728,1800
+Brute Force,Brute Force,0.97097224,1801
+Benign,Benign,0.8710297,1802
+Benign,Benign,0.9999976,1803
+Port Scan,Port Scan,0.9987178,1804
+DoS,DoS,0.67926717,1805
+Brute Force,Brute Force,0.99956423,1806
+DDoS,DDoS,0.99606115,1807
+DDoS,DDoS,0.9990276,1808
+DDoS,DDoS,0.99829143,1809
+Benign,Benign,0.86883736,1810

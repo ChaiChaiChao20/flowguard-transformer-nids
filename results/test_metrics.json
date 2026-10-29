@@ -1,0 +1,660 @@
+{
+  "LogisticRegression": {
+    "accuracy": 0.9480633802816901,
+    "macro_f1": 0.9410129039809607,
+    "weighted_f1": 0.948002569098103,
+    "benign_false_positive_rate": 0.08533333333333333,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9842180774748924,
+        "recall": 0.9146666666666666,
+        "f1-score": 0.9481686247408431,
+        "support": 750.0
+      },
+      "DoS": {
+        "precision": 0.935064935064935,
+        "recall": 0.96,
+        "f1-score": 0.9473684210526315,
+        "support": 525.0
+      },
+      "DDoS": {
+        "precision": 0.9632352941176471,
+        "recall": 0.9980952380952381,
+        "f1-score": 0.980355472404116,
+        "support": 525.0
+      },
+      "Botnet": {
+        "precision": 0.8632075471698113,
+        "recall": 0.9945652173913043,
+        "f1-score": 0.9242424242424242,
+        "support": 184.0
+      },
+      "Port Scan": {
+        "precision": 0.9178571428571428,
+        "recall": 0.8923611111111112,
+        "f1-score": 0.9049295774647887,
+        "support": 288.0
+      },
+      "accuracy": 0.9480633802816901,
+      "macro avg": {
+        "precision": 0.9327165993368858,
+        "recall": 0.9519376466528641,
+        "f1-score": 0.9410129039809607,
+        "support": 2272.0
+      },
+      "weighted avg": {
+        "precision": 0.9497993944758483,
+        "recall": 0.9480633802816901,
+        "f1-score": 0.948002569098103,
+        "support": 2272.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        686,
+        29,
+        7,
+        16,
+        12
+      ],
+      [
+        8,
+        504,
+        2,
+        0,
+        11
+      ],
+      [
+        1,
+        0,
+        524,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        183,
+        0
+      ],
+      [
+        1,
+        6,
+        11,
+        13,
+        257
+      ]
+    ],
+    "training_seconds": 2.3170753000304103,
+    "best_epoch": null,
+    "trainable_parameters": null,
+    "model_bytes": 1387,
+    "inference_ms_per_flow": 0.0005227113023734796,
+    "timing_scope": "CPU model prediction only; batches up to 256 for neural models, excludes preprocessing/capture"
+  },
+  "RandomForest": {
+    "accuracy": 0.9925176056338029,
+    "macro_f1": 0.9925393134454021,
+    "weighted_f1": 0.9925177922903352,
+    "benign_false_positive_rate": 0.009333333333333334,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9893475366178429,
+        "recall": 0.9906666666666667,
+        "f1-score": 0.9900066622251832,
+        "support": 750.0
+      },
+      "DoS": {
+        "precision": 0.9923664122137404,
+        "recall": 0.9904761904761905,
+        "f1-score": 0.9914204003813155,
+        "support": 525.0
+      },
+      "DDoS": {
+        "precision": 0.9980952380952381,
+        "recall": 0.9980952380952381,
+        "f1-score": 0.9980952380952381,
+        "support": 525.0
+      },
+      "Botnet": {
+        "precision": 0.9891891891891892,
+        "recall": 0.9945652173913043,
+        "f1-score": 0.991869918699187,
+        "support": 184.0
+      },
+      "Port Scan": {
+        "precision": 0.9930313588850174,
+        "recall": 0.9895833333333334,
+        "f1-score": 0.991304347826087,
+        "support": 288.0
+      },
+      "accuracy": 0.9925176056338029,
+      "macro avg": {
+        "precision": 0.9924059470002057,
+        "recall": 0.9926773291925466,
+        "f1-score": 0.9925393134454021,
+        "support": 2272.0
+      },
+      "weighted avg": {
+        "precision": 0.9925206254600756,
+        "recall": 0.9925176056338029,
+        "f1-score": 0.9925177922903352,
+        "support": 2272.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        743,
+        3,
+        1,
+        2,
+        1
+      ],
+      [
+        4,
+        520,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        524,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        183,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        0,
+        285
+      ]
+    ],
+    "training_seconds": 1.39884689997416,
+    "best_epoch": null,
+    "trainable_parameters": null,
+    "model_bytes": 2942913,
+    "inference_ms_per_flow": 0.03292257925224963,
+    "timing_scope": "CPU model prediction only; batches up to 256 for neural models, excludes preprocessing/capture"
+  },
+  "MLP": {
+    "accuracy": 0.9867957746478874,
+    "macro_f1": 0.9863655390884645,
+    "weighted_f1": 0.9867789238345754,
+    "benign_false_positive_rate": 0.02266666666666667,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9878706199460916,
+        "recall": 0.9773333333333334,
+        "f1-score": 0.982573726541555,
+        "support": 750.0
+      },
+      "DoS": {
+        "precision": 0.981203007518797,
+        "recall": 0.9942857142857143,
+        "f1-score": 0.9877010406811731,
+        "support": 525.0
+      },
+      "DDoS": {
+        "precision": 0.9924242424242424,
+        "recall": 0.9980952380952381,
+        "f1-score": 0.9952516619183286,
+        "support": 525.0
+      },
+      "Botnet": {
+        "precision": 0.978494623655914,
+        "recall": 0.9891304347826086,
+        "f1-score": 0.9837837837837838,
+        "support": 184.0
+      },
+      "Port Scan": {
+        "precision": 0.9894366197183099,
+        "recall": 0.9756944444444444,
+        "f1-score": 0.9825174825174825,
+        "support": 288.0
+      },
+      "accuracy": 0.9867957746478874,
+      "macro avg": {
+        "precision": 0.985885822652671,
+        "recall": 0.9869078329882678,
+        "f1-score": 0.9863655390884645,
+        "support": 2272.0
+      },
+      "weighted avg": {
+        "precision": 0.9868213153218423,
+        "recall": 0.9867957746478874,
+        "f1-score": 0.9867789238345754,
+        "support": 2272.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        733,
+        9,
+        2,
+        4,
+        2
+      ],
+      [
+        2,
+        522,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        524,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        182,
+        0
+      ],
+      [
+        4,
+        1,
+        2,
+        0,
+        281
+      ]
+    ],
+    "training_seconds": 28.811382499989122,
+    "best_epoch": 18,
+    "trainable_parameters": 20357,
+    "model_bytes": 83744,
+    "inference_ms_per_flow": 0.008684991179263666,
+    "timing_scope": "CPU model prediction only; batches up to 256 for neural models, excludes preprocessing/capture"
+  },
+  "CNN": {
+    "accuracy": 0.9859154929577465,
+    "macro_f1": 0.9855879141637962,
+    "weighted_f1": 0.9859151812857512,
+    "benign_false_positive_rate": 0.009333333333333334,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9776315789473684,
+        "recall": 0.9906666666666667,
+        "f1-score": 0.9841059602649007,
+        "support": 750.0
+      },
+      "DoS": {
+        "precision": 0.9980353634577603,
+        "recall": 0.9676190476190476,
+        "f1-score": 0.9825918762088974,
+        "support": 525.0
+      },
+      "DDoS": {
+        "precision": 0.9961904761904762,
+        "recall": 0.9961904761904762,
+        "f1-score": 0.9961904761904762,
+        "support": 525.0
+      },
+      "Botnet": {
+        "precision": 0.9838709677419355,
+        "recall": 0.9945652173913043,
+        "f1-score": 0.9891891891891892,
+        "support": 184.0
+      },
+      "Port Scan": {
+        "precision": 0.9691780821917808,
+        "recall": 0.9826388888888888,
+        "f1-score": 0.9758620689655172,
+        "support": 288.0
+      },
+      "accuracy": 0.9859154929577465,
+      "macro avg": {
+        "precision": 0.9849812937058642,
+        "recall": 0.9863360593512767,
+        "f1-score": 0.9855879141637962,
+        "support": 2272.0
+      },
+      "weighted avg": {
+        "precision": 0.9860685720781689,
+        "recall": 0.9859154929577465,
+        "f1-score": 0.9859151812857512,
+        "support": 2272.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        743,
+        1,
+        1,
+        3,
+        2
+      ],
+      [
+        11,
+        508,
+        0,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        523,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        183,
+        0
+      ],
+      [
+        4,
+        0,
+        1,
+        0,
+        283
+      ]
+    ],
+    "training_seconds": 30.038257600041106,
+    "best_epoch": 15,
+    "trainable_parameters": 52773,
+    "model_bytes": 213904,
+    "inference_ms_per_flow": 0.026571038714036162,
+    "timing_scope": "CPU model prediction only; batches up to 256 for neural models, excludes preprocessing/capture"
+  },
+  "LSTM": {
+    "accuracy": 0.9784330985915493,
+    "macro_f1": 0.9792528860098983,
+    "weighted_f1": 0.9784076854735313,
+    "benign_false_positive_rate": 0.03333333333333333,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9810554803788903,
+        "recall": 0.9666666666666667,
+        "f1-score": 0.9738079247817327,
+        "support": 750.0
+      },
+      "DoS": {
+        "precision": 0.9608938547486033,
+        "recall": 0.9828571428571429,
+        "f1-score": 0.9717514124293786,
+        "support": 525.0
+      },
+      "DDoS": {
+        "precision": 0.9868173258003766,
+        "recall": 0.9980952380952381,
+        "f1-score": 0.9924242424242424,
+        "support": 525.0
+      },
+      "Botnet": {
+        "precision": 0.9837837837837838,
+        "recall": 0.9891304347826086,
+        "f1-score": 0.986449864498645,
+        "support": 184.0
+      },
+      "Port Scan": {
+        "precision": 0.9857142857142858,
+        "recall": 0.9583333333333334,
+        "f1-score": 0.971830985915493,
+        "support": 288.0
+      },
+      "accuracy": 0.9784330985915493,
+      "macro avg": {
+        "precision": 0.9796529460851879,
+        "recall": 0.9790165631469978,
+        "f1-score": 0.9792528860098983,
+        "support": 2272.0
+      },
+      "weighted avg": {
+        "precision": 0.9785395733161588,
+        "recall": 0.9784330985915493,
+        "f1-score": 0.9784076854735313,
+        "support": 2272.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        725,
+        15,
+        3,
+        3,
+        4
+      ],
+      [
+        8,
+        516,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        524,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        182,
+        0
+      ],
+      [
+        3,
+        6,
+        3,
+        0,
+        276
+      ]
+    ],
+    "training_seconds": 56.78099140000995,
+    "best_epoch": 18,
+    "trainable_parameters": 15557,
+    "model_bytes": 64426,
+    "inference_ms_per_flow": 0.045371170798857684,
+    "timing_scope": "CPU model prediction only; batches up to 256 for neural models, excludes preprocessing/capture"
+  },
+  "GRU": {
+    "accuracy": 0.980193661971831,
+    "macro_f1": 0.980837938105959,
+    "weighted_f1": 0.9801636671963659,
+    "benign_false_positive_rate": 0.018666666666666668,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9722589167767504,
+        "recall": 0.9813333333333333,
+        "f1-score": 0.9767750497677505,
+        "support": 750.0
+      },
+      "DoS": {
+        "precision": 0.9750479846449136,
+        "recall": 0.9676190476190476,
+        "f1-score": 0.97131931166348,
+        "support": 525.0
+      },
+      "DDoS": {
+        "precision": 0.9905482041587902,
+        "recall": 0.9980952380952381,
+        "f1-score": 0.9943074003795066,
+        "support": 525.0
+      },
+      "Botnet": {
+        "precision": 0.9786096256684492,
+        "recall": 0.9945652173913043,
+        "f1-score": 0.9865229110512129,
+        "support": 184.0
+      },
+      "Port Scan": {
+        "precision": 0.9928057553956835,
+        "recall": 0.9583333333333334,
+        "f1-score": 0.9752650176678446,
+        "support": 288.0
+      },
+      "accuracy": 0.980193661971831,
+      "macro avg": {
+        "precision": 0.9818540973289174,
+        "recall": 0.9799892339544514,
+        "f1-score": 0.980837938105959,
+        "support": 2272.0
+      },
+      "weighted avg": {
+        "precision": 0.9802484222629659,
+        "recall": 0.980193661971831,
+        "f1-score": 0.9801636671963659,
+        "support": 2272.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        736,
+        6,
+        2,
+        4,
+        2
+      ],
+      [
+        16,
+        508,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        524,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        183,
+        0
+      ],
+      [
+        3,
+        7,
+        2,
+        0,
+        276
+      ]
+    ],
+    "training_seconds": 68.0073600000469,
+    "best_epoch": 16,
+    "trainable_parameters": 13109,
+    "model_bytes": 54624,
+    "inference_ms_per_flow": 0.09651505280717303,
+    "timing_scope": "CPU model prediction only; batches up to 256 for neural models, excludes preprocessing/capture"
+  },
+  "Transformer": {
+    "accuracy": 0.9867957746478874,
+    "macro_f1": 0.987764411308887,
+    "weighted_f1": 0.9867923264562034,
+    "benign_false_positive_rate": 0.028,
+    "classification_report": {
+      "Benign": {
+        "precision": 0.9931880108991825,
+        "recall": 0.972,
+        "f1-score": 0.9824797843665768,
+        "support": 750.0
+      },
+      "DoS": {
+        "precision": 0.9702048417132216,
+        "recall": 0.9923809523809524,
+        "f1-score": 0.9811676082862524,
+        "support": 525.0
+      },
+      "DDoS": {
+        "precision": 0.9961977186311787,
+        "recall": 0.9980952380952381,
+        "f1-score": 0.9971455756422455,
+        "support": 525.0
+      },
+      "Botnet": {
+        "precision": 0.9891891891891892,
+        "recall": 0.9945652173913043,
+        "f1-score": 0.991869918699187,
+        "support": 184.0
+      },
+      "Port Scan": {
+        "precision": 0.9827586206896551,
+        "recall": 0.9895833333333334,
+        "f1-score": 0.986159169550173,
+        "support": 288.0
+      },
+      "accuracy": 0.9867957746478874,
+      "macro avg": {
+        "precision": 0.9863076762244853,
+        "recall": 0.9893249482401656,
+        "f1-score": 0.987764411308887,
+        "support": 2272.0
+      },
+      "weighted avg": {
+        "precision": 0.9869267807766852,
+        "recall": 0.9867957746478874,
+        "f1-score": 0.9867923264562034,
+        "support": 2272.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        729,
+        16,
+        2,
+        2,
+        1
+      ],
+      [
+        0,
+        521,
+        0,
+        0,
+        4
+      ],
+      [
+        1,
+        0,
+        524,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        183,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        285
+      ]
+    ],
+    "training_seconds": 166.48979909997433,
+    "best_epoch": 18,
+    "trainable_parameters": 27205,
+    "model_bytes": 119621,
+    "inference_ms_per_flow": 0.1991503081049993,
+    "timing_scope": "CPU model prediction only; batches up to 256 for neural models, excludes preprocessing/capture"
+  }
+}

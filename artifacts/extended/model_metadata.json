@@ -1,0 +1,82 @@
+{
+  "project": "Transformer-Based Network Intrusion Detection System for Intelligent Multi-Class Cyber Attack Classification",
+  "representation": "24 numeric feature tokens plus CLS token; attention within individual flows",
+  "features": [
+    "Flow Duration",
+    "Total Fwd Packets",
+    "Total Backward Packets",
+    "Total Length of Fwd Packets",
+    "Total Length of Bwd Packets",
+    "Fwd Packet Length Max",
+    "Fwd Packet Length Mean",
+    "Fwd Packet Length Std",
+    "Bwd Packet Length Max",
+    "Bwd Packet Length Mean",
+    "Bwd Packet Length Std",
+    "Flow Bytes/s",
+    "Flow Packets/s",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Flow IAT Max",
+    "Fwd IAT Mean",
+    "Bwd IAT Mean",
+    "FIN Flag Count",
+    "SYN Flag Count",
+    "RST Flag Count",
+    "PSH Flag Count",
+    "ACK Flag Count",
+    "Average Packet Size"
+  ],
+  "classes": [
+    "Benign",
+    "DoS",
+    "DDoS",
+    "Botnet",
+    "Port Scan",
+    "Brute Force",
+    "Infiltration"
+  ],
+  "transformer_config": {
+    "dim": 32,
+    "heads": 4,
+    "layers": 2,
+    "dropout": 0.1
+  },
+  "training_config": {
+    "epochs_max": 18,
+    "early_stopping_patience": 5,
+    "optimizer": "AdamW",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 256,
+    "loss": "CrossEntropyLoss with sqrt inverse training frequency weights",
+    "selection_metric": "validation macro-F1",
+    "tuning": "One predeclared configuration per model; no test-driven tuning"
+  },
+  "seed": 42,
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+    "logical_cpus": 12,
+    "torch_threads": 4,
+    "device": "CPU"
+  },
+  "versions": {
+    "python": "3.12.10",
+    "torch": "2.6.0+cpu",
+    "sklearn": "1.9.1",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6"
+  },
+  "training_rows": 8449,
+  "validation_rows": 1811,
+  "test_rows": 1811,
+  "limitations": [
+    "Feature encoder; chronological modeling is provided by the separate TemporalTransformer",
+    "Random split can retain correlated sessions",
+    "Anomaly flags do not establish zero-day detection",
+    "Live extraction/target-network reliability needs separate validation",
+    "Probabilities are uncalibrated",
+    "One configuration/seed"
+  ]
+}

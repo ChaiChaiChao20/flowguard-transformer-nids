@@ -1,0 +1,9 @@
+{
+  "predicted_class": "DDoS",
+  "expected_probability": 0.1998051252925507,
+  "predicted_probability": 0.9991889595985413,
+  "attribution_sum": 0.7993838343059906,
+  "method": "SHAP KernelExplainer",
+  "background_rows": 20,
+  "samples": 128
+}

@@ -1,0 +1,124 @@
+{
+  "source_rows": 2827677,
+  "unsupported_rows": 2191,
+  "invalid_timestamps": 0,
+  "source_repository": "rdpahalavan/CIC-IDS2017",
+  "revision": "eee96b6abc2c4bb621fd67679a4aa24bddc4be6a",
+  "sha256": "e64f6adfbcb7f96b018cf36c731be64ef4de3353ccd7340b190590734a0dda35",
+  "sample_rows": 15574,
+  "conflicting_hashes_removed": 1275,
+  "classes": [
+    "Benign",
+    "DoS",
+    "DDoS",
+    "Botnet",
+    "Port Scan",
+    "Brute Force",
+    "Infiltration"
+  ],
+  "features": [
+    "Flow Duration",
+    "Total Fwd Packets",
+    "Total Backward Packets",
+    "Total Length of Fwd Packets",
+    "Total Length of Bwd Packets",
+    "Fwd Packet Length Max",
+    "Fwd Packet Length Mean",
+    "Fwd Packet Length Std",
+    "Bwd Packet Length Max",
+    "Bwd Packet Length Mean",
+    "Bwd Packet Length Std",
+    "Flow Bytes/s",
+    "Flow Packets/s",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Flow IAT Max",
+    "Fwd IAT Mean",
+    "Bwd IAT Mean",
+    "FIN Flag Count",
+    "SYN Flag Count",
+    "RST Flag Count",
+    "PSH Flag Count",
+    "ACK Flag Count",
+    "Average Packet Size",
+    "Source Port",
+    "Destination Port",
+    "Protocol Code",
+    "Source Private",
+    "Destination Private",
+    "Source IP Bucket",
+    "Destination IP Bucket",
+    "State Code"
+  ],
+  "timestamp_correction": "Working-day heuristic: hours 01..07 shifted +12h for missing AM/PM",
+  "timestamp_rows_corrected": 1470484,
+  "flow_counts": {
+    "train": {
+      "Benign": 2568,
+      "DDoS": 1750,
+      "Brute Force": 1749,
+      "DoS": 1749,
+      "Port Scan": 1265,
+      "Botnet": 862,
+      "Infiltration": 22
+    },
+    "validation": {
+      "Benign": 506,
+      "Brute Force": 375,
+      "DoS": 375,
+      "DDoS": 375,
+      "Port Scan": 271,
+      "Botnet": 176,
+      "Infiltration": 5
+    },
+    "test": {
+      "Benign": 1926,
+      "Brute Force": 376,
+      "DoS": 376,
+      "DDoS": 375,
+      "Port Scan": 275,
+      "Botnet": 191,
+      "Infiltration": 7
+    }
+  },
+  "sequence_endpoint_counts": {
+    "train": {
+      "Brute Force": 218,
+      "DDoS": 218,
+      "DoS": 217,
+      "Port Scan": 156,
+      "Botnet": 108,
+      "Benign": 93,
+      "Infiltration": 2
+    },
+    "validation": {
+      "Brute Force": 46,
+      "DoS": 46,
+      "DDoS": 46,
+      "Port Scan": 32,
+      "Botnet": 20,
+      "Benign": 5,
+      "Infiltration": 1
+    },
+    "test": {
+      "Brute Force": 46,
+      "DoS": 46,
+      "DDoS": 46,
+      "Port Scan": 32,
+      "Botnet": 20,
+      "Benign": 6
+    }
+  },
+  "window": 8,
+  "max_gap_seconds": 300,
+  "split": "chronological 70/15/15 within each source/day activity episode (300s idle gap); nonoverlapping 8-flow windows within split",
+  "limitations": [
+    "Sampled timestamps preserve chronology but omit intervening flows",
+    "AM/PM correction assumes daytime capture; original PCAP timing not independently verified",
+    "Hosts and campaigns can appear in several splits; no host-disjoint claim",
+    "Mirror not independently verified against original UNB PCAPs",
+    "Some classes may have no complete held-out windows; report support explicitly",
+    "IP buckets collide and may reflect dataset topology; assess domain shift",
+    "Connection state is inferred from FIN/RST counts, not reconstructed TCP state"
+  ]
+}

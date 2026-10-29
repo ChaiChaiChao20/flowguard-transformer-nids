@@ -1,0 +1,18 @@
+{
+  "data": "data\\extended\\processed",
+  "artifacts": "artifacts\\extended",
+  "results": "results\\extended",
+  "epochs": 18,
+  "patience": 5,
+  "seed": 42,
+  "threads": 4,
+  "models": [
+    "LogisticRegression",
+    "RandomForest",
+    "MLP",
+    "CNN",
+    "LSTM",
+    "GRU",
+    "Transformer"
+  ]
+}

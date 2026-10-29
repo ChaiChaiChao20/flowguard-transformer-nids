@@ -1,0 +1,46 @@
+{
+  "dataset": "CIC-IDS2017 public mirror (not independently verified against original)",
+  "official_source": "https://www.unb.ca/cic/datasets/ids-2017.html",
+  "mirror_repository": "c01dsnap/CIC-IDS2017",
+  "mirror_revision": "4e9edfa727f800b6f595bc2ee7420527156562b2",
+  "downloaded_at_utc": "2026-10-05T16:08:09.654563+00:00",
+  "files": [
+    {
+      "file": "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv",
+      "url": "https://huggingface.co/datasets/c01dsnap/CIC-IDS2017/resolve/4e9edfa727f800b6f595bc2ee7420527156562b2/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv?download=true",
+      "bytes": 77123859,
+      "sha256": "6ff1580f5f81c0ae28a26f7631721018577f5f7c5e0feac28b795fcfe7b411ee"
+    },
+    {
+      "file": "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv",
+      "url": "https://huggingface.co/datasets/c01dsnap/CIC-IDS2017/resolve/4e9edfa727f800b6f595bc2ee7420527156562b2/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv?download=true",
+      "bytes": 76906168,
+      "sha256": "ca1824c51bfbb7b3c72290a11be04366ba8815878c6a1cc5c44cb1cee269e99b"
+    },
+    {
+      "file": "Friday-WorkingHours-Morning.pcap_ISCX.csv",
+      "url": "https://huggingface.co/datasets/c01dsnap/CIC-IDS2017/resolve/4e9edfa727f800b6f595bc2ee7420527156562b2/Friday-WorkingHours-Morning.pcap_ISCX.csv?download=true",
+      "bytes": 58316725,
+      "sha256": "53a41c24d570ea83b7ac55b2e94df94e7a8216aeb80a2af0246b6bc8bb543000"
+    },
+    {
+      "file": "Wednesday-workingHours.pcap_ISCX.csv",
+      "url": "https://huggingface.co/datasets/c01dsnap/CIC-IDS2017/resolve/4e9edfa727f800b6f595bc2ee7420527156562b2/Wednesday-workingHours.pcap_ISCX.csv?download=true",
+      "bytes": 225166395,
+      "sha256": "893c27dc968bf7a8adef1689f90be55ca4a4dc3088fb63d6ff247ac56856df2a"
+    },
+    {
+      "file": "Tuesday-WorkingHours.pcap_ISCX.csv",
+      "url": "https://huggingface.co/datasets/c01dsnap/CIC-IDS2017/resolve/4e9edfa727f800b6f595bc2ee7420527156562b2/Tuesday-WorkingHours.pcap_ISCX.csv?download=true",
+      "bytes": 135078995,
+      "sha256": "52b8692ae8c7d2ed04671fe2b98335693c0a92c7ab157d8c8b534d6523080851"
+    },
+    {
+      "file": "Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv",
+      "url": "https://huggingface.co/datasets/c01dsnap/CIC-IDS2017/resolve/4e9edfa727f800b6f595bc2ee7420527156562b2/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv?download=true",
+      "bytes": 83102436,
+      "sha256": "6bcda3857c2504676034e3ea57762d38393cc734cb377a726bd5cb153961b1b5"
+    }
+  ],
+  "citation": "Sharafaldin, Lashkari and Ghorbani. Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization. ICISSP 2018."
+}

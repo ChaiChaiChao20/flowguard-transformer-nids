@@ -1,0 +1,36 @@
+test_extended_profile_temporal_and_shap (test_dashboard.DashboardTests.test_extended_profile_temporal_and_shap) ... 2026-10-05 23:18:27.462 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+C:\Users\arcab\Documents\Codex\tnids-env\Lib\site-packages\shap\plots\colors\_colors.py:47: PendingDeprecationWarning: The set_bad function will be deprecated in a future version. Use cmap.with_extremes(bad=...) or Colormap(bad=...) instead.
+  red_blue.set_bad(gray_rgb.tolist(), 1.0)
+C:\Users\arcab\Documents\Codex\tnids-env\Lib\site-packages\shap\plots\colors\_colors.py:48: PendingDeprecationWarning: The set_over function will be deprecated in a future version. Use cmap.with_extremes(over=...) or Colormap(over=...) instead.
+  red_blue.set_over(gray_rgb.tolist(), 1.0)
+C:\Users\arcab\Documents\Codex\tnids-env\Lib\site-packages\shap\plots\colors\_colors.py:49: PendingDeprecationWarning: The set_under function will be deprecated in a future version. Use cmap.with_extremes(under=...) or Colormap(under=...) instead.
+  red_blue.set_under(gray_rgb.tolist(), 1.0)  # "under" is incorrectly used instead of "bad" in the scatter plot
+ok
+test_sample_classification_and_sensitivity (test_dashboard.DashboardTests.test_sample_classification_and_sensitivity) ... 2026-10-05 23:18:34.835 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_all_advanced_saved_predictions_match_fresh_inference (test_extensions.ExtensionTests.test_all_advanced_saved_predictions_match_fresh_inference) ... ok
+test_bidirectional_flow_and_timeout (test_extensions.ExtensionTests.test_bidirectional_flow_and_timeout) ... WARNING: No libpcap provider available ! pcap won't be used
+ok
+test_context_preprocessor_training_medians (test_extensions.ExtensionTests.test_context_preprocessor_training_medians) ... ok
+test_drift_loss_increase (test_extensions.ExtensionTests.test_drift_loss_increase) ... ok
+test_extended_vector_splits_and_classifier_parity (test_extensions.ExtensionTests.test_extended_vector_splits_and_classifier_parity) ... ok
+test_fedavg_weighted_by_samples (test_extensions.ExtensionTests.test_fedavg_weighted_by_samples) ... ok
+test_graph_edges_change_prediction (test_extensions.ExtensionTests.test_graph_edges_change_prediction) ... ok
+test_packet_and_flow_memory_bounds (test_extensions.ExtensionTests.test_packet_and_flow_memory_bounds) ... ok
+test_patch_and_category_models (test_extensions.ExtensionTests.test_patch_and_category_models) ... ok
+test_temporal_last_flow_depends_on_history (test_extensions.ExtensionTests.test_temporal_last_flow_depends_on_history) ... ok
+test_temporal_split_windows_have_no_shared_members (test_extensions.ExtensionTests.test_temporal_split_windows_have_no_shared_members) ... ok
+test_fresh_loading_and_inference_matches_evaluation (test_project.ArtifactParityTests.test_fresh_loading_and_inference_matches_evaluation) ... ok
+test_occlusion_explanation_is_finite (test_project.ArtifactParityTests.test_occlusion_explanation_is_finite) ... ok
+test_no_feature_hash_overlap_or_conflicting_labels (test_project.DataIntegrityTests.test_no_feature_hash_overlap_or_conflicting_labels) ... ok
+test_preprocessor_is_fit_only_on_training_medians (test_project.DataIntegrityTests.test_preprocessor_is_fit_only_on_training_medians) ... ok
+test_imputer_does_not_refit_on_new_inputs (test_project.InputContractTests.test_imputer_does_not_refit_on_new_inputs) ... ok
+test_missing_column_rejected (test_project.InputContractTests.test_missing_column_rejected) ... ok
+test_models_output_all_classes (test_project.InputContractTests.test_models_output_all_classes) ... ok
+test_reorders_columns_and_ignores_label (test_project.InputContractTests.test_reorders_columns_and_ignores_label) ... ok
+test_string_and_all_missing_row_rejected (test_project.InputContractTests.test_string_and_all_missing_row_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 24.443s
+
+OK

@@ -1,0 +1,131 @@
+{
+  "seed": 42,
+  "original_rows": 2130459,
+  "original_labels": {
+    "BENIGN": 1574993,
+    "DDoS": 128027,
+    "PortScan": 158930,
+    "Bot": 1966,
+    "Infiltration": 36,
+    "FTP-Patator": 7938,
+    "SSH-Patator": 5897,
+    "DoS slowloris": 5796,
+    "DoS Slowhttptest": 5499,
+    "DoS Hulk": 231073,
+    "DoS GoldenEye": 10293,
+    "Heartbleed": 11
+  },
+  "excluded_unsupported_rows": 11,
+  "duplicate_feature_rows": 656242,
+  "conflicting_feature_hashes_removed": 1266,
+  "unique_supported_counts_before_conflict_removal": {
+    "Benign": 1142234,
+    "DDoS": 127995,
+    "Port Scan": 1920,
+    "Botnet": 1229,
+    "Infiltration": 34,
+    "Brute Force": 8935,
+    "DoS": 191859
+  },
+  "selected_conflicting_vectors_removed": 112,
+  "missing_or_nonfinite_feature_cells": 4590,
+  "infinite_feature_cells": 3316,
+  "sample_counts": {
+    "Benign": 2998,
+    "DoS": 2000,
+    "DDoS": 2000,
+    "Botnet": 1229,
+    "Port Scan": 1812,
+    "Brute Force": 1998,
+    "Infiltration": 34
+  },
+  "splits": {
+    "train": {
+      "Benign": 2098,
+      "DoS": 1400,
+      "DDoS": 1400,
+      "Botnet": 860,
+      "Port Scan": 1268,
+      "Brute Force": 1399,
+      "Infiltration": 24
+    },
+    "validation": {
+      "Benign": 450,
+      "DoS": 300,
+      "DDoS": 300,
+      "Botnet": 184,
+      "Port Scan": 272,
+      "Brute Force": 300,
+      "Infiltration": 5
+    },
+    "test": {
+      "Benign": 450,
+      "DoS": 300,
+      "DDoS": 300,
+      "Botnet": 185,
+      "Port Scan": 272,
+      "Brute Force": 299,
+      "Infiltration": 5
+    }
+  },
+  "features": [
+    "Flow Duration",
+    "Total Fwd Packets",
+    "Total Backward Packets",
+    "Total Length of Fwd Packets",
+    "Total Length of Bwd Packets",
+    "Fwd Packet Length Max",
+    "Fwd Packet Length Mean",
+    "Fwd Packet Length Std",
+    "Bwd Packet Length Max",
+    "Bwd Packet Length Mean",
+    "Bwd Packet Length Std",
+    "Flow Bytes/s",
+    "Flow Packets/s",
+    "Flow IAT Mean",
+    "Flow IAT Std",
+    "Flow IAT Max",
+    "Fwd IAT Mean",
+    "Bwd IAT Mean",
+    "FIN Flag Count",
+    "SYN Flag Count",
+    "RST Flag Count",
+    "PSH Flag Count",
+    "ACK Flag Count",
+    "Average Packet Size"
+  ],
+  "classes": [
+    "Benign",
+    "DoS",
+    "DDoS",
+    "Botnet",
+    "Port Scan",
+    "Brute Force",
+    "Infiltration"
+  ],
+  "label_map": {
+    "BENIGN": "Benign",
+    "Benign": "Benign",
+    "DoS Hulk": "DoS",
+    "DoS GoldenEye": "DoS",
+    "DoS slowloris": "DoS",
+    "DoS Slowhttptest": "DoS",
+    "DoS": "DoS",
+    "DDoS": "DDoS",
+    "Bot": "Botnet",
+    "Botnet": "Botnet",
+    "PortScan": "Port Scan",
+    "Port Scan": "Port Scan",
+    "FTP-Patator": "Brute Force",
+    "SSH-Patator": "Brute Force",
+    "Infiltration": "Infiltration"
+  },
+  "split_strategy": "70/15/15 stratified random over unique selected-feature vectors, seed 42 by default",
+  "sampling": "Uniform bottom-k random-priority sampling within class after selected-feature deduplication; conflicts subsequently removed",
+  "limitations": [
+    "Public mirror not independently byte-verified against original files",
+    "Random split does not isolate sessions, devices or attack campaigns",
+    "No temporal metadata in selected CSV inputs; no chronological generalization claim",
+    "Class caps change prevalence; reported false-positive rate is on sampled benign flows"
+  ]
+}

@@ -1,0 +1,25 @@
+feature,shap_value
+Flow Duration,0.04650406180101806
+Total Fwd Packets,0.022023518018135624
+Total Backward Packets,0.0
+Total Length of Fwd Packets,0.0
+Total Length of Bwd Packets,0.0
+Fwd Packet Length Max,0.11292401132223438
+Fwd Packet Length Mean,0.09920073742603187
+Fwd Packet Length Std,0.0776184601900973
+Bwd Packet Length Max,0.07274923019227827
+Bwd Packet Length Mean,0.09978375280083478
+Bwd Packet Length Std,0.10772065553096026
+Flow Bytes/s,0.0
+Flow Packets/s,0.055753406617406194
+Flow IAT Mean,0.0
+Flow IAT Std,0.0
+Flow IAT Max,0.0
+Fwd IAT Mean,0.1051060004069938
+Bwd IAT Mean,0.0
+FIN Flag Count,0.0
+SYN Flag Count,0.0
+RST Flag Count,0.0
+PSH Flag Count,0.0
+ACK Flag Count,0.0
+Average Packet Size,0.0

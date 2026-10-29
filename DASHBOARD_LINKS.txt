@@ -1,0 +1,12 @@
+FlowGuard local dashboard links
+Updated: 29 October 2026
+
+Current local demo on the prepared computer:
+http://127.0.0.1:8502/
+
+Start or restart it from the project folder with OPEN_PROJECT.cmd.
+After SETUP_PROJECT.ps1 on a fresh extraction, the package uses the same
+port 8502. The server must be running while you open the link.
+
+This loopback address works only on the computer running FlowGuard. It is
+not a public website and cannot be opened from another computer.
